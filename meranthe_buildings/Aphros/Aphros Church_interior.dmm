@@ -1,0 +1,101 @@
+"a" = (/turf/void,/area)
+"b" = (/MapLimit,/turf/void,/area)
+"c" = (/obj/map/viewBlock,/turf/void,/area)
+"d" = (/turf/castle_int/roof/corner/br,/area)
+"e" = (/turf/castle_int/roof/bottom,/area)
+"f" = (/turf/castle_int/roof/corner/bl,/area)
+"g" = (/turf/castle_int/roof/right,/area)
+"h" = (/turf/village/wall_aphros/middle,/turf/jianghu_house/shadow{density = 1},/area)
+"i" = (/turf/village/wall_aphros/middle,/turf/jianghu_house/shadow{density = 1},/turf/village/aphros_extra/windowbig_2,/area)
+"j" = (/turf/castle_int/roof/left,/area)
+"k" = (/turf/village/wall_aphros/middle,/area)
+"l" = (/turf/village/wall_aphros/middle,/obj/map/cave_light,/turf/village/aphros_extra/windowbig_1,/area)
+"m" = (/turf/castle_int/roof/bottom_right,/area)
+"n" = (/turf/castle_int/roof/bottom_left,/area)
+"o" = (/turf/village/wall_aphros/bottom,/area)
+"p" = (/turf/village/wall_aphros/middle_right,/turf/jianghu_house/shadow{density = 1},/area)
+"q" = (/turf/village/wall_aphros/middle_left,/turf/jianghu_house/shadow{density = 1},/area)
+"r" = (/turf/castle_int/floor,/area)
+"s" = (/turf/village/wall_aphros/middle_right,/area)
+"t" = (/obj/map/shop_int/window,/obj/map/generic_light{alpha = 200; layer = 5; light_size = 2; name = "light_cyan_big"},/turf/village/wall_aphros/middle,/area)
+"u" = (/turf/village/wall_aphros/middle_left,/area)
+"v" = (/turf/village/wall_aphros/bottom_left,/area)
+"w" = (/turf/village/wall_aphros/bottom_right,/area)
+"x" = (/Building/Warper/Dynamic{dynamic_id = "Aphros Church_room1"},/turf/castle_int/floor,/area)
+"y" = (/turf/castle_int/roof/top_left,/area)
+"z" = (/turf/castle_int/roof/corner/tl,/area)
+"A" = (/turf/castle_int/roof/corner/tr,/area)
+"B" = (/turf/castle_int/roof/top,/area)
+"C" = (/turf/castle_int/floor,/turf/village/road_brown/bottom,/turf/city/railing/bottom,/area)
+"D" = (/turf/castle_int/floor,/turf/village/road_brown/t_l,/turf/city/railing/top/right/one,/area)
+"E" = (/turf/castle_int/floor,/turf/village/road_brown/t_r,/turf/city/railing/top/left/one,/area)
+"F" = (/turf/castle_int/floor,/turf/village/road_brown/bottom_left,/turf/city/railing/bottom/left,/area)
+"G" = (/turf/castle_int/floor,/turf/city/railing/top/right/one,/area)
+"H" = (/turf/castle_int/floor,/turf/city/railing/top/left/one,/area)
+"I" = (/turf/castle_int/floor,/turf/village/road_brown/bottom_right,/turf/city/railing/bottom/right,/area)
+"J" = (/turf/city/stairs,/turf/city/railing/left,/area)
+"K" = (/turf/city/stairs,/area)
+"L" = (/turf/city/stairs,/turf/city/railing/right,/area)
+"M" = (/Building/Warper/Dynamic{dynamic_id = "Aphros Church_room2"},/turf/castle_int/floor,/area)
+"N" = (/turf/castle_int/roof/top_right,/area)
+"O" = (/BuildingDetails{building_category = "Aphros"; building_cost = 50000; building_desc = "A Church building."; building_guild = "Aphros"; building_interior = 1; building_name = "Aphros Church"; building_rent = 100; building_rent_upfront = 3000},/turf/castle_int/floor,/area)
+"P" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_right,/area)
+"Q" = (/Building/Warper/Interior,/turf/castle_int/floor,/area)
+"R" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_left,/area)
+"S" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tr,/area)
+"T" = (/obj/map/DenseMarker,/turf/castle_int/roof/top,/area)
+"U" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tl,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaccccccccccccccccccc
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacdeeeeeeeeeeeeeefac
+cccccccccccccccccccccccccccccccccghhihhhhhhhhihhjac
+caaaaaaaaaadeeeeeeeeefaaaaaaaaaacgkklkkkkkkkklkkjac
+caaaaaaadeemhhhhhhhhhneefaaaaaaacgoooooooooooooojac
+caaaadeemhhpkkkkkkkkkqhhneefaaaacgrrrrrrrrrrrrrrjac
+caademhhpkkskkkktkkkkukkqhhnefaacgrrrrrrrrrrrrrrnfc
+cadmhpkkskkskktkkktkkukkukkqhnfacgrrrrrrrrrrrrrrqjc
+cagpkskkskkskkkkkkkkkukkukkukqjacgrrrrrrrrrrrrrrujc
+cagskskkskkskkkkkkkkkukkukkukujacgrrrrrrrrrrrrrrvjc
+cagwowoowoowooooooooovoovoovovjacgrrrrrrrrrrrrrrxjc
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacgrrrrrrrrrrrrrryzc
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacgrrrrrrrrrrrrrrjac
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacgrrrrrrrrrrrrrrjac
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacgrrrrrrrrrrrrrrjac
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacgrrrrrrrrrrrrrrjac
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacABBBBBBBBBBBBBBzac
+cagCCCCCCCCDrrrrrrrrrECCCCCCCCjacaaaaaaaaaaaaaaaaac
+cagooooooooFCGrrrrrHCIoooooooojacaaaaaaaaaaaaaaaaac
+cagrrrrrrrrvoJKKKKKLowrrrrrrrrjaccccccccccccccccccc
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacaaaaaaaaaaaaaaaaac
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacadeeeeeeeeeeeeeefc
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacaghhihhhhhhhhihhjc
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacagkklkkkkkkkklkkjc
+cdmrrrrrrrrrrrrrrrrrrrrrrrrrrrnfcagoooooooooooooojc
+cgprrrrrrrrrrrrrrrrrrrrrrrrrrrqjcagrrrrrrrrrrrrrrjc
+cgsrrrrrrrrrrrrrrrrrrrrrrrrrrrujcdmrrrrrrrrrrrrrrjc
+cgwrrrrrrrrrrrrrrrrrrrrrrrrrrrvjcgprrrrrrrrrrrrrrjc
+cgxrrrrrrrrrrrrrrrrrrrrrrrrrrrMjcgsrrrrrrrrrrrrrrjc
+cANrrrrrrrrrrrrrrrrrrrrrrrrrrryzcgwrrrrrrrrrrrrrrjc
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacgMrrrrrrrrrrrrrrjc
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacANrrrrrrrrrrrrrrjc
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacagrrrrrrrrrrrrrrjc
+cagrrrrrrrrrrrrrOrrrrrrrrrrrrrjacagrrrrrrrrrrrrrrjc
+cagrrrrrrrrrrrrrrrrrrrrrrrrrrrjacagrrrrrrrrrrrrrrjc
+caABBBBBBBBBBBBPQRBBBBBBBBBBBBzacagrrrrrrrrrrrrrrjc
+caaaaaaaaaaaaaaSTUaaaaaaaaaaaaaacaABBBBBBBBBBBBBBzc
+caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacaaaaaaaaaaaaaaaaac
+caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacaaaaaaaaaaaaaaaaac
+ccccccccccccccccccccccccccccccccccccccccccccccccccc
+"}

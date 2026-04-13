@@ -1,0 +1,46 @@
+"a" = (/turf/void,/area)
+"b" = (/turf,/area)
+"c" = (/turf/inn/roof/top_left,/area)
+"d" = (/turf/inn/roof/top,/area)
+"e" = (/turf/inn/roof/top_right,/area)
+"f" = (/SmallPreview/End,/turf,/area)
+"g" = (/turf/inn/roof/left,/area)
+"h" = (/turf/inn/roof/middle,/area)
+"i" = (/turf/inn/roof/right,/area)
+"j" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/roof/top_right,/area)
+"k" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/roof/right,/area)
+"l" = (/obj/ColiseumSilver/Coliseum/front/three{color = "#bd9770"},/turf/inn/roof/left,/area)
+"m" = (/obj/ColiseumSilver/Coliseum/front/three{color = "#bd9770"},/turf/inn/roof/middle,/area)
+"n" = (/obj/ColiseumSilver/Coliseum/front/three{color = "#bd9770"},/turf/inn/roof/right,/area)
+"o" = (/turf/village/wall_vdalion/bottom_left,/area)
+"p" = (/turf/village/wall_vdalion/bottom,/area)
+"q" = (/turf/village/wall_vdalion/bottom_right,/area)
+"r" = (/obj/ColiseumSilver/Coliseum/front/three{color = "#bd9770"},/obj/ColiseumSilver/Coliseum/front/three{color = "#bd9770"; pixel_x = 6},/turf/inn/roof/middle,/area)
+"s" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "top"},/turf/inn/roof/middle,/area)
+"t" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "top"},/turf/inn/roof/right,/area)
+"u" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_4,/area)
+"v" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+"w" = (/BuildingDetails{building_category = "Vdalion"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = "Vdalion"; building_name = "V-Small House H"; building_settlement_only = 1},/turf/village/wall_vdalion/bottom,/area)
+"x" = (/turf/village/wall_vdalion/foundation_left,/area)
+"y" = (/turf/village/wall_vdalion/foundation_middle,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"z" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/area)
+"A" = (/SmallPreview/Start,/turf,/area)
+"B" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"C" = (/turf/village/wall_vdalion/foundation_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"D" = (/MapLimit,/turf/void,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaD
+aaabbbcddddefaaaa
+aaacddghhhhijaaaa
+aaaghhghhhhikaaaa
+aaaghhlmmmmnkaaaa
+aaaghhoppppqkaaaa
+aaalmrsssssstaaaa
+aaaouplmmmmmnaaaa
+aaaovpoupwpuqaaaa
+aaaxyyovpzpvqaaaa
+aaaAbbxyyByyCaaaa
+aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaa
+"}

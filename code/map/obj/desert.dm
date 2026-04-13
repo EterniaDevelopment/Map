@@ -1,0 +1,57 @@
+obj
+	map
+		desert
+			palm_tree
+				icon = 'icons/map/obj/desert/palm tree.dmi'
+				icon_state = "bottom"
+				density = 1
+				New()
+					..()
+					IMAGECHECK(icon)
+					overlays += image(icon,src,"top",OVER_LAYER,pixel_y=32)
+			rock
+				rock_1
+					icon='icons/map/obj/desert/rock_1.dmi'
+					icon_state="rock"
+					density=1
+				rock_2
+					icon='icons/map/obj/desert/rock_2.dmi'
+					icon_state="rock"
+					density=1
+				rock_3
+					icon='icons/map/obj/desert/rock_3.dmi'
+					icon_state="rock"
+					density=1
+					New()
+						..()
+						IMAGECHECK(icon)
+						var/image/O=image(icon,src,"top",OVER_LAYER)
+						var/image/S=image(icon,src,"f",SHADOW_LAYER)
+						overlays+=O
+						underlays+=S
+			crater
+				layer=TURF_LAYER
+				icon='icons/map/obj/desert/crater.png'
+			crater2
+				layer=TURF_LAYER
+				icon='icons/map/obj/desert/crater2.dmi'
+			cactus
+				cactus_1
+					icon='icons/map/obj/desert/cactus_1.dmi'
+					icon_state="cactus"
+					density=1
+					pixel_x=-4
+				cactus_2
+					icon='icons/map/obj/desert/cactus_2.dmi'
+					icon_state="cactus"
+					density=1
+					New()
+						..()
+						icon_state="bottom"
+						IMAGECHECK(icon)
+						var/image/I=image(icon,src,"top",OVER_LAYER)
+						overlays+=I
+				peyote
+					icon='icons/map/obj/desert/peyote.dmi'
+					icon_state="peyote"
+					density=1

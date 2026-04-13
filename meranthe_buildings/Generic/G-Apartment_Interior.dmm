@@ -1,0 +1,51 @@
+"a" = (/turf/void,/area)
+"b" = (/turf/house/roof/corner/br,/area)
+"c" = (/turf/house/roof/bottom,/area)
+"d" = (/turf/house/roof/corner/bl,/area)
+"e" = (/MapLimit,/turf/void,/area)
+"f" = (/turf/house/roof/bottom_right,/area)
+"g" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop/wall/bottom/middle,/area)
+"h" = (/turf/shop/wall/bottom/middle,/area)
+"i" = (/turf/shop/wall/bottom/middle,/obj/map/cave_light,/turf/village/delphinia_extra/windowbig_1,/area)
+"j" = (/turf/house/roof/bottom_left,/area)
+"k" = (/turf/house/roof/right,/area)
+"l" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop/wall/middle/right,/area)
+"m" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop_int/wall/middle/middle,/area)
+"n" = (/turf/shop_int/wall/middle/middle,/area)
+"o" = (/turf/shop/wall/middle/left,/area)
+"p" = (/turf/house/roof/left,/area)
+"q" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop_int/wall/bottom/middle,/area)
+"r" = (/turf/shop_int/wall/bottom/middle,/area)
+"s" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf/shop_int/floor,/area)
+"t" = (/turf/shop_int/floor,/area)
+"u" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop_int/floor,/area)
+"v" = (/BuildingDetails{building_category = "Public"; building_cost = 50000; building_desc = "An apartment complex."; building_guild = ""; building_interior = 1; building_name = "G-Apartment"; building_settlement_only = 1},/turf/shop_int/floor,/area)
+"w" = (/turf/house/roof/corner/tr,/area)
+"x" = (/turf/house/roof/top,/area)
+"y" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"z" = (/turf/shop_int/floor,/turf/shop_int/stairs/bottom_left{transform = matrix(1,0,0,0,-1,0)},/area)
+"A" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"B" = (/turf/house/roof/corner/tl,/area)
+"C" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"D" = (/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"E" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"F" = (/Building/Warper/Interior,/turf/shop_int/stairs/bottom{transform = matrix(1,0,0,0,-1,0)},/area)
+"G" = (/turf/shop_int/floor,/turf/shop_int/stairs/bottom_right{transform = matrix(1,0,0,0,-1,0)},/area)
+
+(1,1,1) = {"
+abcccccccccccde
+bfghihhhhhihhjd
+klmnnnnnnnnnnop
+klqrrrrrrrrrrop
+klsttttttttttop
+kuttttttttttttp
+kuttttttttttttp
+kuttttttttttttp
+kuttttttttttttp
+kuttttttttttttp
+kuttttttttttttp
+kutttttvttttttp
+kuttttttttttttp
+wxxxxyzFGAxxxxB
+aaaaaCDDDEaaaaa
+"}

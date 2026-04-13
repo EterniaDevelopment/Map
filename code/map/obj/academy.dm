@@ -1,0 +1,77 @@
+obj
+	map
+		academy
+			window
+				window_1/icon='icons/map/obj/academy/window_1.dmi'
+				window_2/icon='icons/map/obj/academy/window_2.dmi'
+			banner/icon='icons/map/obj/academy/banner.dmi'
+
+			phoenix_statue
+				layer = 3
+				density=1
+				pixel_x=-14
+				pixel_y=-1
+				icon = 'icons/map/obj/village/statue_phoenix.dmi'
+				special_description = "This is a statue of a mythical bird known as a phoenix, which represents the hope and pride Valmasia has for its budding youth."
+				New()
+					..()
+					IMAGECHECK(icon)
+					var/image/I=image(icon,src,"top",OVER_LAYER)
+					overlays+=I
+		academy_int
+			desk
+				icon='icons/map/obj/academy/desk.dmi'
+				density=1
+				left/icon_state="left"
+				middle/icon_state="middle"
+				right/icon_state="right"
+				desk/icon_state="desk"
+			paper/icon='icons/map/obj/academy/paper.dmi'
+			blackboard
+				icon='icons/map/obj/academy/blackboard.dmi'
+				top_left/icon_state="top_left"
+				top/icon_state="top"
+				top_right/icon_state="top_right"
+				bottom_left/icon_state="bottom_left"
+				bottom/icon_state="bottom"
+				bottom_right/icon_state="bottom_right"
+			clock
+				icon='icons/map/obj/academy/clock.dmi'
+				icon_state="clock"
+				density=1
+				New()
+					..()
+					IMAGECHECK(icon)
+					var/image/I=image(icon,src,"top",OVER_LAYER)
+					I.pixel_y=32
+					overlays+=I
+			door
+				icon='icons/map/turf/academy/door.dmi'
+				density=1
+				bottom_right/icon_state="bottom_right"
+				bottom_left/icon_state="bottom_left"
+				top_left/icon_state="top_left"
+				top_right/icon_state="top_right"
+				close
+					left_top/icon_state="close_left_top"
+					right_top/icon_state="close_right_top"
+				open
+					left_top/icon_state="open_left_top"
+					right_top/icon_state="open_right_top"
+			stairs
+				icon='icons/map/turf/castle_int/stairs.dmi'
+				top_left/icon_state="top_left"
+				top/icon_state="top"
+				top_right/icon_state="top_right"
+				bottom_left/icon_state="bottom_left"
+				bottom/icon_state="bottom"
+				bottom_right/icon_state="bottom_right"
+
+			stairs_b
+				icon='icons/map/turf/castle_int/stairs_b.dmi'
+				top_left/icon_state="top_left"
+				top/icon_state="top"
+				top_right/icon_state="top_right"
+				bottom_left/icon_state="bottom_left"
+				bottom/icon_state="bottom"
+				bottom_right/icon_state="bottom_right"

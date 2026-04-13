@@ -1,0 +1,49 @@
+"a" = (/turf/void,/area)
+"b" = (/MapLimit,/turf/void,/area)
+"c" = (/obj/map/viewBlock,/turf/void,/area)
+"d" = (/turf/cave_ice/roof/corner/br,/area)
+"e" = (/turf/cave_ice/roof/bottom,/area)
+"f" = (/turf/cave_ice/roof/corner/bl,/area)
+"g" = (/turf/cave_ice/roof/bottom_right,/area)
+"h" = (/turf/cave_ice/wall/middle/middle,/area)
+"i" = (/turf/cave_ice/roof/bottom_left,/area)
+"j" = (/turf/cave_ice/roof/right,/area)
+"k" = (/turf/cave_ice/wall/middle/right,/area)
+"l" = (/turf/cave_ice/wall/bottom/middle,/area)
+"m" = (/turf/cave_ice/wall/middle/left,/area)
+"n" = (/turf/cave_ice/roof/left,/area)
+"o" = (/turf/cave_ice/wall/bottom/right,/area)
+"p" = (/turf/cave_ice/floor,/area)
+"q" = (/turf/cave_ice/wall/bottom/left,/area)
+"r" = (/BuildingDetails{building_category = "Public"; building_cost = 5000; building_desc = "An Igloo"; building_guild = ""; building_interior = 1; building_name = "Igloo"; layer = 10},/turf/cave_ice/floor,/area)
+"s" = (/turf/cave_ice/roof/corner/tr,/area)
+"t" = (/turf/cave_ice/floor,/turf/cave_ice/roof/top_right,/area)
+"u" = (/turf/cave_ice/floor,/turf/cave_ice/roof/top_left,/area)
+"v" = (/turf/cave_ice/roof/corner/tl,/area)
+"w" = (/turf/cave_ice/roof/top,/area)
+"x" = (/Building/Warper/Interior,/turf/cave_ice/floor,/area)
+"y" = (/obj/map/cave_light,/turf/cave_ice/roof/top,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+cccccccccccccccaaaaaa
+cadeeeeeeeeefacaaaaaa
+cdghhhhhhhhhifcaaaaaa
+cjklllllllllmncaaaaaa
+cjopppppppppqncaaaaaa
+cjpppppppppppncaaaaaa
+cjpppppppppppncaaaaaa
+cjpppppppppppncaaaaaa
+cjpppppppppppncaaaaaa
+cjppppprpppppncaaaaaa
+cstpppppppppuvcaaaaaa
+caawwwtxuwwwaacaaaaaa
+caaaaasyvaaaaacaaaaaa
+cccccccccccccccaaaaaa
+"}

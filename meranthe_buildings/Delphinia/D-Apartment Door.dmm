@@ -1,0 +1,10 @@
+"a" = (/BuildingDetails{building_category = "Delphina"; building_cost = 5000; building_desc = "An apartment room."; building_guild = "Delphina"; building_interior = 0; building_name = "D-Apartment Door"; building_settlement_only = 1},/SmallPreview/End,/turf/village/vdalion_extra/door_top,/area)
+"b" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/area)
+"c" = (/turf,/area)
+"d" = (/MapLimit,/turf,/area)
+
+(1,1,1) = {"
+ccd
+cac
+cbc
+"}

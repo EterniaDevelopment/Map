@@ -1,0 +1,45 @@
+* For usage of /Lots and their related systems see e3_mapping_guide.txt *
+
+
+
+-- Creating a Building Template ---
+
+- Maps for building exteriors can be any size, any empty space around the building will be classified as "yard" space, and is included as part of the buildable space for that     exterior.
+
+- Maps for building interiors must fall into specific sizes as defined by the /InteriorCell objects. These sizes are: 11x11, 15x15, 21x21, 25x25, 31x31, 41x41, 51x51, and   101x101. It is VERY IMPORTANT that you use the size that best fits your interior, wasted space leads to the interior taking up cells for a larger type than it should.
+
+- All maps must include a /MapDetails object, this object contains all of the various information about the map. It can be placed anywhere on the map. The interior's version   must have "interior" set to 1. (See _map_saving.dm for variables)
+
+- All maps must include a /MapLimit object, and this object must be placed on the top-right-most tile on the map.
+
+- Exterior maps should include /SmallPreview objects placed in the corners of where the "yardless" preview of the building should be clipped.
+	If not included, 1,1 and the coordinates of /MapLimit will be used.
+
+- View blockers on interiors only need to be placed if the interior has multiple rooms, to block those rooms from each other. The interior cells are surrounded by their own     view blockers.
+
+- Warpers for the interior/exterior door don't need any extra editing, simply place them on the appropriate tile on the appropriate map.
+  Dynamic warpers should be placed in pairs with mathcing "dynamic_id" values.
+
+- Once your maps are ready to go, include them by clicking the checkbox next to their name in the file list in Dream Maker.
+  It's best to only include the maps you're working with, generating too many at once can lead to failures.
+  Once included select "Compile" from the "Build" menu and wait for it to finish.
+  Select "Run" from the "Build" menu, this should start up a Dream Seeker instance with your maps loaded.
+  Click the "Saves Map" command on the right of the map.
+  Wait for the process to complete, any errors will be shown.
+  If successful you'll have new files in a directory called "construction/templates/[name]", these are the completed template and should include the following:
+	exterior.json *required*
+	preview.png *required*
+	preview_small.png *required*
+	(If the building isn't "interiorless")
+		interior.json
+		preview_interior.png
+	(And if tiles have special turf appearances)
+		appearances_exterior.sav
+		appearances_interior.sav
+
+ If you see any of these files fail to generate when they should have, check for errors in the output, if no errors are shown, ask Nadrew.	
+ The entire directory for your template is what you'd zip up and send to Chance for usage in the game.
+
+
+** REMINDER DO NOT WASTE INTERIOR SPACE; THERE ARE ONLY SO MANY CELLS OF EACH SIZE -- DON'T TAKE UP BIGGER CELLS THAN YOU NEED **
+** /obj/generic_shadow is not currently supported, it will be ignored by the template, this is due to the need to store color/transform values for it to work**

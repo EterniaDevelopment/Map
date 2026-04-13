@@ -1,0 +1,110 @@
+"aa" = (/MapLimit,/turf/void,/area)
+"ab" = (/obj/map/viewBlock,/turf/void,/area)
+"ac" = (/turf/void,/area)
+"ad" = (/turf/castle_int/roof/corner/br,/area)
+"ae" = (/turf/castle_int/roof/bottom,/area)
+"af" = (/turf/castle_int/roof/corner/bl,/area)
+"ag" = (/turf/castle_int/roof/right,/area)
+"ah" = (/turf/village/wall_aphros/middle,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"ai" = (/turf/village/wall_aphros/middle,/turf/jianghu_house/shadow{density = 1},/area)
+"aj" = (/turf/village/wall_aphros/middle,/turf/jianghu_house/shadow{density = 1},/turf/village/aphros_extra/windowbig_2,/area)
+"ak" = (/turf/castle_int/roof/left,/area)
+"al" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/middle,/area)
+"am" = (/turf/village/wall_aphros/middle,/area)
+"an" = (/turf/village/wall_aphros/middle,/obj/map/cave_light,/turf/village/aphros_extra/windowbig_1,/area)
+"ao" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ap" = (/turf/village/wall_aphros/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aq" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"ar" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"as" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"at" = (/turf/inn/floor,/area)
+"au" = (/turf/castle_int/roof/bottom_right,/area)
+"av" = (/turf/village/wall_aphros/middle_right,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"aw" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/middle_right,/area)
+"ax" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/bottom_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ay" = (/obj/map/cave_light,/turf/castle_int/roof/right,/area)
+"az" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "aphrosF_room3"},/turf/inn/floor,/area)
+"aA" = (/turf/castle_int/roof/corner/tr,/area)
+"aB" = (/turf/castle_int/roof/top_right,/area)
+"aC" = (/turf/castle_int/roof/top,/area)
+"aD" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_right,/area)
+"aE" = (/Building/Warper/Dynamic{dynamic_id = "aphrosF_room1"},/turf/inn/floor,/area)
+"aF" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_left,/area)
+"aG" = (/turf/castle_int/roof/corner/tl,/area)
+"aH" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tr,/area)
+"aI" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/castle_int/roof/top,/area)
+"aJ" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tl,/area)
+"aK" = (/obj/map/DenseMarker,/turf/castle_int/roof/bottom,/area)
+"aL" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/castle_int/roof/bottom,/area)
+"aM" = (/turf/castle_int/roof/bottom_left,/area)
+"aN" = (/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"aO" = (/Building/Warper/Dynamic{dynamic_id = "aphrosF_room1"},/turf/shop_int/stairs/middle,/area)
+"aP" = (/turf/village/wall_aphros/middle_left,/turf/jianghu_house/shadow{density = 1},/area)
+"aQ" = (/turf/village/wall_aphros/middle_right,/turf/jianghu_house/shadow{density = 1},/area)
+"aR" = (/turf/shop_int/stairs/middle,/area)
+"aS" = (/turf/village/wall_aphros/middle_left,/area)
+"aT" = (/turf/village/wall_aphros/middle_right,/area)
+"aU" = (/turf/village/wall_aphros/bottom_left,/area)
+"aV" = (/turf/village/wall_aphros/bottom_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aW" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aX" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "aphrosF_room2"},/turf/inn/floor,/area)
+"aY" = (/Building/Warper/Dynamic{dynamic_id = "aphrosF_room3"},/turf/inn/floor,/area)
+"aZ" = (/obj/map/cave_light,/turf/castle_int/roof/left,/area)
+"ba" = (/Building/Warper/Dynamic{dynamic_id = "aphrosF_room2"},/turf/inn/floor,/area)
+"bb" = (/turf/castle_int/roof/top_left,/area)
+"bc" = (/BuildingDetails{building_category = "Aphros"; building_cost = 50000; building_desc = "A modest building with 3 rooms."; building_guild = "Aphros"; building_interior = 1; building_name = "A-Medium House A"; building_settlement_only = 1},/turf/inn/floor,/area)
+"bd" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+
+(1,1,1) = {"
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacaa
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+abababababababababababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+abacacacacacacacacacacacacacacacacacacacabababababababababababababababababababababacacacacacacacacacac
+abacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafacabacacacacacacacacacacacacacacacacacacacabacacacacacacacacacac
+abacagahaiajaiaiaiaiaiaiaiaiaiajaiaiakacabacacadaeaeaeaeaeaeaeaeaeaeaeaeaeafacacabacacacacacacacacacac
+abacagalamanamamamamamamamamamanamamakacabacacagahaiajaiaiaiaiaiaiaiajaiaiakacacabacacacacacacacacacac
+abacagaoapapapapapapapapapapapapapapakacabacacagalamanamamamamamamamanamamakacacabacacacacacacacacacac
+abacagaqararararararararararararararakacabacacagaoapapapapapapapapapapapapakacacabacacacacacacacacacac
+abacagasatatatatatatatatatatatatatatakacabacacagaqararararararararararararakacacabacacacacacacacacacac
+abadauasatatatatatatatatatatatatatatakacabacacagasatatatatatatatatatatatatakacacabacacacacacacacacacac
+abagavasatatatatatatatatatatatatatatakacabacacagasatatatatatatatatatatatatakacacabacacacacacacacacacac
+abagawasatatatatatatatatatatatatatatakacabacacagasatatatatatatatatatatatatakacacabacacacacacacacacacac
+abagaxasatatatatatatatatatatatatatatakacabacacagasatatatatatatatatatatatatakacacabacacacacacacacacacac
+abayazasatatatatatatatatatatatatatatakacabacacagasatatatatatatatatatatatatakacacabacacacacacacacacacac
+abaAaBasatatatatatatatatatatatatatatakacabacacagasatatatatatatatatatatatatakacacabacacacacacacacacacac
+abacagasatatatatatatatatatatatatatatakacabacacagasatatatatatatatatatatatatakacacabacacacacacacacacacac
+abacagasatatatatatatatatatatatatatatakacabacacagasatatatatatatatatatatatatakacacabacacacacacacacacacac
+abacagasatatatatatatatatatatatatatatakacabacacaAaCaCaCaCaCaDaEaFaCaCaCaCaCaGacacabacacacacacacacacacac
+abacagasatatatatatatatatatatatatatatakacabacacacacacacacacaHaIaJacacacacacacacacabacacacacacacacacacac
+abacaAaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaGacabacacacacacacacacacacacacacacacacacacacabacacacacacacacacacac
+abacacacacacacacacacacacacacacacacacacacabababababababababababababababababababababacacacacacacacacacac
+abacacacacacacacacacacacacacacacacacacacabacacacacacacacacacacacacacacacacacacacabacacacacacacacacacac
+abababababababababababababababababababababacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafacabacacacacacacacacacac
+abacacacacacacacacacacacacacacacacacacacabacagahaiajaiaiaiaiaiaiaiaiaiajaiaiakacabacacacacacacacacacac
+abacadaeaeaeaeafadaKaLaKafadaeaeaeaeafacabacagalamanamamamamamamamamamanamamakacabacacacacacacacacacac
+abacagahajaiaiaMauaNaOaNaMauahaiajaiakacabacagaoapapapapapapapapapapapapapapakacabacacacacacacacacacac
+abacagalanamamaPaQaRaRaRaPaQalamanamakacabacagaqararararararararararararararakacabacacacacacacacacacac
+abacagaoapapapaSaTaRaRaRaSaTaoapapapakacabacagasatatatatatatatatatatatatatatakacabacacacacacacacacacac
+abadauaqarararaUaVaRaRaRaUaVaWarararaMafabacagasatatatatatatatatatatatatatataMafabacacacacacacacacacac
+abagavasatatatatatatatatatatatatatataPakabacagasatatatatatatatatatatatatatataPakabacacacacacacacacacac
+abagawasatatatatatatatatatatatatatataSakabacagasatatatatatatatatatatatatatataSakabacacacacacacacacacac
+abagaxasatatatatatatatatatatatatatataUakabacagasatatatatatatatatatatatatatataUakabacacacacacacacacacac
+abayaXasatatatatatatatatatatatatatataYaZabacagasatatatatatatatatatatatatatatbaaZabacacacacacacacacacac
+abaAaBasatatatatatatatatatatatatatatbbaGabacagasatatatatatatatatatatatatatatbbaGabacacacacacacacacacac
+abacagasatatatatatatatatatatatatatatakacabacagasatatatatatatatatatatatatatatakacabacacacacacacacacacac
+abacagasatatatatatatatatatatatatatatakacabacagasatatatatatatatatatatatatatatakacabacacacacacacacacacac
+abacagasatatatatatatbcatatatatatatatakacabacagasatatatatatatatatatatatatatatakacabacacacacacacacacacac
+abacagasatatatatatatatatatatatatatatakacabacagasatatatatatatatatatatatatatatakacabacacacacacacacacacac
+abacaAaCaCaCaCaCaCaDbdaFaCaCaCaCaCaCaGacabacaAaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaGacabacacacacacacacacacac
+abacacacacacacacacaHaIaJacacacacacacacacabacacacacacacacacacacacacacacacacacacacabacacacacacacacacacac
+abacacacacacacacacacacacacacacacacacacacabacacacacacacacacacacacacacacacacacacacabacacacacacacacacacac
+abababababababababababababababababababababababababababababababababababababababababacacacacacacacacacac
+"}

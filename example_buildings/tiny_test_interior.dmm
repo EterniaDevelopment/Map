@@ -1,0 +1,33 @@
+"a" = (/turf/jianghu_house_int/roof/top_left{density = 1},/area)
+"b" = (/turf/jianghu_house_int/roof/top{density = 1},/area)
+"c" = (/turf/jianghu_house_int/roof/top_right{density = 1},/area)
+"d" = (/turf/jianghu_house_int/roof/left,/area)
+"e" = (/turf/jianghu_house_int/woodfloor,/area)
+"f" = (/turf/jianghu_house_int/roof/right,/area)
+"g" = (/Building/Warper/Interior,/turf/jianghu_house_int/roof/bottom{density = 0},/area)
+"h" = (/turf/jianghu_house_int/roof/bottom_left,/area)
+"i" = (/turf/jianghu_house_int/roof/bottom,/area)
+"j" = (/turf/jianghu_house_int/roof/bottom_right,/area)
+"k" = (/turf/inn/wall/middle/left,/area)
+"l" = (/turf/inn/wall/middle/middle,/area)
+"m" = (/turf/inn/wall/middle/right,/area)
+"n" = (/turf/inn/wall/middle/door,/area)
+"o" = (/turf/inn/wall/bottom/left,/area)
+"p" = (/turf/inn/wall/bottom/middle,/area)
+"q" = (/turf/house/wooden_door,/area)
+"r" = (/turf/inn/wall/bottom/right,/area)
+"s" = (/BuildingDetails{building_category = "Small Buildings"; building_cost = 5000; building_desc = "A cozy little cottage."; building_interior = 1; building_name = "Cozy Cottage"},/turf/jianghu_house_int/woodfloor,/area)
+
+(1,1,1) = {"
+abbbbbbbbbc
+deeeeeeeeef
+deeeeeeeeef
+deeeeseeeef
+deeeeeeeeef
+deeeeeeeeef
+deeeeeeeeef
+hiiiigiiiij
+klllllllllm
+kllllnllllm
+oppppqppppr
+"}

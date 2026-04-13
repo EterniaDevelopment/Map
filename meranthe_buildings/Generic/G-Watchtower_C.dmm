@@ -1,0 +1,65 @@
+"a" = (/turf,/area)
+"b" = (/SmallPreview/End,/turf,/area)
+"c" = (/MapLimit,/turf,/area)
+"d" = (/turf/black_castle/roof/top_left,/area)
+"e" = (/turf/black_castle/roof/left/left,/area)
+"f" = (/turf/black_castle/roof/corner/tr,/area)
+"g" = (/turf/black_castle/roof/right/right,/area)
+"h" = (/turf/black_castle/floor,/area)
+"i" = (/turf/black_castle/wall/top/left,/area)
+"j" = (/turf/black_castle/wall/top/middle,/area)
+"k" = (/turf/black_castle/wall/top/right,/area)
+"l" = (/turf/black_castle/wall/middle/left,/area)
+"m" = (/turf/black_castle/wall/middle/middle,/area)
+"n" = (/turf/black_castle/wall/middle/right,/area)
+"o" = (/obj/map/black_tower/gate,/turf/black_castle/wall/bottom/middle,/area)
+"p" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room9"},/turf/black_castle/wall/bottom/middle,/area)
+"q" = (/turf/black_castle/roof/top,/area)
+"r" = (/turf/black_castle/roof/top_right,/area)
+"s" = (/turf/black_castle/roof/corner/tl,/area)
+"t" = (/turf/black_castle/roof/right/bottom_right,/area)
+"u" = (/turf/black_castle/roof/left/bottom_left,/area)
+"v" = (/obj/map/black_tower/window,/turf/black_castle/wall/middle/middle,/area)
+"w" = (/Building/Warper/Exterior,/turf/black_castle/wall/bottom/middle,/area)
+"x" = (/BuildingDetails{building_category = "Public"; building_cost = 40000; building_desc = "Increases scouting range!"; building_interior = 0; building_name = "G-Watchtower_C"; building_watchtower = 1},/turf/black_castle/wall/middle/middle,/area)
+"y" = (/turf/gothic/castle_int/stairs/bottom/left,/area)
+"z" = (/turf/black_castle/floor,/turf/gothic/castle_int/stairs/top/left,/area)
+"A" = (/turf/black_castle/floor,/turf/gothic/castle_int/stairs/top,/area)
+"B" = (/turf/black_castle/floor,/turf/gothic/castle_int/stairs/top/right,/area)
+"C" = (/turf/gothic/castle_int/stairs/left,/area)
+"D" = (/turf/black_castle/wall/bottom/left,/area)
+"E" = (/turf/black_castle/wall/bottom/middle,/area)
+"F" = (/turf/gothic/castle_int/stairs/middle,/area)
+"G" = (/turf/gothic/castle_int/stairs/right,/area)
+"H" = (/turf/gothic/castle_int/stairs/bottom,/area)
+"I" = (/turf/black_castle/wall/bottom/right,/area)
+"J" = (/turf/gothic/castle_int/stairs/bottom/right,/area)
+"K" = (/SmallPreview/Start,/turf,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaabc
+aaaaadqqqraaaaa
+aaaadshhhfaaaaa
+aaaaehhhhhgaaaa
+aaaaehhhhhgaaaa
+aaaaiehhhgkaaaa
+aaaalijjjknaaaa
+aaadllmvmnnraaa
+aadsllmmmnnfraa
+aaehDlmmmnIhgaa
+aaehhDopEIhhgaa
+aaehhhhhhhhhgaa
+aaiehtjjjuhgkaa
+aalijkmvmijknaa
+aallvnmmmlvnnaa
+aallmnmvmlmnnaa
+aallvnmxmlvnnaa
+aallmnmmmlmnnaa
+aallvnowElvnnaa
+aallmnhhhlmnnaa
+aallvnhhhlvnnaa
+aaDlmehhhgmnIaa
+aaaDEizABkEIaaa
+aaaaaDCFGIaaaaa
+aKaaaayHJaaaaaa
+"}

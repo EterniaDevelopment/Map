@@ -1,0 +1,119 @@
+"aa" = (/obj/map/viewBlock,/turf/void,/area)
+"ab" = (/turf/void,/area)
+"ac" = (/MapLimit,/turf/void,/area)
+"ad" = (/turf/castle_int/roof/corner/br,/area)
+"ae" = (/turf/castle_int/roof/bottom,/area)
+"af" = (/turf/castle_int/roof/corner/bl,/area)
+"ag" = (/turf/castle_int/roof/right,/area)
+"ah" = (/turf/castle_int/wall/top/middle,/area)
+"ai" = (/turf/castle_int/roof/bottom_left,/area)
+"aj" = (/turf/castle_int/roof/bottom_right,/area)
+"ak" = (/turf/castle_int/roof/left,/area)
+"al" = (/turf/castle_int/roof/middle,/area)
+"am" = (/turf/castle_int/wall/middle/middle,/area)
+"an" = (/obj/map/cave_light,/obj/map/castle/window,/turf/castle_int/wall/middle/middle,/area)
+"ao" = (/turf/castle_int/wall/top/left,/area)
+"ap" = (/turf/castle_int/wall/top/right,/area)
+"aq" = (/turf/castle_int/wall/bottom/middle,/area)
+"ar" = (/turf/castle_int/wall/middle/left,/area)
+"as" = (/turf/castle_int/wall/middle/right,/area)
+"at" = (/obj/map/castle/gate/open,/turf/castle_int/wall/bottom/middle,/area)
+"au" = (/obj/map/noDenseMarker,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room6"},/turf/castle_int/wall/bottom/middle,/area)
+"av" = (/turf/gothic/castle_int/floor,/area)
+"aw" = (/turf/castle_int/wall/bottom/left,/area)
+"ax" = (/turf/castle_int/wall/bottom/right,/area)
+"ay" = (/turf/castle_int/roof/corner/tr,/area)
+"az" = (/turf/castle_int/roof/top,/area)
+"aA" = (/turf/castle_int/roof/top_right,/area)
+"aB" = (/turf/gothic/castle_int/floor,/turf/castle_int/stairs/top_left,/area)
+"aC" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room4"},/turf/castle_int/stairs/top,/area)
+"aD" = (/turf/gothic/castle_int/floor,/turf/castle_int/stairs/top_right,/area)
+"aE" = (/turf/castle_int/roof/top_left,/area)
+"aF" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room9"},/turf/gothic/castle_int/floor,/area)
+"aG" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room5"},/turf/castle_int/stairs/top,/area)
+"aH" = (/turf/castle_int/roof/corner/tl,/area)
+"aI" = (/obj/map/DenseMarker,/turf/castle_int/roof/top,/area)
+"aJ" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/castle_int/roof/top,/area)
+"aK" = (/obj/map/DenseMarker,/turf/castle_int/roof/bottom,/area)
+"aL" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/castle_int/roof/bottom,/area)
+"aM" = (/obj/map/DenseMarker,/turf/castle_int/stairs/left,/area)
+"aN" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room4"},/turf/castle_int/stairs/middle,/area)
+"aO" = (/obj/map/DenseMarker,/turf/castle_int/stairs/right,/area)
+"aP" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room5"},/turf/castle_int/stairs/middle,/area)
+"aQ" = (/turf/castle_int/stairs/left,/area)
+"aR" = (/turf/castle_int/stairs/middle,/area)
+"aS" = (/turf/castle_int/stairs/right,/area)
+"aT" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_right,/area)
+"aU" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room6"},/turf/gothic/castle_int/floor,/area)
+"aV" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_left,/area)
+"aW" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tr,/area)
+"aX" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tl,/area)
+"aY" = (/turf/gothic/castle_int/floor,/turf/castle_int/stairs/bottom_left,/area)
+"aZ" = (/turf/gothic/castle_int/floor,/turf/castle_int/stairs/bottom,/area)
+"ba" = (/turf/gothic/castle_int/floor,/turf/castle_int/stairs/bottom_right,/area)
+"bb" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room7"},/turf/castle_int/stairs/middle,/area)
+"bc" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room8"},/turf/castle_int/stairs/middle,/area)
+"bd" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room1"},/turf/castle_int/stairs/top,/area)
+"be" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room2"},/turf/castle_int/stairs/top,/area)
+"bf" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room1"},/turf/castle_int/stairs/middle,/area)
+"bg" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room2"},/turf/castle_int/stairs/middle,/area)
+"bh" = (/obj/map/cave_light,/turf/gothic/castle_int/floor,/area)
+"bi" = (/BuildingDetails{building_category = "Public"; building_cost = 40000; building_desc = "Increases scouting range!"; building_interior = 1; building_name = "G-Watchtower_D"; building_watchtower = 1},/turf/gothic/castle_int/floor,/area)
+"bj" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room7"},/turf/castle_int/stairs/top,/area)
+"bk" = (/Building/Warper/Interior,/turf/gothic/castle_int/floor,/area)
+"bl" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room8"},/turf/castle_int/stairs/top,/area)
+"bm" = (/obj/map/viewBlock,/obj/map/viewBlock,/turf/void,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababac
+aaadaeaeaeaeaeafababadaeaeaeaeaeafababadaeaeaeaeaeafaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababab
+aaagahahahahahaiaeaeajahahahahahaiaeaeajahahahahahakaaabababaaaladaeaeaeaeaeaeaeaeaeaeaeafalaaabababab
+aaagamamanamamaoahahapamamamamamaoahahapamamanamamakaaabababaaadajahahahahahahahahahahahaiafaaabababab
+aaagaqaqaqaqaqaramamasaqatauaqaqaramamasaqaqaqaqaqakaaabababaaagapamamanamamamamamanamamaoakaaabababab
+aaagavavavavavawaqaqaxavavavavavawaqaqaxavavavavavakaaabababaaagasaqaqaqaqaqaqaqaqaqaqaqarakaaabababab
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababaaagaxavavavavavavavavavavavawakaaabababab
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababaaagavavavavavavavavavavavavavakaaabababab
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababaaagavavavavavavavavavavavavavakaaabababab
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababaaagavavavavavavavavavavavavavakaaabababab
+aaayazaAaBaCaDaEazazazazaAaFaEazazazazaAaBaGaDaEazaHaaabababaaagavavavavavavavavavavavavavakaaabababab
+aaababayaIaJaIaHababalalayazaHalalababayaIaJaIaHalalaaabababaaagavavavavavavavavavavavavavakaaabababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaagavavavavavavavavavavavavavakaaabababab
+aaababadaKaLaKafabababababababababababadaKaLaKafababaaabababaaagavavavavavavavavavavavavavakaaabababab
+aaadaeajaMaNaOaiaeaeaeaeaeaeaeaeaeaeaeajaMaPaOaiaeafaaabababaaagavavavavavavavavavavavavavakaaabababab
+aaagahapaQaRaSaoahahahahahahahahahahahapaQaRaSaoahakaaabababaaayazazazazazaTaUaVazazazazazaHaaabababab
+aaagamasaQaRaSaramanamamamamamamamanamasaQaRaSaramakaaabababaaababababababaWaJaXalabababababaaabababab
+aaagaqaxaQaRaSawaqaqaqaqaqaqaqaqaqaqaqaxaQaRaSawaqakaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaagavavaYaZbaavavavavavavavavavavavavavaYaZbaavavakaaabadaKaLaKafabababababababababababadaKaLaKafabaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaadajaMbbaOaiaeaeaeaeaeaeaeaeaeaeaeajaMbcaOaiafaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaagapaQaRaSaoahahahahahahahahahahahapaQaRaSaoakaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaagasaQaRaSaramanamamamamamamamanamasaQaRaSarakaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaagaxaQaRaSawaqaqaqaqaqaqaqaqaqaqaqaxaQaRaSawakaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaagavaYaZbaavavavavavavavavavavavavavaYaZbaavakaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaayazaAaBbdaDaEazazazazazazazazazazazaAaBbeaDaEazaHaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaababayaIaJaIaHabalalalalalalalalalabayaIaJaIaHalalaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaabababababababababababababababababababababababababaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaababadaKaLaKafababadaeaeaeaeaeafababadaKaLaKafababaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaadaeajaMbfaOaiaeaeajahahahahahaiaeaeajaMbgaOaiaeafaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaagahapaQaRaSaoahahapamamanamamaoahahapaQaRaSaoahakaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaagamasaQaRaSaramamasaqaqaqaqaqaramamasaQaRaSaramakaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaagaqaxaQaRaSawaqaqaxavavavavavawaqaqaxaQaRaSawaqakaaagavavavavavavavavavavavavavavavavavavavavavakaa
+aaagavavaYaZbaavavavavavavavavavavavavavaYaZbaavavakaaagavavavavavavbhavavavavavavavavbhavavavavavakaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaayazazazazazazazazazazazazazazazazazazazazazaHaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababababababababababababababababababababababab
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababababababababababababababababababababababab
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababababababababababababababababababababababab
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababababababababababababababababababababababab
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababababababababababababababababababababababab
+aaagavavavavavavavavavavavbiavavavavavavavavavavavakaaabababababababababababababababababababababababab
+aaagavavavavavavavavavavavavavavavavavavavavavavavakaaabababababababababababababababababababababababab
+aaayazaAaBbjaDaEazazazazaTbkaVazazazazaAaBblaDaEazaHaaabababababababababababababababababababababababab
+aaababayaIaJaIaHababababaWaJaXababababayaIaJaIaHababaaabababababababababababababababababababababababab
+aaabababababababababababababababababababababababababaaabababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabmaaabababababababababababababababababababababababab
+"}

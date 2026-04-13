@@ -1,0 +1,53 @@
+"a" = (/turf,/area)
+"b" = (/turf/void,/area)
+"c" = (/turf/village/building/roof/roof_3/center/center_3,/area)
+"d" = (/MapLimit,/turf/void,/area)
+"e" = (/turf/village/building/roof/roof_3/left/left_3,/area)
+"f" = (/turf/village/building/roof/roof_3/center/center_2,/area)
+"g" = (/turf/village/building/roof/roof_3/right/right_3,/area)
+"h" = (/turf/village/building/roof/roof_3/left/left_2,/area)
+"i" = (/turf/village/building/roof/roof_3/right/right_2,/area)
+"j" = (/turf/village/horizontal_roof/edge/left{layer = 4},/area)
+"k" = (/turf/castle_int/column/roof,/area)
+"l" = (/turf/village/horizontal_roof/edge/right,/area)
+"m" = (/turf/village/horizontal_roof/edge/left/middle{layer = 4},/area)
+"n" = (/turf/castle_int/column/top,/turf/village/building/roof/roof_3/left/left_3,/area)
+"o" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/center/center_1,/turf/village/horizontal_roof/slope/peak{density = 1},/area)
+"p" = (/turf/village/horizontal_roof/edge/right/middle{layer = 4},/area)
+"q" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/left/left_1,/turf/village/horizontal_roof/slope/left{density = 1},/area)
+"r" = (/turf/village/horizontal_roof/fill,/turf/village/horizontal_roof/slope/right/corner{density = 1},/turf/village/horizontal_roof/slope/left/corner{density = 1},/area)
+"s" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/right/right_1,/turf/village/horizontal_roof/slope/right,/area)
+"t" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/left,/turf/village/building/roof/roof_3/left/left_1,/turf/village/horizontal_roof/slope/left,/area)
+"u" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/top,/turf/village/horizontal_roof/slope/left/corner,/turf/village/horizontal_roof/bottom,/turf/house/wooden_window{icon_state = "pointy_top"},/area)
+"v" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/top,/turf/village/horizontal_roof/bottom,/area)
+"w" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/right,/turf/village/building/roof/roof_3/right/right_1,/turf/village/horizontal_roof/slope/right,/area)
+"x" = (/turf/village/horizontal_roof/slope/right/corner{density = 1; layer = 7},/area)
+"y" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/left,/turf/village/horizontal_roof/slope/left/corner{layer = 7},/area)
+"z" = (/turf/house/wooden_window{icon_state = "window_middle"},/area)
+"A" = (/SmallPreview/End,/turf,/area)
+"B" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/right,/turf/village/horizontal_roof/slope/right/corner,/area)
+"C" = (/turf/village/horizontal_roof/slope/left/corner{layer = 7},/area)
+"D" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom/left,/turf/extra_roof/wood/top/left,/area)
+"E" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom,/turf/extra_roof/wood/top,/turf/house/wooden_window{icon_state = "foilage2_bottom"},/area)
+"F" = (/turf/village/building/wall/wall_1/middle/center,/obj/map/props/lantern,/turf/extra_roof/wood,/area)
+"G" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom,/turf/extra_roof/wood/top,/turf/house/wooden_window{icon_state = "foilage3_bottom"},/area)
+"H" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom/right,/turf/extra_roof/wood/top/right,/area)
+"I" = (/turf/extra_roof/wall/middle/three,/turf/extra_roof/wood/bottom/left,/turf/village/horizontal_roof/bottom,/area)
+"J" = (/turf/extra_roof/wall/middle/three,/turf/village/horizontal_roof/bottom,/area)
+"K" = (/turf/village/building/wall/wall_1/middle/center,/BuildingDetails{building_category = "Public"; building_cost = 15000; building_desc = "A building with one room."; building_guild = ""; building_name = "G-Small House G"; building_settlement_only = 1},/turf/extra_roof/wood/top,/area)
+"L" = (/turf/extra_roof/wall/middle/three,/turf/extra_roof/wood/bottom/right,/turf/village/horizontal_roof/bottom,/area)
+"M" = (/Building/Warper/Exterior,/turf/house/wooden_door{icon_state = "2"},/area)
+"N" = (/SmallPreview/Start,/turf,/area)
+
+(1,1,1) = {"
+bbbcbbd
+aaefgaA
+aehfiga
+jkhfiil
+mnhoiip
+mhqrsip
+mtuvuwp
+xyzFzBC
+aDEKGHa
+NIJMJLa
+"}

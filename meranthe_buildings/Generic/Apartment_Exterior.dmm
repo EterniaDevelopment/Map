@@ -1,0 +1,7 @@
+"a" = (/BuildingDetails{building_category = "Expansion"; building_cost = 25000; building_desc = "An apartment room."; building_dynamic = 1; building_expansion = 1; building_guild = ""; building_interior = 0; building_name = "Small Apartment"; building_settlement_only = 0},/MapLimit,/turf/village/aphros_extra/door_top,/area)
+"b" = (/Building/Warper/Exterior,/turf/village/aphros_extra/door_bottom,/area)
+
+(1,1,1) = {"
+a
+b
+"}

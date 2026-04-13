@@ -1,0 +1,87 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf,/area)
+"ac" = (/turf/village/horizontal_roof_delphinia/top_left,/obj/map/noDenseMarker,/turf/village/roof_delphinia/center_3{layer = 7},/area)
+"ad" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"ae" = (/obj/map/noDenseMarker,/SmallPreview/End,/turf/village/horizontal_roof_delphinia/top_right,/area)
+"af" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/left_3,/area)
+"ag" = (/turf/village/roof_delphinia/center_2,/area)
+"ah" = (/turf/village/horizontal_roof_delphinia/fill,/turf/village/roof_delphinia/right_3{layer = 7},/area)
+"ai" = (/turf/village/horizontal_roof_delphinia/fill,/area)
+"aj" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/right,/area)
+"ak" = (/turf/village/roof_delphinia/left_2,/area)
+"al" = (/turf/village/roof_delphinia/right_2,/area)
+"am" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/left_5,/area)
+"an" = (/MapLimit,/turf/void,/area)
+"ao" = (/turf/village/wall_vdalion/middle_left,/turf/village/horizontal_roof_delphinia/bottom_fill,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/roof_delphinia/right_5{layer = 7},/area)
+"ap" = (/turf/village/wall_vdalion/middle,/turf/village/horizontal_roof_delphinia/bottom_fill,/turf/village/vdalion_extra/windowbig_3,/area)
+"aq" = (/turf/village/wall_vdalion/middle,/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"ar" = (/turf/village/wall_vdalion/middle_right,/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"as" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/left_6,/area)
+"at" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/bottom_right,/area)
+"au" = (/turf/village/wall_vdalion/bottom_left,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/roof_delphinia/right_6{layer = 7},/area)
+"av" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"aw" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_5,/area)
+"ax" = (/turf/village/wall_vdalion/bottom_right,/area)
+"ay" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/center_1,/area)
+"az" = (/turf/village/wall_vdalion/bottom,/turf/inn/rail/top_right,/area)
+"aA" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aB" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/obj/map/noDenseMarker,/turf/village/roof_delphinia/right_6{layer = 7},/area)
+"aC" = (/turf/village/wall_vdalion/foundation_right,/area)
+"aD" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/left_1,/area)
+"aE" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_4,/turf/village/roof_delphinia/left_4,/area)
+"aF" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_1,/area)
+"aG" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/rail/right{layer = 3.9},/area)
+"aH" = (/turf/inn/floor,/area)
+"aI" = (/turf/inn/floor,/turf/inn/rail/right,/area)
+"aJ" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/left_4,/area)
+"aK" = (/turf/village/wall_vdalion/bottom,/area)
+"aL" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_4,/area)
+"aM" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/left_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"aN" = (/BuildingDetails{building_category = "Delphina"; building_cost = 50000; building_desc = "A modest building with 3 rooms."; building_guild = "Delphina"; building_interior = 0; building_name = "D-Medium House B"; building_settlement_only = 1},/turf/village/wall_vdalion/bottom,/area)
+"aO" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"aP" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_delphinia/left_4,/area)
+"aQ" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/left_7,/area)
+"aR" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+"aS" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/area)
+"aT" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_delphinia/right_4,/area)
+"aU" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/obj/map/noDenseMarker,/turf/village/roof_delphinia/right_6{layer = 7},/area)
+"aV" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/obj/map/noDenseMarker,/turf/village/roof_delphinia/right_7{layer = 7},/area)
+"aW" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/area)
+"aX" = (/turf/village/wall_vdalion/foundation_left,/turf/inn/rail/top_left,/area)
+"aY" = (/turf/inn/floor,/turf/inn/rail/middle,/area)
+"aZ" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf/inn/floor,/area)
+"ba" = (/turf/inn/floor,/turf/shop_int/stairs/top_left,/area)
+"bb" = (/turf/inn/floor,/turf/shop_int/stairs/top,/area)
+"bc" = (/turf/inn/floor,/turf/shop_int/stairs/top_right,/area)
+"bd" = (/turf/shop_int/stairs/left,/area)
+"be" = (/turf/shop_int/stairs/middle,/area)
+"bf" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/rail/left{layer = 3},/area)
+"bg" = (/turf/village/wall_delphinia/top_left{icon_state = "leg_left"},/area)
+"bh" = (/turf/village/wall_delphinia/top_left{icon_state = "leg"},/area)
+"bi" = (/turf/shop_int/stairs/right,/area)
+"bj" = (/turf/city/wall/blue{icon_state = "Left"},/turf/shop_int/stairs/bottom_left,/area)
+"bk" = (/turf/shop_int/stairs/bottom,/area)
+"bl" = (/turf/village/wall_delphinia/top_fill{icon_state = "leg_right"},/area)
+"bm" = (/turf/city/wall/blue{density = 0; icon_state = "Right"},/turf/shop_int/stairs/bottom_right,/area)
+"bn" = (/turf/inn/floor,/turf/inn/rail/bottom_left,/area)
+"bo" = (/turf/inn/floor,/turf/inn/rail/bottom_right,/area)
+"bp" = (/SmallPreview/Start,/turf,/area)
+
+(1,1,1) = {"
+aaaaaaababababacadadadadadadadaeaaaaan
+aaaaaaabababafagahaiaiaiaiaiaiajaaaaaa
+aaaaaaababafakagalahaiaiaiaiaiajaaaaaa
+aaaaaaabafakakagalalahaiaiaiaiajaaaaaa
+aaaaaaamakakakagalalalaoapaqarataaaaaa
+aaaaaaasakakakagalalalauawazaxabaaaaaa
+aaaaaaasakakakayalalalaBaAaGaCabaaaaaa
+aaaaaaasakakaDaEaFalalaUaHaIababaaaaaa
+aaaaaaasakaDaJaKaLaFalaUaHaIababaaaaaa
+aaaaaaasaDaMaKaNaKaOaFaUaHaIababaaaaaa
+aaaaaaaQaPaRaKaSaKaRaTaVaHaIababaaaaaa
+aaaaaaabaXavavaWavavaCaZaHaIababaaaaaa
+aaaaaaabbfaAaAaAaAaAaAaHaHaIababaaaaaa
+aaaaaaabbnaYbabbbcaYaYaYaYboababaaaaaa
+aaaaaaabbgbhbdbebibhbhbhbhblababaaaaaa
+aaaaaabpababbjbkbmabababababababaaaaaa
+"}

@@ -1,0 +1,10 @@
+obj
+	map
+		inn
+			window
+				icon='icons/map/obj/inn/window.dmi'
+				icon_state="window"
+				pixel_y=16
+			hatch
+				icon='icons/map/obj/inn/hatch.dmi'
+				icon_state="hatch"

@@ -1,0 +1,119 @@
+"aa" = (/turf/void,/area)
+"ab" = (/obj/map/viewBlock,/turf/void,/area)
+"ac" = (/turf/castle_int/roof/middle,/area)
+"ad" = (/turf/gothic/castle_int/roof/br,/area)
+"ae" = (/turf/gothic/castle_int/roof/bottom,/area)
+"af" = (/turf/gothic/castle_int/roof/bl,/area)
+"ag" = (/turf/gothic/castle_int/roof/bottom/right,/area)
+"ah" = (/MapLimit,/turf/void,/area)
+"ai" = (/turf/gothic/castle_int/wall/top,/area)
+"aj" = (/turf/gothic/castle_int/roof/bottom/left,/area)
+"ak" = (/turf/gothic/castle_int/roof/right,/area)
+"al" = (/turf/gothic/castle_int/wall/top/right,/area)
+"am" = (/turf/gothic/castle_int/wall/middle,/area)
+"an" = (/obj/map/cave_light,/obj/map/black_tower/window,/turf/gothic/castle_int/wall/middle,/area)
+"ao" = (/turf/gothic/castle_int/wall/top/left,/area)
+"ap" = (/turf/gothic/castle_int/roof/left,/area)
+"aq" = (/turf/gothic/castle_int/wall/right,/area)
+"ar" = (/turf/gothic/castle_int/wall/bottom,/area)
+"as" = (/obj/map/noDenseMarker,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room6"},/turf/gothic/castle_int/wall/bottom,/area)
+"at" = (/turf/gothic/castle_int/wall/left,/area)
+"au" = (/turf/gothic/castle_int/wall/bottom/right,/area)
+"av" = (/turf/gothic/castle_int/floor,/area)
+"aw" = (/turf/gothic/castle_int/wall/bottom/left,/area)
+"ax" = (/turf/gothic/castle_int/roof/tr,/area)
+"ay" = (/turf/gothic/castle_int/roof/top,/area)
+"az" = (/obj/map/DenseMarker,/turf/gothic/castle_int/roof/top/right,/area)
+"aA" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room4"},/turf/gothic/castle_int/stairs/top,/area)
+"aB" = (/obj/map/DenseMarker,/turf/gothic/castle_int/roof/top/left,/area)
+"aC" = (/turf/gothic/castle_int/roof/tl,/area)
+"aD" = (/obj/map/DenseMarker,/turf/gothic/castle_int/roof/tr,/area)
+"aE" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/gothic/castle_int/roof/top,/area)
+"aF" = (/obj/map/DenseMarker,/turf/gothic/castle_int/roof/tl,/area)
+"aG" = (/obj/map/black_tower/gate/open,/turf/gothic/castle_int/wall/bottom,/area)
+"aH" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room9"},/turf/gothic/castle_int/floor,/area)
+"aI" = (/turf/gothic/castle_int/roof/top/right,/area)
+"aJ" = (/turf/gothic/castle_int/floor,/turf/gothic/castle_int/stairs/top/left,/area)
+"aK" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room5"},/turf/gothic/castle_int/stairs/top,/area)
+"aL" = (/turf/gothic/castle_int/floor,/turf/gothic/castle_int/stairs/top/right,/area)
+"aM" = (/turf/gothic/castle_int/roof/top/left,/area)
+"aN" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room4"},/turf/gothic/castle_int/stairs/middle,/area)
+"aO" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room5"},/turf/gothic/castle_int/stairs/middle,/area)
+"aP" = (/obj/map/DenseMarker,/turf/gothic/castle_int/roof/top,/area)
+"aQ" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room6"},/turf/gothic/castle_int/floor,/area)
+"aR" = (/obj/map/DenseMarker,/turf/gothic/castle_int/roof/bottom,/area)
+"aS" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/gothic/castle_int/roof/bottom,/area)
+"aT" = (/obj/map/DenseMarker,/turf/gothic/castle_int/stairs/left,/area)
+"aU" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room1"},/turf/gothic/castle_int/stairs/middle,/area)
+"aV" = (/obj/map/DenseMarker,/turf/gothic/castle_int/stairs/right,/area)
+"aW" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room2"},/turf/gothic/castle_int/stairs/middle,/area)
+"aX" = (/turf/gothic/castle_int/stairs/left,/area)
+"aY" = (/turf/gothic/castle_int/stairs/middle,/area)
+"aZ" = (/turf/gothic/castle_int/stairs/right,/area)
+"ba" = (/turf/gothic/castle_int/floor,/turf/gothic/castle_int/stairs/bottom/left,/area)
+"bb" = (/turf/gothic/castle_int/floor,/turf/gothic/castle_int/stairs/bottom,/area)
+"bc" = (/turf/gothic/castle_int/floor,/turf/gothic/castle_int/stairs/bottom/right,/area)
+"bd" = (/BuildingDetails{building_category = "Public"; building_cost = 40000; building_desc = "Increases scouting range!"; building_interior = 1; building_name = "G-Watchtower_C"; building_watchtower = 1},/turf/gothic/castle_int/floor,/area)
+"be" = (/Building/Warper/Interior,/turf/gothic/castle_int/floor,/area)
+"bf" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room7"},/turf/gothic/castle_int/stairs/middle,/area)
+"bg" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room8"},/turf/gothic/castle_int/stairs/middle,/area)
+"bh" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room1"},/turf/gothic/castle_int/stairs/top,/area)
+"bi" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room2"},/turf/gothic/castle_int/stairs/top,/area)
+"bj" = (/obj/map/cave_light,/turf/gothic/castle_int/floor,/area)
+"bk" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room7"},/turf/gothic/castle_int/stairs/top,/area)
+"bl" = (/turf/gothic/castle_int/floor,/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_C_room8"},/turf/gothic/castle_int/stairs/top,/area)
+"bm" = (/obj/map/viewBlock,/obj/map/viewBlock,/turf/void,/area)
+
+(1,1,1) = {"
+abababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah
+abadaeaeaeaeaeafaaaaadaeaeaeaeaeafaaaaadaeaeaeaeaeafabaaaaaaabababababababababababababababababaaaaaaaa
+abakaiaiaiaiaiajaeaeagaiaiaiaiaiajaeaeagaiaiaiaiaiapabaaaaaaabacadaeaeaeaeaeaeaeaeaeaeaeafacabaaaaaaaa
+abakamamanamamaoaiaialamamamamamaoaiaialamamanamamapabaaaaaaabadagaiaiaiaiaiaiaiaiaiaiaiajafabaaaaaaaa
+abakarararararatamamaqaraGasararatamamaqarararararapabaaaaaaabakalamamanamamamamamanamamaoapabaaaaaaaa
+abakavavavavavawararauavavavavavawararauavavavavavapabaaaaaaabakaqarararararararararararatapabaaaaaaaa
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaabakauavavavavavavavavavavavawapabaaaaaaaa
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaabakavavavavavavavavavavavavavapabaaaaaaaa
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaabakavavavavavavavavavavavavavapabaaaaaaaa
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaabakavavavavavavavavavavavavavapabaaaaaaaa
+abaxayaIaJaAaLaMayayayayaIaHaMayayayayaIaJaKaLaMayaCabaaaaaaabakavavavavavavavavavavavavavapabaaaaaaaa
+abaaaaaxaPaEaPaCaaaaacacaxayaCacacaaaaaxaPaEaPaCacacabaaaaaaabakavavavavavavavavavavavavavapabaaaaaaaa
+abababababababababababababababababababababababababababaaaaaaabakavavavavavavavavavavavavavapabaaaaaaaa
+abaaaaadaRaSaRafaaaaaaaaaaaaaaaaaaaaaaadaRaSaRafaaaaabaaaaaaabakavavavavavavavavavavavavavapabaaaaaaaa
+abadaeagaTaNaVajaeaeaeaeaeaeaeaeaeaeaeagaTaOaVajaeafabaaaaaaabakavavavavavavavavavavavavavapabaaaaaaaa
+abakaialaXaYaZaoaiaiaiaiaiaiaiaiaiaiaialaXaYaZaoaiapabaaaaaaabaxayayayayayazaQaBayayayayayaCabaaaaaaaa
+abakamaqaXaYaZatamanamamamamamamamanamaqaXaYaZatamapabaaaaaaabaaaaaaaaaaaaaDaEaFacaaaaaaaaaaabaaaaaaaa
+abakarauaXaYaZawarararararararararararauaXaYaZawarapababababababababababababababababababababababababab
+abakavavbabbbcavavavavavavavavavavavavavbabbbcavavapabaaadaRaSaRafaaaaaaaaaaaaaaaaaaaaaaadaRaSaRafaaab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabadagaTbfaVajaeaeaeaeaeaeaeaeaeaeaeagaTbgaVajafab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabakalaXaYaZaoaiaiaiaiaiaiaiaiaiaiaialaXaYaZaoapab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabakaqaXaYaZatamanamamamamamamamanamaqaXaYaZatapab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabakauaXaYaZawarararararararararararauaXaYaZawapab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabakavbabbbcavavavavavavavavavavavavavbabbbcavapab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabakavavavavavavavavavavavavavavavavavavavavavapab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabakavavavavavavavavavavavavavavavavavavavavavapab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabakavavavavavavavavavavavavavavavavavavavavavapab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabakavavavavavavavavavavavavavavavavavavavavavapab
+abaxayaIaJbhaLaMayayayayayayayayayayayaIaJbiaLaMayaCabakavavavavavavavavavavavavavavavavavavavavavapab
+abaaaaaxaPaEaPaCaaacacacacacacacacacaaaxaPaEaPaCacacabakavavavavavavavavavavavavavavavavavavavavavapab
+abababababababababababababababababababababababababababakavavavavavavavavavavavavavavavavavavavavavapab
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabakavavavavavavavavavavavavavavavavavavavavavapab
+abaaaaadaRaSaRafaaaaadaeaeaeaeaeafaaaaadaRaSaRafaaaaabakavavavavavavavavavavavavavavavavavavavavavapab
+abadaeagaTaUaVajaeaeagaiaiaiaiaiajaeaeagaTaWaVajaeafabakavavavavavavavavavavavavavavavavavavavavavapab
+abakaialaXaYaZaoaiaialamamanamamaoaiaialaXaYaZaoaiapabakavavavavavavavavavavavavavavavavavavavavavapab
+abakamaqaXaYaZatamamaqarararararatamamaqaXaYaZatamapabakavavavavavavavavavavavavavavavavavavavavavapab
+abakarauaXaYaZawararauavavavavavawararauaXaYaZawarapabakavavavavavavavavavavavavavavavavavavavavavapab
+abakavavbabbbcavavavavavavavavavavavavavbabbbcavavapabakavavavavavavbjavavavavavavavavbjavavavavavapab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaxayayayayayayayayayayayayayayayayayayayayayaCab
+abakavavavavavavavavavavavavavavavavavavavavavavavapababababababababababababababababababababababababab
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abakavavavavavavavavavavavbdavavavavavavavavavavavapabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abakavavavavavavavavavavavavavavavavavavavavavavavapabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaxayaIaJbkaLaMayayayayazbeaBayayayayaIaJblaLaMayaCabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaxaPaEaPaCaaaaaaaaaDaEaFaaaaaaaaaxaPaEaPaCaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababababbmabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,76 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf,/area)
+"ac" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/center_3,/area)
+"ad" = (/SmallPreview/End,/turf,/area)
+"ae" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_3,/area)
+"af" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/center_2,/area)
+"ag" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/right_3,/area)
+"ah" = (/turf/village/roof_aphros/left_2,/area)
+"ai" = (/turf/village/roof_aphros/center_2,/area)
+"aj" = (/turf/village/roof_aphros/right_2,/area)
+"ak" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_5,/area)
+"al" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/center_1,/area)
+"am" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/right_5{density = 0; layer = 7},/area)
+"an" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/top_left,/area)
+"ao" = (/MapLimit,/turf/void,/area)
+"ap" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_1,/area)
+"aq" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_4,/turf/village/roof_aphros/left_4,/turf/village/aphros_extra/windowbig_2,/area)
+"ar" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_1,/area)
+"as" = (/turf/village/horizontal_roof_aphros/top_fill,/obj/map/noDenseMarker,/turf/village/roof_aphros/left_6{layer = 7; name = "left 6_1"},/area)
+"at" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/top_right,/area)
+"au" = (/turf/village/horizontal_roof_aphros/top_fill,/obj/map/noDenseMarker,/turf/village/roof_aphros/right_6{layer = 7},/area)
+"av" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/roof_aphros/left_6{layer = 7; name = "left 6_1"},/area)
+"aw" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_1,/area)
+"ax" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_4,/area)
+"ay" = (/turf/village/wall_aphros/middle,/turf/village/aphros_extra/windowbig_1,/turf/village/roof_aphros/center_3,/area)
+"az" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_4,/area)
+"aA" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_1,/area)
+"aB" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/roof_aphros/right_6{layer = 7},/area)
+"aC" = (/turf/village/horizontal_roof_aphros/top_fill,/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/left,/area)
+"aD" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/left,/area)
+"aE" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/horizontal_roof_aphros/left,/area)
+"aF" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/roof_aphros/left_7{layer = 7; name = "left 7_1"},/area)
+"aG" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_4,/area)
+"aH" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_3,/area)
+"aI" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_3,/area)
+"aJ" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_4,/area)
+"aK" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/roof_aphros/right_7{layer = 7},/area)
+"aL" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/horizontal_roof_aphros/right,/area)
+"aM" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/right,/area)
+"aN" = (/turf/village/horizontal_roof_aphros/fill,/area)
+"aO" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_4,/turf/village/roof_aphros/right_4,/area)
+"aP" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/horizontal_roof_aphros/bottom_left,/area)
+"aQ" = (/turf/village/wall_aphros/middle_left,/turf/village/horizontal_roof_aphros/bottom_fill,/area)
+"aR" = (/turf/village/wall_aphros/middle,/turf/village/horizontal_roof_aphros/bottom_fill,/turf/village/aphros_extra/windowbig_2,/area)
+"aS" = (/turf/village/horizontal_roof_aphros/top_fill,/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/right,/area)
+"aT" = (/turf/village/wall_aphros/middle_right,/turf/village/horizontal_roof_aphros/bottom_fill,/area)
+"aU" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/horizontal_roof_aphros/bottom_right,/area)
+"aV" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/bottom_left,/area)
+"aW" = (/turf/village/wall_aphros/middle_left,/area)
+"aX" = (/turf/village/wall_aphros/middle,/turf/village/aphros_extra/windowbig_1,/turf/house/wooden_window{density = 1; icon_state = "foilage2_top"; layer = 9},/area)
+"aY" = (/turf/village/wall_aphros/middle,/area)
+"aZ" = (/turf/village/wall_aphros/middle_right,/area)
+"ba" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/bottom_right,/area)
+"bb" = (/SmallPreview/Start,/turf,/area)
+"bc" = (/turf/village/wall_aphros/bottom_left,/area)
+"bd" = (/turf/village/wall_aphros/bottom,/turf/house/wooden_window{density = 1; icon_state = "foilage2_bottom"; layer = 4},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"be" = (/turf/village/wall_aphros/bottom,/area)
+"bf" = (/Building/Warper/Exterior,/turf/village/aphros_extra/door_bottom,/area)
+"bg" = (/turf/village/wall_aphros/bottom_right,/area)
+"bh" = (/BuildingDetails{building_category = "Aphros"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = "Aphros"; building_name = "A-Small House F"; building_settlement_only = 1},/turf/village/wall_aphros/middle,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaao
+aaaaaaabababababacababababadaaaaaa
+aaaaaaababababaeafagababababaaaaaa
+aaaaaaabababaeahaiajagabababaaaaaa
+aaaaaaababakahahalajajamababaaaaaa
+aaaaaaabanasahapaqarajauatabaaaaaa
+aaaaaaanaCavawaxayazaAaBaSataaaaaa
+aaaaaaaDaEaFaGaHalaIaJaKaLaMaaaaaa
+aaaaaaaDaEaNaNapaOaraNaNaLaMaaaaaa
+aaaaaaaDaPaQaRaxbhazaRaTaUaMaaaaaa
+aaaaaaaVaQaWaXaYaYaYaXaZaTbaaaaaaa
+aaaaaabbbcbcbdbebfbebdbgbgabaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

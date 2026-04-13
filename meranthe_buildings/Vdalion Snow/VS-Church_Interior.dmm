@@ -1,0 +1,111 @@
+"aa" = (/MapLimit,/turf/void,/area)
+"ab" = (/turf/void,/area)
+"ac" = (/turf/house/roof/corner/br,/area)
+"ad" = (/turf/house/roof/bottom,/area)
+"ae" = (/turf/house/roof/corner/bl,/area)
+"af" = (/obj/map/viewBlock,/turf/void,/area)
+"ag" = (/turf/village/wall_vdalion/bottom,/area)
+"ah" = (/turf/house/roof/corner/tr,/area)
+"ai" = (/turf/village/wall_vdalion/bottom,/turf/jianghu_house/shadow{density = 1},/area)
+"aj" = (/turf/village/wall_vdalion/bottom_right,/turf/jianghu_house/shadow{density = 1},/area)
+"ak" = (/turf/village/wall_vdalion/bottom_left,/turf/jianghu_house/shadow{density = 1},/area)
+"al" = (/turf/village/wall_vdalion/bottom_right,/area)
+"am" = (/obj/map/shop_int/window,/obj/map/generic_light{alpha = 200; layer = 5; light_size = 2; name = "light_cyan_big"},/turf/village/wall_vdalion/bottom,/area)
+"an" = (/turf/village/wall_vdalion/bottom_left,/area)
+"ao" = (/turf/house/roof/right,/area)
+"ap" = (/turf/house/roof/left,/area)
+"aq" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"ar" = (/turf/village/wall_vdalion/foundation_right,/area)
+"as" = (/turf/village/wall_vdalion/foundation_left,/area)
+"at" = (/turf/castle_int/floor,/area)
+"au" = (/turf/castle_int/floor,/turf/village/road_brown/bottom,/area)
+"av" = (/turf/castle_int/floor,/turf/village/road_brown/t_l,/area)
+"aw" = (/turf/castle_int/floor,/turf/village/road_brown/t_r,/area)
+"ax" = (/turf/castle_int/floor,/turf/village/road_brown/bottom_left,/area)
+"ay" = (/turf/castle_int/floor,/turf/village/road_brown/bottom_right,/area)
+"az" = (/turf/house/roof/bottom_right,/area)
+"aA" = (/turf/house/roof/bottom_left,/area)
+"aB" = (/turf/house/roof/top_right,/area)
+"aC" = (/turf/house/roof/top_left,/area)
+"aD" = (/turf/house/roof/corner/tl,/area)
+"aE" = (/obj/map/cave_light,/turf/house/roof/right,/area)
+"aF" = (/obj/map/cave_light,/turf/house/roof/left,/area)
+"aG" = (/turf/house/roof/top,/area)
+"aH" = (/turf/castle_int/floor,/turf/shop_int/stairs/top_left,/area)
+"aI" = (/turf/castle_int/floor,/turf/shop_int/stairs/top,/area)
+"aJ" = (/turf/castle_int/floor,/turf/shop_int/stairs/top_right,/area)
+"aK" = (/turf/castle_int/floor,/turf/shop_int/stairs/rail,/area)
+"aL" = (/turf/shop_int/stairs/left,/area)
+"aM" = (/turf/shop_int/stairs/middle,/area)
+"aN" = (/turf/shop_int/stairs/right,/area)
+"aO" = (/turf/village/wall_vdalion/top_middle,/area)
+"aP" = (/turf/village/wall_vdalion/top_right,/area)
+"aQ" = (/turf/village/wall_vdalion/middle,/area)
+"aR" = (/turf/village/wall_vdalion/middle_right,/area)
+"aS" = (/turf/inn/floor,/turf/shop_int/stairs/bottom_left,/area)
+"aT" = (/turf/inn/floor,/turf/shop_int/stairs/bottom_right,/area)
+"aU" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"aV" = (/Building/Warper/Interior,/turf/castle_int/floor,/area)
+"aW" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"aX" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"aY" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aZ" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"bb" = (/Building/Warper/Dynamic{dynamic_id = "HighWest-V-Church"},/turf/castle_int/floor,/area)
+"bc" = (/Building/Warper/Dynamic{dynamic_id = "HighEast-V-Church"},/turf/castle_int/floor,/area)
+"bd" = (/Building/Warper/Dynamic{dynamic_id = "LowWest-V-Church"},/turf/castle_int/floor,/area)
+"be" = (/Building/Warper/Dynamic{dynamic_id = "LowEast-V-Church"},/turf/castle_int/floor,/area)
+"bf" = (/BuildingDetails{building_category = "Vdalion"; building_cost = 50000; building_desc = "A Church building."; building_guild = "Vdalion"; building_interior = 1; building_name = "VS-Church"},/turf/castle_int/floor,/area)
+
+(1,1,1) = {"
+ababababababababababababababababababababababababababababababababababababababababababababababababababaa
+ababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababab
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafabababababababababababababababab
+afabababababababababababacadadadadadadadadadaeabababababababababababafafafafafafafafafafafafafafafafaf
+afababababababababacadadazagagagagagagagagagaAadadaeababababababababafabababababababababababababababaf
+afabababababacadadazaiaiajagagagagagagagagagakaiaiaAadadaeabababababafacadadadadadadadadadadadadaeabaf
+afabababacadazaiaiajagagalagagagagamagagagaganagagakaiaiaAadaeabababafaoaiaiaiaiaiaiaiaiaiaiaiaiaAaeaf
+afabacadazaiajagagalagagalagamagagagagagamaganagaganagagakaiaAadaeabafaoagagagagagagagagagagagagakapaf
+afacazaiajagalagagalagagalagagagagagagagagaganagaganagaganagakaiaAaeafaoaqaqaqaqaqaqaqaqaqaqaqaqanapaf
+afaoajagalagalagagalagagalagagagagagagagagaganagaganagaganaganagakapafaoatatatatatatatatatatatatasapaf
+afaoalaqaraqaraqaqaraqaqaraqaqaqaqaqaqaqaqaqasaqaqasaqaqasaqasaqanapafaoatatatatatatatatatatatatbbapaf
+afaoaratatatatatatatatatatatatatatatatatatatatatatatatatatatatatasapafaoatatatatatatatatatatatataCaDaf
+afaobbatatatatatatatatatatatatatatatatatatatatatatatatatatatatatbcapafaoaHaIaJaKaKaKaKaKaKaKaKaKapabaf
+afahaBatatatatatatatatatatatatatatatatatatatatatatatatatatatatataCaDafaoaLaMaNaOaOaOaOaOaOaOaOaPapabaf
+afabaoauauauauauauauauavatatatatatatatatatatatawauauauauauauauauapabafaoaLaMaNaQaQaQaQaQaQaQaQaRapabaf
+afabaoaiaiaiaiakaiaiaiaxauauauauauauauauauauauayaiaiaiajaiaiaiaiapabafaoaSaMaTaqaqaqaqaqaqaqaqaraAaeaf
+afabaoagagagaganagagagakaiaiaiakaiaiaiajaiaiaiajagagagalagagagagapabafaoatatatatatatatatatatatatakapaf
+afabaoagagagaganagagaganagagaganagagagalagagagalagagagalagagagagapabafaoatatatatatatatatatatatatanapaf
+afabaoaqaqaqaqasaqaqaqanagagaganagagagalagagagalaqaqaqaraqaqaqaqapabafaoatatatatatatatatatatatatasapaf
+afabaoatatatatatatatatasaqaqaqasaqaqaqaraqaqaqaratatatatatatatatapabafaoatatatatatatatatatatatatbdaFaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafaoatatatatatatatatatatatataCaDaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafaoatatatatatatatatatatatatapabaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafahaGaGaGaGaGaGaGaGaGaGaGaGaDabaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafafafafafafafafafafafafafafafafaf
+afacazatatatatatatatatatatatatatatatatatatatatatatatatatatatatataAaeafabababababababababababababababaf
+afaoajatatatatatatatatatatatatatatatatatatatatatatatatatatatatatakapafabacadadadadadadadadadadadadaeaf
+afaoalatatatatatatatatatatatatatatatatatatatatatatatatatatatatatanapafacazaiaiaiaiaiaiaiaiaiaiaiaiapaf
+afaoaratatatatatatatatatatatatatatatatatatatatatatatatatatatatatasapafaoajagagagagagagagagagagagagapaf
+afaEbdatatatatatatatatatatatatatatatatatatatatatatatatatatatatatbeaFafaoalaqaqaqaqaqaqaqaqaqaqaqaqapaf
+afahaBatatatatatatatatatatatatatatatatatatatatatatatatatatatatataCaDafaoaratatatatatatatatatatatatapaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafaobcatatatatatatatatatatatatapaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafahaBatatatatatatatatatatatatapaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafabaoaKaKaKaKaKaKaKaKaKaHaIaJapaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafabaoaOaOaOaOaOaOaOaOaPaLaMaNapaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafabaoaQaQaQaQaQaQaQaQaRaLaMaNapaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafacazaqaqaqaqaqaqaqaqaraSaMaTapaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafaoajatatatatatatatatatatatatapaf
+afabaoatatatatatatatatatatatatatatbfatatatatatatatatatatatatatatapabafaoalatatatatatatatatatatatatapaf
+afabaoatatatatatatatatatatatatatatatatatatatatatatatatatatatatatapabafaoaratatatatatatatatatatatatapaf
+afabahaGaBatatatatatatatatatatatatatatatatatatatatatatatatataCaGaDabafaEbeatatatatatatatatatatatatapaf
+afabababahaGaGaGaGaGaGaGaGaGaGaBatatataCaGaGaGaGaGaGaGaGaGaGaDabababafahaBatatatatatatatatatatatatapaf
+afababababababababababababababahaUaVaWaDababababababababababababababafabaoatatatatatatatatatatatatapaf
+afabababababababababababababababaXaYaZabababababababababababababababafabahaGaGaGaGaGaGaGaGaGaGaGaGaDaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+"}

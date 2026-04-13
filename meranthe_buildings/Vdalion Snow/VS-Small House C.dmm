@@ -1,0 +1,65 @@
+"a" = (/turf/void,/area)
+"b" = (/turf,/area)
+"c" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/center_3,/area)
+"d" = (/SmallPreview/End,/turf,/area)
+"e" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/left_3,/area)
+"f" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/center_2,/area)
+"g" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/right_3,/area)
+"h" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_left,/area)
+"i" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"j" = (/MapLimit,/turf/void,/area)
+"k" = (/turf/village/roof_vdalion/left_2,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"l" = (/turf/village/roof_vdalion/center_2,/turf/village/horizontal_roof_vdalion/top_right,/turf/village/roof_vdalion/center_3{layer = 7},/area)
+"m" = (/turf/village/roof_vdalion/right_2,/area)
+"n" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/left,/area)
+"o" = (/turf/village/horizontal_roof_vdalion/fill,/area)
+"p" = (/turf/village/horizontal_roof_vdalion/fill,/turf/village/roof_vdalion/left_3{layer = 7},/area)
+"q" = (/turf/village/roof_vdalion/center_2,/area)
+"r" = (/turf/village/roof_vdalion/left_2,/area)
+"s" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/center_1,/area)
+"t" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/right_5,/area)
+"u" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_1,/area)
+"v" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_4,/turf/village/roof_vdalion/right_4,/area)
+"w" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/right_1,/area)
+"x" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/right_6,/area)
+"y" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/bottom_left,/area)
+"z" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+"A" = (/turf/village/roof_vdalion/left_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"B" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion/bottom_fill,/turf/village/roof_vdalion/left_5{layer = 7},/area)
+"C" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_4,/area)
+"D" = (/turf/village/wall_vdalion/bottom,/area)
+"E" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/right_4,/area)
+"F" = (/turf/village/wall_vdalion/bottom_left,/area)
+"G" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/area)
+"H" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_6,/area)
+"I" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion/left_1,/area)
+"J" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"K" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/right_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"L" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion/right_1,/area)
+"M" = (/turf/village/wall_vdalion/foundation_left,/turf/village/vdalion_extra/snow_1,/area)
+"N" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"O" = (/turf/village/wall_vdalion/foundation_middle,/turf/village/roof_vdalion/left_7,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"P" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion/left_4,/area)
+"Q" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+"R" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion/right_4,/area)
+"S" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/right_7,/area)
+"T" = (/SmallPreview/Start,/turf,/area)
+"U" = (/turf/village/wall_vdalion/foundation_middle,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"V" = (/turf/village/wall_vdalion/foundation_right,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"W" = (/turf/village/wall_vdalion/bottom,/BuildingDetails{building_category = "Vdalion"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = "Vdalion"; building_name = "VS-Small House Snow C"; building_settlement_only = 1},/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaj
+aaabbbbbbbcbbbdaa
+aaabbbbbbefgbbbaa
+aaahiiiiAklmgbbaa
+aaanooooopqmmgbaa
+aaanooooprsmmmtaa
+aaanooopruvwmmxaa
+aaayzWBruCDEwmxaa
+aaabFGHIJDDDKLxaa
+aaabMNOPQDDDQRSaa
+aaaTbbbMUUUUUVbaa
+aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,101 @@
+"a" = (/turf/void,/area)
+"b" = (/obj/map/viewBlock,/turf/void,/area)
+"c" = (/turf/house/roof/corner/br,/area)
+"d" = (/turf/house/roof/bottom,/area)
+"e" = (/turf/house/roof/corner/bl,/area)
+"f" = (/turf/house/roof/right,/area)
+"g" = (/MapLimit,/turf/void,/area)
+"h" = (/turf/village/wall_delphinia/middle,/turf/jianghu_house/shadow{density = 1},/area)
+"i" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_2,/turf/jianghu_house/shadow{density = 1},/area)
+"j" = (/turf/house/roof/left,/area)
+"k" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/middle,/area)
+"l" = (/turf/village/wall_delphinia/middle,/area)
+"m" = (/turf/village/wall_delphinia/middle,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"n" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"o" = (/turf/village/wall_delphinia/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"p" = (/turf/village/wall_delphinia/bottom,/turf/house/wooden_window{density = 1; icon_state = "foilage1_bottom"},/area)
+"q" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"r" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"s" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"t" = (/turf/inn/floor,/area)
+"u" = (/turf/house/roof/corner/tr,/area)
+"v" = (/turf/house/roof/top,/area)
+"w" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"x" = (/Building/Warper/Dynamic{dynamic_id = "Small House D_1"},/turf/inn/floor,/area)
+"y" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"z" = (/turf/house/roof/corner/tl,/area)
+"A" = (/turf/house/roof/bottom_left,/area)
+"B" = (/turf/house/roof/bottom_right,/area)
+"C" = (/turf/shop_int/stairs/middle,/area)
+"D" = (/Building/Warper/Dynamic{dynamic_id = "Small House D_1"},/turf/shop_int/stairs/middle,/area)
+"E" = (/turf/village/wall_delphinia/middle_left,/turf/jianghu_house/shadow{density = 1},/area)
+"F" = (/turf/village/wall_delphinia/middle_right,/turf/jianghu_house/shadow{density = 1},/area)
+"G" = (/turf/village/wall_delphinia/middle_left,/area)
+"H" = (/turf/village/wall_delphinia/middle_right,/area)
+"I" = (/turf/village/wall_delphinia/bottom_left,/area)
+"J" = (/turf/village/wall_delphinia/bottom_right,/area)
+"K" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"L" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"M" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"N" = (/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"O" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"P" = (/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"Q" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"R" = (/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"S" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_1,/obj/map/cave_light,/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"},/area)
+"T" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"U" = (/BuildingDetails{building_category = "Delphina"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = "Delphina"; building_interior = 1; building_name = "D-Small House D"; building_settlement_only = 1},/turf/inn/floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabacdddddddddddddeabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafmhihhhhhhhihhjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafklSlllllllSlljabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafnopooooooopoojabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafqrrrrrrrrrrrrjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafsttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafsttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafsttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafsttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafsttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafsttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafsttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabafsttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabauvvvvvwxyvvvvvzabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabaaaaaaaLNOaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bacdddddecPQPecdddddeabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafmhihhABRDRABmhihhjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafklSllEFCCCEFklSlljabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafnopooGHCCCGHnopoojabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafqrrrrIJCCCIJKrrrrjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafstttttttUttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafsttttttttttttttttjabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bauvvvvvvvwMyvvvvvvvzabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaaLTOaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

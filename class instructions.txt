@@ -1,0 +1,30 @@
+BaseLevel
+level=1
+stamina=25
+willpower=100
+spellpower=3
+agility=3
+critical=3
+
+These are the base stats every mob has that are added after the normal calculations are done. So, if you set a mob's level to 119, it will become 120 when it's in-game. This doesn't actually change the calculations done to determine its stats; everything still uses 119 when multiplying by level!
+
+Some things to note.
+
+Level is their level.
+Stamina governs their final Vitality score, reached by dividing Stamina by 8. For example, if something has 800 Stamina, it will have 100 Vitality in-game.
+Willpower is their Mana stat.
+Spellpower is their Power stat, everybody knows how SD works.
+Agility is their cooldown reduction, I think. Not actually sure how relevant this is.
+Critical is their critical hit chance. Probably. Agility and Critical has always been an esoteric concept for me, okay?
+
+A lot of mobs have their stats defined by their class which can be found in classes.txt, but some have their class set to Daemon which makes things a bit more complicated. You can find the formula for them below and then you just fill in the blanks with the information taking from daemon_stats.txt. 
+
+stamina += (8 * addvit) * lvl
+agility += (addagi * lvl)
+critical += (addagi * lvl)
+spellpower += (addmag * lvl)
+willpower += (addmana * lvl)
+
+If we take a look at a Lupindor, we'd see its class was set to Daemon. We'll just head over to daemon_stats.txt and find it in the list, the slot in the various addvit and addagi bits in there to find out what their stats will be once it's in-game.
+
+Easy!

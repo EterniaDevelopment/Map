@@ -1,0 +1,62 @@
+"a" = (/turf/void,/area)
+"b" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_left,/area)
+"c" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"d" = (/obj/map/noDenseMarker,/SmallPreview/End,/turf/village/horizontal_roof_vdalion2/top_right,/area)
+"e" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/left,/area)
+"f" = (/turf/village/horizontal_roof_vdalion2/fill,/area)
+"g" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/right,/area)
+"h" = (/turf/inn/rail/middle,/turf/inn/rail/left,/turf/village/horizontal_roof_vdalion2/left,/area)
+"i" = (/turf/inn/rail/middle,/turf/inn/rail/right{layer = 3.2},/turf/village/horizontal_roof_vdalion2/right,/area)
+"j" = (/turf/inn/floor,/turf/inn/rail/left,/turf/village/horizontal_roof_vdalion2/bottom_left,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"k" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"l" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"m" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"n" = (/MapLimit,/turf/void,/area)
+"o" = (/turf/inn/floor,/turf/inn/rail/left,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"p" = (/turf/village/wall_vdalion/bottom_left,/area)
+"q" = (/turf/village/wall_vdalion/bottom,/area)
+"r" = (/turf/village/wall_vdalion/bottom_right,/area)
+"s" = (/turf/inn/floor,/turf/inn/rail/right{layer = 3.2},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"t" = (/turf/village/wall_vdalion/foundation_left,/area)
+"u" = (/obj/map/castle/gate/close,/turf/village/wall_vdalion/foundation_middle,/area)
+"v" = (/Building/Warper/Dynamic{dynamic_id = "vdalion_fort_room3"},/obj/map/noDenseMarker,/turf/inn/floor,/area)
+"w" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"x" = (/turf/village/wall_vdalion/foundation_right,/area)
+"y" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/inn/rail/right{layer = 3.2},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"z" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"A" = (/turf/inn/floor,/turf/inn/rail/right{layer = 3.2},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"B" = (/turf/inn/floor,/turf/inn/rail/middle,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"C" = (/turf/village/horizontal_roof_vdalion2/bottom_left,/area)
+"D" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "tl_corner"},/turf/inn/rail/right{layer = 3.2},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"E" = (/turf/village/wall_vdalion/bottom_left,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"F" = (/turf/village/wall_vdalion/bottom,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"G" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_right,/area)
+"H" = (/turf,/area)
+"I" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_2,/area)
+"J" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf,/area)
+"K" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_1,/area)
+"L" = (/turf/village/wall_vdalion/bottom_right,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"M" = (/SmallPreview/Start,/turf,/area)
+"N" = (/Building/Warper/Exterior,/turf/village/wall_vdalion/foundation_middle,/area)
+"O" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "tl_corner"},/turf,/area)
+"P" = (/turf/village/wall_vdalion/bottom,/BuildingDetails{building_category = "Vdalion"; building_cost = 25000; building_desc = "Increases scouting range!"; building_guild = "Vdalion"; building_name = "V-Watch Tower"; building_settlement_only = 0; building_watchtower = 1},/turf/village/vdalion_extra/windowbig_5,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaan
+aaaabcccccdaaaa
+aaaaefffffgaaaa
+aaaaefffffgaaaa
+aaaahfffffiaaaa
+aaaajklllmsaaaa
+aaaaopqqqryaaaa
+aaaaotuvwxDaaaa
+aaaaozzzzzAaaaa
+aaaaBBBBBBBaaaa
+aaaaCEFFFLGaaaa
+aaaaHpqIqrJaaaa
+aaaaHpqKqrJaaaa
+aaaaHpqPqrJaaaa
+aaaaHpqqqrJaaaa
+aaaaMtuNwxOaaaa
+aaaaaaaaaaaaaaa
+"}

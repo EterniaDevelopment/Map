@@ -1,0 +1,112 @@
+"aa" = (/turf/void,/area)
+"ab" = (/obj/map/viewBlock,/turf/void,/area)
+"ac" = (/turf/house/roof/corner/br,/area)
+"ad" = (/turf/house/roof/bottom,/area)
+"ae" = (/turf/house/roof/corner/bl,/area)
+"af" = (/turf/house/roof/right,/area)
+"ag" = (/MapLimit,/turf/void,/area)
+"ah" = (/turf/village/wall_delphinia/middle,/turf/jianghu_house/shadow{density = 1},/area)
+"ai" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_2,/turf/jianghu_house/shadow{density = 1},/area)
+"aj" = (/turf/house/roof/left,/area)
+"ak" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/middle,/area)
+"al" = (/turf/village/wall_delphinia/middle,/area)
+"am" = (/turf/village/wall_delphinia/middle,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"an" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ao" = (/turf/village/wall_delphinia/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ap" = (/turf/village/wall_delphinia/bottom,/turf/house/wooden_window{density = 1; icon_state = "foilage1_bottom"},/area)
+"aq" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"ar" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"as" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"at" = (/turf/inn/floor,/area)
+"au" = (/turf/house/roof/corner/tr,/area)
+"av" = (/turf/house/roof/top,/area)
+"aw" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"ax" = (/Building/Warper/Dynamic{dynamic_id = "Medium House B_3"},/turf/inn/floor,/area)
+"ay" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"az" = (/turf/house/roof/corner/tl,/area)
+"aA" = (/Building/Warper/Dynamic{dynamic_id = "Medium House B_4"},/turf/inn/floor,/area)
+"aB" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"aC" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aD" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"aE" = (/turf/house/roof/bottom_left,/area)
+"aF" = (/turf/house/roof/bottom_right,/area)
+"aG" = (/turf/village/wall_delphinia/middle_left,/turf/jianghu_house/shadow{density = 1},/area)
+"aH" = (/turf/village/wall_delphinia/middle_right,/turf/jianghu_house/shadow{density = 1},/area)
+"aI" = (/turf/village/wall_delphinia/middle,/turf/village/delphinia_extra/door_top,/area)
+"aJ" = (/turf/village/wall_delphinia/middle_left,/area)
+"aK" = (/turf/village/wall_delphinia/middle_right,/area)
+"aL" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_1,/obj/map/cave_light,/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"},/area)
+"aM" = (/Building/Warper/Dynamic{dynamic_id = "Medium House B_3"},/obj/map/noDenseMarker,/turf/village/delphinia_extra/door_bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aN" = (/turf/village/wall_delphinia/bottom_left,/area)
+"aO" = (/turf/village/wall_delphinia/bottom_right,/area)
+"aP" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aQ" = (/turf/house/roof/top_right,/area)
+"aR" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"aS" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "Medium House B_1"},/turf/shop_int/stairs/middle,/area)
+"aT" = (/turf/house/roof/top_left,/area)
+"aU" = (/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aV" = (/turf/castle_int/roof/middle,/area)
+"aW" = (/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"aX" = (/Building/Warper/Dynamic{dynamic_id = "Medium House B_1"},/turf/shop_int/stairs/middle,/area)
+"aY" = (/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"aZ" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop_int/stairs/middle,/area)
+"ba" = (/turf/shop_int/stairs/middle,/area)
+"bb" = (/Building/Warper/Dynamic{dynamic_id = "Medium House B_4"},/obj/map/noDenseMarker,/turf/village/delphinia_extra/door_bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bc" = (/Building/Warper/Dynamic{dynamic_id = "Medium House B_2"},/turf/inn/floor,/area)
+"bd" = (/Building/Warper/Dynamic{dynamic_id = "Medium House B_2"},/obj/map/noDenseMarker,/turf/village/delphinia_extra/door_bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"be" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"bf" = (/BuildingDetails{building_category = "Delphina"; building_cost = 50000; building_desc = "A modest building with 3 rooms."; building_guild = "Delphina"; building_interior = 1; building_name = "D-Medium House B"; building_settlement_only = 1},/turf/inn/floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaacadadadadadadadadadadadadadaeaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafamahaiahahahahahahahaiahahajaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafakalaLalalalalalalalaLalalajaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafanaoapaoaoaoaoaoaoaoapaoaoajaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafaqararararararararararararajaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaabababababababababababababababababababababababaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaabacadadadadadaeacadadadadadaeacadadadadadaeabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaabafamahaiahahaEaFamahahahahaEaFamahahahahajabaaauavavavavavawaxayavavavavavazaaabaaaaaaaaaaaaaaaaaa
+aaabafakalaLalalaGaHakalaIalalaGaHakalaIalalajabaaaaaaaaaaaaaaaBaCaDaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaa
+aaabafanaoapaoaoaJaKanaoaMaoaoaJaKanaobbaoaoajabababababababababababababababababababaaaaaaaaaaaaaaaaaa
+aaabafaqararararaNaOaPararararaNaOaPararararajabaaacadadadadadadadadadadadadadaeaaabaaaaaaaaaaaaaaaaaa
+aaabafasatatatatatatatatatatatatatatatatatatajabaaafamahaiahahahahahahahaiahahajaaabaaaaaaaaaaaaaaaaaa
+aaabafasatatatatatatatatatatatatatatatatatatajabaaafakalaLalalalalalalalaLalalajaaabaaaaaaaaaaaaaaaaaa
+aaabafasatatatatatatatatatatatatatatatatatatajabaaafanaoapaoaoaoaoaoaoaoapaoaoajaaabaaaaaaaaaaaaaaaaaa
+aaabafasatatatatatatatatatatatatatatatatatatajabaaafaqararararararararararararajaaabaaaaaaaaaaaaaaaaaa
+aaabauavaQaRaSaRaTavavavavavavavavavavavavavazabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaabaaaaauaUaUaUazaVaVaVaVaVaVaVaVaVaVaVaVaVaVabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+aaabaaaaaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+ababababababababababababababababababababababababaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaacaWaWaWaeacadadadadadaeacadadadadadadaeaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafaRaXaYaEaFamahahahahaEaFamahahaiahahajaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafaZbabaaGaHakalaIalalaGaHakalalaLalalajaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafaZbabaaJaKanaobdaoaoaJaKanaoaoapaoaoajaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafaZbabaaNaOaPararararaNaOaParararararajaaabaaauavavavavavawaAayavavavavavazaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaBaCaDaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatatatatatatatatatajaaabababababababababababababababababababaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatatatatatatatatatajaaabaaacadadadadadadadadadadadadadaeaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatatatatatatatatatajaaabaaafamahaiahahahahahahahaiahahajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatatatatatatatatatajaaabaaafakalaLalalalalalalalaLalalajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatatatatatatatatatajaaabaaafanaoapaoaoaoaoaoaoaoapaoaoajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatataTaQatatatatatatajaaabaaafaqararararararararararararajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatajauavavavavavavazaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatajaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatajaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatajaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatajaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatbfatatatatatajaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaafasatatatatatatatatatajaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaauavavavawbeayavavavavazaaaaaaaaaaaaaaaaaaabaaafasatatatatatatatatatatatatajaaabaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaBaCaDaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaauavavavavavawbcayavavavavavazaaabaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaBaCaDaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaa
+ababababababababababababababababababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaa
+"}

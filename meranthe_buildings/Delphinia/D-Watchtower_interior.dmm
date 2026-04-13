@@ -1,0 +1,112 @@
+"aa" = (/turf/void,/area)
+"ab" = (/obj/map/viewBlock,/turf/void,/area)
+"ac" = (/turf/castle_int/roof/middle,/area)
+"ad" = (/turf/house/roof/corner/br,/area)
+"ae" = (/turf/house/roof/bottom,/area)
+"af" = (/turf/house/roof/corner/bl,/area)
+"ag" = (/turf/house/roof/bottom_right,/area)
+"ah" = (/MapLimit,/turf/void,/area)
+"ai" = (/turf/village/wall_delphinia/middle,/turf/jianghu_house/shadow{density = 1},/area)
+"aj" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_2,/turf/jianghu_house/shadow{density = 1},/area)
+"ak" = (/turf/house/roof/bottom_left,/area)
+"al" = (/turf/house/roof/right,/area)
+"am" = (/turf/village/wall_delphinia/middle_right,/turf/jianghu_house/shadow{density = 1},/area)
+"an" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/middle,/area)
+"ao" = (/turf/village/wall_delphinia/middle,/area)
+"ap" = (/turf/village/wall_delphinia/middle,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"aq" = (/turf/village/wall_delphinia/middle_left,/turf/jianghu_house/shadow{density = 1},/area)
+"ar" = (/turf/house/roof/left,/area)
+"as" = (/turf/village/wall_delphinia/middle_right,/area)
+"at" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"au" = (/turf/village/wall_delphinia/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"av" = (/turf/village/wall_delphinia/bottom,/turf/house/wooden_window{density = 1; icon_state = "foilage1_bottom"},/area)
+"aw" = (/turf/village/wall_delphinia/middle_left,/area)
+"ax" = (/turf/village/wall_delphinia/bottom_right,/area)
+"ay" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"az" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aA" = (/turf/village/wall_delphinia/bottom_left,/area)
+"aB" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"aC" = (/turf/inn/floor,/area)
+"aD" = (/turf/house/roof/corner/tr,/area)
+"aE" = (/turf/house/roof/top,/area)
+"aF" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"aG" = (/Building/Warper/Dynamic{dynamic_id = "delphina_watchtower_room4"},/turf/inn/floor,/area)
+"aH" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"aI" = (/turf/house/roof/corner/tl,/area)
+"aJ" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"aK" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aL" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"aM" = (/obj/map/castle/gate/open,/turf/village/wall_delphinia/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aN" = (/Building/Warper/Dynamic{dynamic_id = "delphina_watchtower_room4"},/obj/map/noDenseMarker,/turf/inn/floor,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aO" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aP" = (/turf/house/roof/top_right,/area)
+"aQ" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"aR" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "delphina_watchtower_room1"},/turf/shop_int/stairs/middle,/area)
+"aS" = (/turf/house/roof/top_left,/area)
+"aT" = (/Building/Warper/Dynamic{dynamic_id = "delphina_watchtower_room3"},/turf/inn/floor,/area)
+"aU" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "delphina_watchtower_room2"},/turf/shop_int/stairs/middle,/area)
+"aV" = (/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aW" = (/obj/map/cave_light,/turf/house/roof/top,/area)
+"aX" = (/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"aY" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"aZ" = (/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"ba" = (/Building/Warper/Dynamic{dynamic_id = "delphina_watchtower_room1"},/turf/shop_int/stairs/middle,/area)
+"bb" = (/Building/Warper/Dynamic{dynamic_id = "delphina_watchtower_room2"},/turf/shop_int/stairs/middle,/area)
+"bc" = (/turf/shop_int/stairs/middle,/area)
+"bd" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_1,/obj/map/cave_light,/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"},/area)
+"be" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"bf" = (/BuildingDetails{building_category = "Delphina"; building_cost = 25000; building_desc = "Increases scouting range!"; building_guild = "Delphina"; building_interior = 1; building_name = "D-Watch Tower"; building_settlement_only = 0; building_watchtower = 1},/turf/inn/floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah
+aaaaaaabababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabacadaeaeaeaeaeaeaeaeaeaeaeafacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabadagapaiajaiaiaiaiaiajaiaiakafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalamanaobdaoaoaoaoaobdaoaoaqarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalasatauavauauauauauavauauawarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaxayazazazazazazazazazazaAarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaBaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaBaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaBaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaBaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaBaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaBaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaBaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaBaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaDaEaEaEaEaEaFaGaHaEaEaEaEaEaIabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaaaaaaaaaaaaaJaKaLacaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abadaeaeaeaeaeafadaeaeaeaeaeafadaeaeaeaeaeafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalapaiajaiaiakagapaiaiaiaiakagapaiajaiaiarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalanaobdaoaoaqamanaoaoaoaoaqamanaobdaoaoarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalatauavauauawasataMaNauauawasatauavauauarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaOazazazazaAaxayazazazazaAaxayazazazazarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaDaEaPaQaRaQaSaEaEaPaTaSaEaEaPaQaUaQaSaEaIabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaDaVaKaVaIacacaDaWaIacacaDaVaKaVaIacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaacacacacacacacacacacacacacacacaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaadaXaYaXafadaeaeaeaeaeafadaXaYaXafaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaadagaZbaaZakagapaiajaiaiakagaZbbaZakafaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalambcbcbcaqamanaobdaoaoaqambcbcbcaqaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalasbcbcbcawasatauavauauawasbcbcbcawaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaxbcbcbcaAaxayazazazazaAaxbcbcbcaAaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCbfaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaDaEaEaEaEaEaEaEaFbeaHaEaEaEaEaEaEaEaIaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaJaKaLaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

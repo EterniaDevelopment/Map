@@ -1,0 +1,100 @@
+"aa" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_left,/area)
+"ab" = (/turf,/area)
+"ac" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/left,/area)
+"ad" = (/turf/village/roof_vdalion/left_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/bottom_left,/area)
+"ae" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+"af" = (/turf/village/roof_vdalion/right_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/bottom_right,/area)
+"ag" = (/turf/village/roof_vdalion/left_2,/area)
+"ah" = (/turf/village/roof_vdalion/left_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"ai" = (/turf/village/roof_vdalion/right_2,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"aj" = (/turf/village/roof_vdalion/left_2,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"ak" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"al" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_right,/area)
+"am" = (/turf/village/roof_vdalion/center_2,/area)
+"an" = (/turf/village/horizontal_roof_vdalion/fill,/turf/village/roof_vdalion/right_3{layer = 7},/area)
+"ao" = (/turf/village/horizontal_roof_vdalion/fill,/area)
+"ap" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/right,/area)
+"aq" = (/turf/village/wall_vdalion/bottom,/obj/map/shop_int/window/dark,/turf/village/roof_vdalion/center_3{layer = 7},/area)
+"ar" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/center_1,/area)
+"as" = (/turf/village/roof_vdalion/right_2,/area)
+"at" = (/turf/village/roof_vdalion/right_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"au" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion/left_3{layer = 7},/area)
+"av" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_1,/area)
+"aw" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_4,/turf/village/roof_vdalion/right_4,/area)
+"ax" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion/right_1,/area)
+"ay" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion/right_3{layer = 7},/area)
+"az" = (/turf/village/horizontal_roof_vdalion/fill,/turf/village/roof_vdalion/left_3{layer = 7},/area)
+"aA" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+"aB" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+"aC" = (/turf/academy/rail/top_left,/area)
+"aD" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_4,/area)
+"aE" = (/turf/academy/rail/top,/turf/village/horizontal_roof_vdalion/left,/area)
+"aF" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/right_4,/area)
+"aG" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/right_1,/area)
+"aH" = (/turf/academy/rail/top,/turf/village/horizontal_roof_vdalion/right,/area)
+"aI" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"aJ" = (/turf/village/wall_vdalion/foundation_right,/area)
+"aK" = (/turf/academy/rail/top_right,/area)
+"aL" = (/turf/village/wall_vdalion/bottom,/area)
+"aM" = (/turf/academy/rail/top,/area)
+"aN" = (/turf/academy/rail/left,/area)
+"aO" = (/turf/academy/floor,/turf/village/horizontal_roof_vdalion/bottom_left,/area)
+"aP" = (/turf/academy/floor,/turf/village/horizontal_roof_vdalion/bottom_right,/area)
+"aQ" = (/turf/academy/rail/right,/area)
+"aR" = (/turf/academy/floor,/area)
+"aS" = (/obj/map/shop_int/window/dark,/turf/village/wall_vdalion/bottom,/area)
+"aT" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion/left_1,/area)
+"aU" = (/turf/village/wall_vdalion/bottom_right,/area)
+"aV" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_5,/turf/village/vdalion_extra/snow_2,/area)
+"aW" = (/turf/academy/rail/bottom_left,/area)
+"aX" = (/turf/village/wall_vdalion/bottom_left,/area)
+"aY" = (/turf/academy/rail/bottom,/area)
+"aZ" = (/turf/academy/rail/bottom_right,/area)
+"ba" = (/turf/village/wall_vdalion/top_left,/turf/city/wall/gap,/area)
+"bb" = (/turf/village/wall_vdalion/top_middle,/area)
+"bc" = (/turf/village/wall_vdalion/top_right,/turf/city/wall/gap/right,/area)
+"bd" = (/turf/village/wall_vdalion/foundation_left,/area)
+"be" = (/obj/map/castle/gate/close,/turf/village/wall_vdalion/foundation_middle,/area)
+"bf" = (/Building/Warper/Exterior,/turf/village/wall_vdalion/foundation_middle,/area)
+"bg" = (/turf/academy/floor,/turf/castle_int/stairs/top_left,/turf/castle_int/ledge/left_1,/area)
+"bh" = (/turf/academy/floor,/turf/castle_int/stairs/top,/area)
+"bi" = (/turf/village/wall_vdalion/foundation_middle,/turf/village/vdalion_extra/snow_1,/area)
+"bj" = (/turf/academy/floor,/turf/castle_int/stairs/top_right,/turf/castle_int/ledge/right_1,/area)
+"bk" = (/turf/village/wall_vdalion/foundation_right,/turf/village/vdalion_extra/snow_1,/area)
+"bl" = (/turf/village/wall_vdalion/foundation_left,/turf/village/vdalion_extra/snow_1,/area)
+"bm" = (/turf/village/wall_vdalion/bottom_left,/turf/jianghu_house/shadow{density = 1},/turf/village/vdalion_extra/snow_1,/area)
+"bn" = (/turf/castle_int/stairs/left,/area)
+"bo" = (/turf/castle_int/stairs/middle,/area)
+"bp" = (/turf/castle_int/stairs/right,/area)
+"bq" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/snow_1,/area)
+"br" = (/turf/village/wall_vdalion/bottom_right,/turf/jianghu_house/shadow{density = 1},/turf/village/vdalion_extra/snow_1,/area)
+"bs" = (/turf/village/road_brown/left,/turf/castle_int/stairs/bottom_left,/area)
+"bt" = (/turf/castle_int/stairs/bottom,/area)
+"bu" = (/turf/castle_int/stairs/bottom_right,/area)
+
+(1,1,1) = {"
+abababababababababababababababababababababababab
+abababababababababababababababababababababababab
+abababababababababababababababababababababababab
+ababababababababababaaakakakalababababababababab
+ababababababababababacaoaoaoapababababababababab
+ababababababababababacaoaoaoapababababababababab
+ababababababababababadaeaAaBafababababababababab
+abababababaaakakakahajaXaqaUaiatakakakalabababab
+abababababacaoaoaoaoaoauamayaoaoaoaoaoapabababab
+abababababacaoaoaoaoazagarasanaoaoaoaoapabababab
+ababababaCaEaoaoaoazagavawaGasanaoaoaoaHaKababab
+ababaCaMaNaOaeaAaAagavaDaLaFaGasaAaAaBaPaQaMaKab
+ababaNaRaNaRaXaSaLaTaDaLaLaLaFaxaLaSaUaRaQaRaQab
+ababaNaRaNaRaXaVaLaXaSaLaLaLaSaUaLaVaUaRaQaRaQab
+ababaNaRaNaRaRaRaRaXaVaLaLaLaVaUaRaRaRaRaQaRaQab
+ababaNaRaWaYaYaYaYaYaYaYaYaYaYaYaYaYaYaYaZaRaQab
+ababaWaYaXaLaLaLaLaUaLaLaLaLaLaXaLaLaLaLaUaYaZab
+ababaXaLaXaLaLaLaLaUbabbbbbbbcaXaLaLaLaLaUaLaUab
+ababaXaLaXaSaLaLaSaUbdbebfaIaJaXaSaLaLaSaUaLaUab
+ababblbiaXaVaLaLaVaUaRaRaRaRaRaXaVaLaLaVaUbibkab
+ababababblbibiaNaRaRaRaRaRaRaRaRaRaQbibibkababab
+abababababababaWbgbhbjaYaYaYbgbhbjaZabababababab
+abababababababbmbnbobpbmbqbrbnbobpbrabababababab
+ababababababababbsbtbuabababbsbtbuababababababab
+"}

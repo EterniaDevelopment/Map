@@ -1,0 +1,72 @@
+"aa" = (/turf,/area)
+"ab" = (/turf/void,/area)
+"ac" = (/turf/void,/turf/village/building/roof/roof_3/center/center_3,/area)
+"ad" = (/MapLimit,/turf/void,/area)
+"ae" = (/Building/Warper/Exterior,/turf/house/wooden_door{icon_state = "2"},/area)
+"af" = (/turf/village/building/roof/roof_3/left/left_3,/area)
+"ag" = (/turf/village/building/roof/roof_3/center/center_2,/area)
+"ah" = (/turf/village/building/roof/roof_3/right/right_3,/area)
+"ai" = (/turf/village/horizontal_roof/edge/left{layer = 4},/area)
+"aj" = (/turf/village/building/roof/roof_3/left/left_2,/area)
+"ak" = (/turf/village/building/roof/roof_3/right/right_2,/area)
+"al" = (/turf/village/horizontal_roof/edge/right,/area)
+"am" = (/turf/village/building/roof/roof_3/left/left_3,/turf/village/horizontal_roof/edge/left/middle{layer = 4},/area)
+"an" = (/turf/village/building/roof/roof_3/right/right_3,/turf/village/horizontal_roof/edge/right/middle{layer = 4},/area)
+"ao" = (/turf/castle_int/column/roof,/area)
+"ap" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/peak{density = 1},/turf/village/building/roof/roof_3/center/center_1,/area)
+"aq" = (/turf/village/horizontal_roof/edge/left/middle{layer = 4},/area)
+"ar" = (/turf/castle_int/column/top,/turf/village/building/roof/roof_3/left/left_3,/area)
+"as" = (/turf/boat_int/wall/middle/middle,/turf/village/building/roof/roof_3/left/left_1,/turf/village/horizontal_roof/slope/left{density = 1},/area)
+"at" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/right/corner,/turf/village/horizontal_roof/slope/left/corner,/area)
+"au" = (/turf/boat_int/wall/middle/middle,/turf/village/building/roof/roof_3/right/right_1,/turf/village/horizontal_roof/slope/right,/area)
+"av" = (/turf/village/horizontal_roof/edge/right/middle{layer = 4},/area)
+"aw" = (/turf/inn/rail/top_left,/turf/inn/rail/middle,/turf/inn/rail/left,/area)
+"ax" = (/turf/village/horizontal_roof/edge/left/middle{layer = 4},/turf/inn/rail/middle,/area)
+"ay" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/left/corner,/turf/house/wooden_window{icon_state = "pointy_top"; layer = 1.5},/area)
+"az" = (/turf/boat_int/wall/middle/middle,/area)
+"aA" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/right/corner,/turf/house/wooden_window{icon_state = "pointy_top"; layer = 1.5},/area)
+"aB" = (/turf/village/horizontal_roof/edge/right/middle{layer = 4},/turf/inn/rail/middle,/area)
+"aC" = (/turf/inn/rail/top_right,/turf/inn/rail/middle,/turf/inn/rail/right,/area)
+"aD" = (/turf/inn/floor,/turf/inn/rail/left,/area)
+"aE" = (/turf/inn/floor,/turf/village/horizontal_roof/slope/right/corner,/area)
+"aF" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/left/corner,/turf/extra_roof/wood/left,/area)
+"aG" = (/turf/house/wooden_window{icon_state = "window_middle"},/area)
+"aH" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/right/corner,/turf/extra_roof/wood/right,/area)
+"aI" = (/turf/inn/floor,/turf/village/horizontal_roof/slope/left/corner,/area)
+"aJ" = (/turf/inn/floor,/turf/inn/rail/right,/area)
+"aK" = (/turf/boat_int/wall/middle/middle,/turf/extra_roof/wood/left,/area)
+"aL" = (/turf/boat_int/wall/middle/middle,/turf/house/wooden_window{icon_state = "window_bottom"},/area)
+"aM" = (/BuildingDetails{building_category = "Public"; building_cost = 20000; building_desc = "A house with two rooms."; building_guild = ""; building_name = "G-Small House F"; building_settlement_only = 1},/turf/boat_int/wall/bottom/middle,/area)
+"aN" = (/turf/boat_int/wall/middle/middle,/turf/extra_roof/wood/right,/area)
+"aO" = (/turf/city/wall/two,/turf/extra_roof/wood/bottom/left,/area)
+"aP" = (/turf/inn/floor,/area)
+"aQ" = (/turf/city/wall/two,/area)
+"aS" = (/turf/city/wall/two,/turf/extra_roof/wood/bottom/right,/area)
+"aU" = (/turf/inn/floor,/turf/inn/rail/bottom_left,/area)
+"aV" = (/turf/inn/floor,/turf/inn/rail/middle,/area)
+"aW" = (/turf/inn/floor,/turf/shop_int/stairs/top_left,/area)
+"aX" = (/turf/inn/floor,/turf/shop_int/stairs/top,/area)
+"aY" = (/turf/inn/floor,/turf/shop_int/stairs/top_right,/area)
+"aZ" = (/turf/inn/floor,/turf/inn/rail/bottom_right,/area)
+"ba" = (/SmallPreview/Start,/turf/village/wall_delphinia/top_left{icon_state = "leg_left"},/area)
+"bb" = (/turf/village/wall_delphinia/top_right{icon_state = "leg"},/area)
+"bc" = (/turf/village/wall_delphinia/top_right{icon_state = "leg"},/turf/shop_int/stairs/bottom_left,/area)
+"bd" = (/turf/shop_int/stairs/bottom,/area)
+"be" = (/turf/village/wall_delphinia/top_right{icon_state = "leg"},/turf/shop_int/stairs/bottom_right,/area)
+"bf" = (/turf/village/wall_delphinia/top_right{icon_state = "leg_right"},/area)
+
+(1,1,1) = {"
+ababababacabababad
+aaaaaaafagahaaaaaa
+aaaaaiajagakalaaaa
+aaaaamajagakanaaaa
+aaaiaoajapakakalaa
+aaaqarasatauakavaa
+awaxasayazaAauaBaC
+aDaEaFaGazaGaHaIaJ
+aDaPaKaLaMaLaNaPaJ
+aDaPaOaQaeaQaSaPaJ
+aDaPaPaPaPaPaPaPaJ
+aUaVaVaWaXaYaVaVaZ
+babbbbbcbdbebbbbbf
+"}

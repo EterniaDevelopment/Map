@@ -1,0 +1,22 @@
+"a" = (/turf/void,/area)
+"b" = (/turf,/area)
+"c" = (/SmallPreview/End,/turf,/area)
+"d" = (/MapLimit,/turf,/area)
+"e" = (/BuildingDetails{building_category = "Public"; building_cost = 40000; building_desc = "A cottage."; building_guild = ""; building_name = "Cottage"; building_rent_upfront = 3000; layer = 10},/turf,/area)
+"f" = (/obj/map/prairie/cottage,/turf,/area)
+"g" = (/SmallPreview/Start,/turf,/area)
+"h" = (/Building/Warper/Exterior,/turf,/area)
+
+(1,1,1) = {"
+bbbbbbbbbbd
+bbbbbbbcbbb
+aabbbbbbabb
+aabbbbbbabb
+aabbbbbbabb
+aabbbbbbabb
+aabbbebbabb
+aabbbfbbabb
+aabgbhbbabb
+aabbbbbaabb
+aaaaaaaaabb
+"}

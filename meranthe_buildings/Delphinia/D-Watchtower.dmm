@@ -1,0 +1,80 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf,/area)
+"ac" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/center_3,/area)
+"ad" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_left,/area)
+"ae" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"af" = (/MapLimit,/turf/void,/area)
+"ag" = (/SmallPreview/End,/turf,/area)
+"ah" = (/turf/village/roof_delphinia/left_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"ai" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_right,/area)
+"aj" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/left,/area)
+"ak" = (/turf/village/horizontal_roof_delphinia/fill,/area)
+"al" = (/turf/village/horizontal_roof_delphinia/fill,/turf/village/roof_delphinia/left_3{layer = 7},/area)
+"am" = (/turf/village/roof_delphinia/center_2,/turf/village/horizontal_roof_delphinia/top_middle,/obj/map/noDenseMarker,/turf/village/roof_delphinia/center_3{layer = 7},/area)
+"an" = (/turf/village/horizontal_roof_delphinia/fill,/turf/village/roof_delphinia/right_3{layer = 7},/area)
+"ao" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/right,/area)
+"ap" = (/turf/village/roof_delphinia/right_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"aq" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/center_1,/area)
+"ar" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/left_1,/area)
+"as" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/bottom_left,/area)
+"at" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_4,/turf/village/roof_delphinia/left_4,/area)
+"au" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_1,/area)
+"av" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"aw" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_delphinia/left_1,/area)
+"ax" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/left_4,/area)
+"ay" = (/turf/village/wall_vdalion/bottom,/area)
+"az" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_4,/area)
+"aA" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/bottom_right,/area)
+"aB" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_delphinia/right_1,/area)
+"aC" = (/turf/village/wall_vdalion/bottom_right,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"aD" = (/turf/village/wall_vdalion/foundation_left,/area)
+"aE" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_delphinia/left_4,/area)
+"aF" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_delphinia/right_4,/area)
+"aG" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/wall_vdalion/foundation_right,/area)
+"aH" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/rail/left{layer = 3},/area)
+"aI" = (/obj/map/castle/gate/close,/turf/village/wall_vdalion/foundation_middle,/area)
+"aJ" = (/Building/Warper/Dynamic{dynamic_id = "delphina_watchtower_room3"},/obj/map/noDenseMarker,/turf/village/wall_vdalion/foundation_middle,/area)
+"aK" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"aL" = (/turf/village/wall_vdalion/foundation_right,/area)
+"aM" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/rail/right{layer = 3.2},/area)
+"aN" = (/turf/inn/floor,/turf/inn/rail/left,/area)
+"aO" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aP" = (/turf/village/horizontal_roof_vdalion2/bottom_left,/area)
+"aQ" = (/turf/inn/floor,/turf/inn/rail/right{layer = 3.2},/area)
+"aR" = (/turf/inn/floor,/turf/inn/rail/middle,/area)
+"aS" = (/turf/inn/floor,/turf/inn/rail/bottom_left,/area)
+"aT" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_right,/area)
+"aU" = (/turf/inn/floor,/turf/inn/rail/bottom_right,/area)
+"aV" = (/turf/village/wall_vdalion/bottom_left,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"aW" = (/turf/village/wall_vdalion/bottom_left,/area)
+"aX" = (/obj/generic_shadow/white,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf,/area)
+"aY" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_4,/area)
+"aZ" = (/turf/village/wall_vdalion/bottom_right,/area)
+"ba" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf,/area)
+"bb" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+"bc" = (/turf/village/wall_vdalion/bottom,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"bd" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "tl_corner"},/turf,/area)
+"be" = (/Building/Warper/Exterior,/turf/village/wall_vdalion/foundation_middle,/area)
+"bf" = (/turf/village/wall_vdalion/bottom_right,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"bg" = (/SmallPreview/Start,/turf,/area)
+"bh" = (/turf/village/wall_vdalion/bottom,/BuildingDetails{building_category = "Delphina"; building_cost = 25000; building_desc = "Increases scouting range!"; building_guild = "Delphina"; building_name = "D-Watch Tower"; building_settlement_only = 0; building_watchtower = 1},/turf/village/vdalion_extra/windowbig_5,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaf
+aaaaaaababababacabababagaaaaaa
+aaaaaaadaeaeahamapaeaeaiaaaaaa
+aaaaaaajakakalaqanakakaoaaaaaa
+aaaaaaajakalaratauanakaoaaaaaa
+aaaaaaasavawaxayazaBaCaAaaaaaa
+aaaaaaabaDaEayayayaFaGabaaaaaa
+aaaaaaabaHaDaIaJaKaLaMabaaaaaa
+aaaaaaabaNaOaOaOaOaOaQabaaaaaa
+aaaaaaabaSaRaRaRaRaRaUabaaaaaa
+aaaaaaabaPaVbcbcbcbfaTabaaaaaa
+aaaaaaababaWayaYayaZaXabaaaaaa
+aaaaaaababaWaybbayaZaXabaaaaaa
+aaaaaaababaWaybhayaZbaabaaaaaa
+aaaaaaababaWayayayaZbaabaaaaaa
+aaaaaabgabaDaIbeaKaLbdabaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

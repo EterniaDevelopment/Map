@@ -1,0 +1,18 @@
+"a" = (/turf/void,/area)
+"b" = (/turf,/area)
+"c" = (/SmallPreview/End,/turf,/area)
+"d" = (/MapLimit,/turf,/area)
+"e" = (/BuildingDetails{building_category = "Public"; building_cost = 5000; building_desc = "A Hut..."; building_guild = ""; building_name = "Big Hut"; building_rent_upfront = 1000; layer = 10},/turf,/area)
+"f" = (/SmallPreview/Start,/turf,/area)
+"g" = (/obj/map/gehenna/hut/big/hut1,/turf,/area)
+"h" = (/Building/Warper/Exterior,/turf,/area)
+
+(1,1,1) = {"
+bbbbbbd
+bbbbbbb
+bbbbbcb
+abbebbb
+afghbbb
+abbbbbb
+abbbbba
+"}

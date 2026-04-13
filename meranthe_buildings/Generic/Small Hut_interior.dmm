@@ -1,0 +1,41 @@
+"a" = (/turf/void,/area)
+"b" = (/MapLimit,/turf/void,/area)
+"c" = (/obj/map/viewBlock,/turf/void,/area)
+"d" = (/obj/map/DenseMarker,/turf/void,/area)
+"e" = (/obj/map/gehenna_house/wall_curve/lefttop,/obj/map/DenseMarker,/turf/void,/area)
+"f" = (/turf/gehenna_house/wall,/area)
+"g" = (/obj/map/gehenna_house/windowdark,/obj/map/cave_light,/turf/gehenna_house/wall,/area)
+"h" = (/obj/map/gehenna_house/wall_curve/righttop,/obj/map/DenseMarker,/turf/void,/area)
+"i" = (/obj/map/DenseMarker,/turf/gehenna/cobble_floor,/area)
+"j" = (/turf/gehenna_house/wall/bottom,/area)
+"k" = (/obj/map/gehenna_house/wall_curve/left2,/turf/gehenna/cobble_floor,/area)
+"l" = (/turf/gehenna/cobble_floor,/area)
+"m" = (/obj/map/gehenna_house/wall_curve/right2,/turf/gehenna/cobble_floor,/area)
+"n" = (/BuildingDetails{building_category = "Public"; building_cost = 5000; building_desc = "A Hut..."; building_guild = ""; building_interior = 1; building_name = "Small Hut"; layer = 10},/turf/gehenna/cobble_floor,/area)
+"o" = (/turf/gehenna/cobble_floor,/turf/gehenna/floor_curve/left,/area)
+"p" = (/turf/gehenna/cobble_floor,/turf/gehenna/floor_curve/right,/area)
+"q" = (/obj/map/cave_light,/Building/Warper/Interior,/turf/gehenna/cobble_floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+cccccccccccccccaaaaaa
+cdddddddddddddcaaaaaa
+cdefgfffffgfhdcaaaaaa
+cdijjjjjjjjjidcaaaaaa
+cdklllllllllmdcaaaaaa
+cdllllllllllldcaaaaaa
+cdllllllllllldcaaaaaa
+cdllllllllllldcaaaaaa
+cdllllllllllldcaaaaaa
+cdlllllnllllldcaaaaaa
+cdolllllllllpdcaaaaaa
+cddddddqddddddcaaaaaa
+caaaaadddaaaaacaaaaaa
+cccccccccccccccaaaaaa
+"}

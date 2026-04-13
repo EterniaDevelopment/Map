@@ -1,0 +1,52 @@
+-- Placing Housing Lots --
+1) Map out your building, interior and exterior.
+
+2) Place them in their appropiate locations on the map. Ideally interiors should be in their own map file for a region.
+
+3) Place a /Lot on the map, you can technically place these anywhere, but putting them on your building somewhere is usually preferred.
+	- /Lot only really has one variable mappers need to worry about, "lot_id", this ID must be unique to your building.
+	- The /Lot is your building's main controller, it's where the values for things like guild ownership, and costs are set.
+	- These values are usually going to be handled by admins in-game.
+
+4) On the EXTERIOR door of the house place a /Lot/Warper/Exterior, set the "lot_id" of the warper to match your /Lot.
+
+5) On the INTERIOR door of your house place a /Lot/Warper/Interior, set the "lot_id" to match as above.
+
+6) Create a new instance of the /Lot/Interior, edit the instance's "lot_id" to match your /Lot, cover the ENTIRE INTERIOR of your house with it.
+	- The /Lot/Interior is the region in which the person renting the lot can place decorations, shopkeepers, and chests.
+
+7) If all of your IDs match up things should be done.
+
+	- You can "nest" lots if you need (for things like apartment buildings).
+	-- Ex: Main building is lot "Main Apartment" that has four doors inside, each one with a /Lot/Warper/Exterior on them.
+	-- Each apartment is its own /Lot like "Main Apartment Room 1", set it up as you would its own house.
+	
+	- When doing house roofs don't try to rely on the roof being undense and layered above the mob in the editor
+	-- You need to mark undense sections of roof with /obj/map/noDenseMarker, this helps visualize the walkable parts of the roof.
+--------------------------
+
+--- Placing Extra House Doors ---
+1) Place a /Lot/Door on the tile you want your door warper's exterior (world map usually)
+2) Set the /Lot/Door's "lot_id" to match the lot_id of the lot it goes with.
+3) Give the /Lot/Door a UNIQUE "door_id".
+4) Add an identical /Lot/Door to your INTERIOR where your door is placed.
+--------------------------
+
+---    Placing Crop Plots     ---
+1) Houses can have a plot of farm land associated with them using the /LotCrop area.
+
+2) First, place down a section of /obj/map/tilled_soil on the map, this will autotile in the live game
+
+3) Next, cover the plot with an instance of /LotCrop with a "lot_id" matching the building you want to associate the plot with.
+--------------------------
+
+---- Generic Shadows -----
+- You can place a variety of shadow shapes and colors by using the /obj/generic_shadow type.
+-- You'll need to "generate instances from icon states" inside of the instance editor to get all of the shapes you have access to.
+-- You can use /obj/generic_shadow/white alongside the "color" variable to color your shadows.
+-- Using the "alpha" variable allows you to fade them out further than their default.
+--------------------------
+
+---- Generic Lights ----
+- You can place /obj/map/generic_light on the map where you need a placed light source.
+- You can edit light_color and light_size to change the attributes of the light.

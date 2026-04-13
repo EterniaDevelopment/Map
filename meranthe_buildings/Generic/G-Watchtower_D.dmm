@@ -1,0 +1,63 @@
+"a" = (/turf,/area)
+"b" = (/SmallPreview/End,/turf,/area)
+"c" = (/MapLimit,/turf,/area)
+"d" = (/turf/castle/roof/top_left,/area)
+"e" = (/turf/castle/roof/top,/area)
+"f" = (/turf/castle/roof/top_right,/area)
+"g" = (/turf/castle/roof/corner/tl,/area)
+"h" = (/turf/black_castle/floor,/area)
+"i" = (/turf/castle/roof/corner/tr,/area)
+"j" = (/turf/castle/roof/left/left,/area)
+"k" = (/turf/castle/roof/right/right,/area)
+"l" = (/turf/castle/wall/top/left,/area)
+"m" = (/turf/castle/wall/top/right,/area)
+"n" = (/turf/castle/wall/middle/left,/area)
+"o" = (/turf/castle/wall/top/middle,/area)
+"p" = (/turf/castle/wall/middle/right,/area)
+"q" = (/turf/castle/wall/middle/middle,/area)
+"r" = (/obj/map/castle/window,/turf/castle/wall/middle/middle,/area)
+"s" = (/turf/castle/wall/bottom/left,/area)
+"t" = (/turf/castle/wall/bottom/right,/area)
+"u" = (/obj/map/castle/gate/close,/turf/castle/wall/bottom/middle,/area)
+"v" = (/Building/Warper/Dynamic{dynamic_id = "generic_watchtower_D_room9"},/turf/castle/wall/bottom/middle,/area)
+"w" = (/turf/castle/wall/bottom/middle,/area)
+"x" = (/BuildingDetails{building_category = "Public"; building_cost = 40000; building_desc = "Increases scouting range!"; building_interior = 0; building_name = "G-Watchtower_D"; building_watchtower = 1},/turf/castle/wall/middle/middle,/area)
+"y" = (/Building/Warper/Exterior,/turf/castle/wall/bottom/middle,/area)
+"z" = (/turf/black_castle/floor,/turf/castle_int/stairs/top_left,/area)
+"A" = (/turf/black_castle/floor,/turf/castle_int/stairs/top,/area)
+"B" = (/turf/black_castle/floor,/turf/castle_int/stairs/top_right,/area)
+"C" = (/turf/castle_int/stairs/left,/area)
+"D" = (/turf/castle_int/stairs/middle,/area)
+"E" = (/turf/castle_int/stairs/right,/area)
+"F" = (/SmallPreview/Start,/turf,/area)
+"G" = (/turf/castle_int/stairs/bottom_left,/area)
+"H" = (/turf/castle_int/stairs/bottom,/area)
+"I" = (/turf/castle_int/stairs/bottom_right,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaabc
+aaaaadeeefaaaaa
+aaaadghhhifaaaa
+aaaajhhhhhkaaaa
+aaaajhhhhhkaaaa
+aaaaljhhhkmaaaa
+aaaanlooompaaaa
+aaadnnqrqppfaaa
+aadgnnqqqppifaa
+aajhsnqqqpthkaa
+aajhhsuvwthhkaa
+aajhhhhhhhhhkaa
+aaljhkooojhkmaa
+aanlomqrqlompaa
+aannrpqqqnrppaa
+aannqpqrqnqppaa
+aannrpqxqnrppaa
+aannqpqqqnqppaa
+aannrpuywnrppaa
+aannqphhhnqppaa
+aannrphhhnrppaa
+aasnqjhhhkqptaa
+aaaswlzABmwtaaa
+aaaaasCDEtaaaaa
+aFaaaaGHIaaaaaa
+"}

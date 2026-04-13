@@ -1,0 +1,82 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf,/area)
+"ac" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/center_3,/area)
+"ad" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/left_3,/area)
+"ae" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/center_2,/area)
+"af" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/right_3,/area)
+"ag" = (/turf/village/roof_vdalion2/left_2,/area)
+"ah" = (/turf/village/roof_vdalion2/center_2,/turf/village/horizontal_roof_vdalion2/top_left,/turf/village/roof_vdalion2/center_3{layer = 7},/area)
+"ai" = (/turf/village/roof_vdalion2/right_2,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"aj" = (/SmallPreview/End,/turf,/area)
+"ak" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"al" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_right,/area)
+"am" = (/turf/village/roof_vdalion2/center_2,/area)
+"an" = (/turf/village/horizontal_roof_vdalion2/fill,/turf/village/roof_vdalion2/right_3{layer = 7},/area)
+"ao" = (/turf/village/horizontal_roof_vdalion2/fill,/area)
+"ap" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/right,/area)
+"aq" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/left_5{layer = 7},/area)
+"ar" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/center_1,/area)
+"as" = (/turf/village/roof_vdalion2/right_2,/area)
+"at" = (/turf/inn/rail/middle,/turf/inn/rail/right,/turf/village/horizontal_roof_vdalion2/right,/area)
+"au" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/left_6,/area)
+"av" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/left_1,/area)
+"aw" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/left_4,/turf/village/roof_vdalion2/right_4,/area)
+"ax" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/right_1,/area)
+"ay" = (/MapLimit,/turf/void,/area)
+"az" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"aA" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"aB" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"aC" = (/turf/village/roof_vdalion2/right_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"aD" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/left_4,/area)
+"aE" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_4,/area)
+"aF" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/right_4,/area)
+"aG" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion2/right_1,/area)
+"aH" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion2/bottom_fill,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/village/roof_vdalion2/right_5{layer = 7},/area)
+"aI" = (/turf/shop_int/floor,/turf/inn/rail/right{layer = 3.2},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/bottom_right,/area)
+"aJ" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"aK" = (/turf/village/wall_vdalion/foundation_right,/area)
+"aL" = (/turf/village/wall_vdalion/foundation_middle,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/village/roof_vdalion2/right_6{layer = 7; name = "right 6_1"},/area)
+"aM" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion2/left_1,/area)
+"aN" = (/turf/village/wall_vdalion/bottom,/area)
+"aO" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+"aP" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion2/right_4,/area)
+"aQ" = (/Building/Warper/Dynamic{dynamic_id = "VMedium House B_4"},/obj/map/noDenseMarker,/turf/village/vdalion_extra/door_bottom,/area)
+"aR" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aS" = (/turf/shop_int/floor,/turf/inn/rail/right,/area)
+"aT" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/left_7,/area)
+"aU" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion2/left_4,/area)
+"aV" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_5,/area)
+"aW" = (/turf/village/wall_vdalion/bottom_right,/area)
+"aX" = (/turf/shop_int/floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf/inn/rail/right{layer = 3.2},/area)
+"aY" = (/turf/inn/floor,/turf/inn/rail/middle,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aZ" = (/turf/village/wall_vdalion/bottom_left,/area)
+"ba" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/obj/map/noDenseMarker,/turf/village/roof_vdalion2/right_7{layer = 7; name = "right 7_1"},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bb" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/inn/rail/middle,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bc" = (/turf/village/wall_vdalion/bottom,/turf/jianghu_house/shadow{density = 1},/area)
+"bd" = (/turf/village/wall_vdalion/bottom,/turf/jianghu_house/shadow{density = 1},/turf/village/horizontal_roof_vdalion2/bottom_middle,/area)
+"be" = (/turf/village/wall_vdalion/bottom_right,/turf/jianghu_house/shadow{density = 1},/turf/village/horizontal_roof_vdalion2/bottom_middle,/area)
+"bf" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/area)
+"bg" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/village/wall_vdalion/foundation_middle,/area)
+"bh" = (/turf/village/wall_vdalion/foundation_left,/area)
+"bi" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/area)
+"bj" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf,/area)
+"bk" = (/BuildingDetails{building_category = "Vdalion"; building_cost = 50000; building_desc = "A modest building with 3 rooms."; building_guild = "Vdalion"; building_name = "V-Medium House B"; building_settlement_only = 1},/turf/village/wall_vdalion/bottom,/area)
+"bl" = (/SmallPreview/Start,/turf,/area)
+"bm" = (/turf/village/wall_vdalion/bottom,/turf/jianghu_house/shadow{density = 1},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/village/horizontal_roof_vdalion2/bottom_middle,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay
+aaaaaaababababacababababababajaaaaaa
+aaaaaaabababadaeafababababababaaaaaa
+aaaaaaababadagahaiaCakakakakalaaaaaa
+aaaaaaabadagagamanaoaoaoaoaoapaaaaaa
+aaaaaaaqagagagarasanaoaoaoaoataaaaaa
+aaaaaaauagagavawaxasaHazaAaBaIaaaaaa
+aaaaaaauagavaDaEaFaGaLaQaJaKaXaaaaaa
+aaaaaaauaMaDaNaOaNaPbaaRaRaRaSaaaaaa
+aaaaaaaTaUaNaNaVaNaWbbaYaYaYaYaaaaaa
+aaaaaaabaZaEaNbkaNaWbmbcbdbcbeaaaaaa
+aaaaaaabaZaOaNbfaNaWbgaJaJaJaKaaaaaa
+aaaaaablbhaJaJbiaJaKbjababababaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,15 @@
+"a" = (/turf/void,/area)
+"b" = (/turf,/area)
+"c" = (/SmallPreview/End,/turf,/area)
+"d" = (/MapLimit,/turf/void,/area)
+"e" = (/obj/map/winter/igloo,/BuildingDetails{building_category = "Public"; building_cost = 5000; building_desc = "An Igloo. Build it on snow or it'll melt."; building_guild = ""; building_name = "Igloo"; layer = 10},/turf,/area)
+"f" = (/Building/Warper/Exterior,/turf,/area)
+"g" = (/SmallPreview/Start,/turf,/area)
+
+(1,1,1) = {"
+abbbbcd
+abbbbba
+abbebba
+abbfbba
+agbbbba
+"}

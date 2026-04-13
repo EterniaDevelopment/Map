@@ -1,0 +1,114 @@
+"aa" = (/turf/void,/area)
+"ab" = (/obj/map/viewBlock,/turf/void,/area)
+"ac" = (/turf/castle_int/roof/middle,/area)
+"ad" = (/turf/house/roof/corner/br,/area)
+"ae" = (/turf/house/roof/bottom,/area)
+"af" = (/turf/house/roof/corner/bl,/area)
+"ag" = (/turf/house/roof/bottom_right,/area)
+"ah" = (/MapLimit,/turf/void,/area)
+"ai" = (/turf/village/wall_vdalion/bottom,/turf/jianghu_house/shadow{density = 1},/area)
+"aj" = (/turf/village/wall_vdalion/bottom,/turf/jianghu_house/shadow{density = 1},/turf/village/vdalion_extra/windowbig_4,/area)
+"ak" = (/turf/house/roof/bottom_left,/area)
+"al" = (/turf/house/roof/right,/area)
+"am" = (/turf/village/wall_vdalion/bottom,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"an" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_vdalion/bottom,/area)
+"ao" = (/turf/village/wall_vdalion/bottom,/area)
+"ap" = (/turf/village/wall_vdalion/bottom_right,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"aq" = (/turf/village/wall_vdalion/bottom_left,/turf/jianghu_house/shadow{density = 1},/area)
+"ar" = (/turf/house/roof/left,/area)
+"as" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_vdalion/bottom_right,/area)
+"at" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_vdalion/foundation_middle,/area)
+"au" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"av" = (/turf/village/wall_vdalion/bottom_left,/area)
+"aw" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_vdalion/foundation_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ax" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/castle_int/floor,/area)
+"ay" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/castle_int/floor,/area)
+"az" = (/turf/village/wall_vdalion/foundation_left,/area)
+"aA" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/castle_int/floor,/area)
+"aB" = (/turf/castle_int/floor,/area)
+"aC" = (/turf/house/roof/corner/tr,/area)
+"aD" = (/turf/house/roof/top,/area)
+"aE" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"aF" = (/Building/Warper/Dynamic{dynamic_id = "vdalion_fort_room4"},/turf/castle_int/floor,/area)
+"aG" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"aH" = (/turf/house/roof/corner/tl,/area)
+"aI" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"aJ" = (/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aK" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"aL" = (/turf/village/wall_vdalion/bottom_right,/turf/jianghu_house/shadow{density = 1},/area)
+"aM" = (/obj/map/cave_light,/turf/village/wall_vdalion/bottom,/area)
+"aN" = (/turf/village/wall_vdalion/bottom_right,/area)
+"aO" = (/obj/map/castle/gate/open,/turf/village/wall_vdalion/foundation_middle,/area)
+"aP" = (/Building/Warper/Dynamic{dynamic_id = "vdalion_fort_room4"},/obj/map/noDenseMarker,/turf/castle_int/floor,/area)
+"aQ" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/castle_int/floor,/area)
+"aR" = (/turf/village/wall_vdalion/foundation_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aS" = (/turf/house/roof/top_right,/area)
+"aT" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"aU" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "vdalion_watchtower1"},/turf/shop_int/stairs/middle,/area)
+"aV" = (/turf/house/roof/top_left,/area)
+"aW" = (/Building/Warper/Dynamic{dynamic_id = "vdalion_fort_room3"},/turf/castle_int/floor,/area)
+"aX" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "vdalion_fort_room2"},/turf/shop_int/stairs/middle,/area)
+"aY" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aZ" = (/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"ba" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"bb" = (/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"bc" = (/Building/Warper/Dynamic{dynamic_id = "vdalion_watchtower1"},/turf/shop_int/stairs/middle,/area)
+"bd" = (/Building/Warper/Dynamic{dynamic_id = "vdalion_fort_room2"},/turf/shop_int/stairs/middle,/area)
+"be" = (/turf/shop_int/stairs/middle,/area)
+"bf" = (/turf/village/wall_vdalion/bottom,/obj/map/cave_light,/turf/village/vdalion_extra/windowbig_3,/area)
+"bg" = (/Building/Warper/Interior,/turf/castle_int/floor,/area)
+"bh" = (/BuildingDetails{building_category = "Vdalion"; building_cost = 25000; building_desc = "Increases scouting range!"; building_guild = "Vdalion"; building_interior = 1; building_name = "V-Watch Tower"; building_settlement_only = 0; building_watchtower = 1},/turf/castle_int/floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah
+aaaaaaabababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabacadaeaeaeaeaeaeaeaeaeaeaeafacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabadagamaiajaiaiaiaiaiajaiaiakafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalapanaobfaoaoaoaoaobfaoaoaqarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalasatauauauauauauauauauauavarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalawaxayayayayayayayayayayazarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaCaDaDaDaDaDaEaFaGaDaDaDaDaDaHabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaaaaaaaaaaaaaIaJaKacaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abadaeaeaeaeaeafadaeaeaeaeaeafadaeaeaeaeaeafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalamaiajaiaiakagamaiaiaiaiakagamaiajaiaiarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalanaobfaoaoaqaLanaoaMaoaoaqaLanaobfaoaoarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalatauauauauavaNataOaPauauavaNatauauauauarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaQayayayayazaRaxayayayayazaRaxayayayayarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaCaDaSaTaUaTaVaDaDaEaWaGaDaDaSaTaXaTaVaDaHabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaCaJaYaJaHacacaIaYaKacacaCaJaYaJaHacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaacacacacacacacacacacacacacacacaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaadaZbaaZafadaeaeaeaeaeafadaZbaaZafaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaadagbbbcbbakagamaiajaiaiakagbbbdbbakafaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalapbebebeaqaLanaobfaoaoaqaLbebebeaqaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalasbebebeavaNatauauauauavaNbebebeavaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalawbebebeazaRaxayayayayazaRbebebeazaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBbhaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaCaDaDaDaDaDaDaDaEbgaGaDaDaDaDaDaDaDaHaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaIaYaKaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,111 @@
+"aa" = (/turf/void,/area)
+"ab" = (/obj/map/viewBlock,/turf/void,/area)
+"ac" = (/turf/castle_int/roof/middle,/area)
+"ad" = (/turf/castle_int/roof/corner/br,/area)
+"ae" = (/turf/castle_int/roof/bottom,/area)
+"af" = (/turf/castle_int/roof/corner/bl,/area)
+"ag" = (/turf/castle_int/roof/bottom_right,/area)
+"ah" = (/MapLimit,/turf/void,/area)
+"ai" = (/turf/village/wall_aphros/middle,/turf/jianghu_house/shadow{density = 1},/area)
+"aj" = (/turf/village/wall_aphros/middle,/turf/jianghu_house/shadow{density = 1},/turf/village/aphros_extra/windowbig_2,/area)
+"ak" = (/turf/castle_int/roof/bottom_left,/area)
+"al" = (/turf/castle_int/roof/right,/area)
+"am" = (/turf/village/wall_aphros/middle,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"an" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/middle,/area)
+"ao" = (/turf/village/wall_aphros/middle,/area)
+"ap" = (/turf/village/wall_aphros/middle_right,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"aq" = (/turf/village/wall_aphros/middle_left,/turf/jianghu_house/shadow{density = 1},/area)
+"ar" = (/turf/castle_int/roof/left,/area)
+"as" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/middle_right,/area)
+"at" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"au" = (/turf/village/wall_aphros/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"av" = (/turf/village/wall_aphros/middle_left,/area)
+"aw" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/bottom_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ax" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/castle_int/floor,/area)
+"ay" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/castle_int/floor,/area)
+"az" = (/turf/village/wall_aphros/bottom_left,/area)
+"aA" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/castle_int/floor,/area)
+"aB" = (/turf/castle_int/floor,/area)
+"aC" = (/turf/castle_int/roof/corner/tr,/area)
+"aD" = (/turf/castle_int/roof/top,/area)
+"aE" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_right,/area)
+"aF" = (/Building/Warper/Dynamic{dynamic_id = "aphros_watchtower_3"},/turf/castle_int/floor,/area)
+"aG" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_left,/area)
+"aH" = (/turf/castle_int/roof/corner/tl,/area)
+"aI" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tr,/area)
+"aJ" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/castle_int/roof/top,/area)
+"aK" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tl,/area)
+"aL" = (/turf/village/wall_aphros/middle_right,/turf/jianghu_house/shadow{density = 1},/area)
+"aM" = (/turf/village/wall_aphros/middle_right,/area)
+"aN" = (/obj/map/castle/gate/open,/turf/village/wall_aphros/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aO" = (/turf/village/wall_aphros/middle,/obj/map/cave_light,/turf/village/aphros_extra/windowbig_1,/area)
+"aP" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/castle_int/floor,/area)
+"aQ" = (/turf/village/wall_aphros/bottom_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aR" = (/turf/castle_int/roof/top_right,/area)
+"aS" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"aT" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "aphros_watchtower_1"},/turf/shop_int/stairs/middle,/area)
+"aU" = (/turf/castle_int/roof/top_left,/area)
+"aV" = (/Building/Warper/Dynamic{dynamic_id = "aphros_watchtower_4"},/turf/castle_int/floor,/area)
+"aW" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "aphros_watchtower_2"},/turf/shop_int/stairs/middle,/area)
+"aX" = (/obj/map/DenseMarker,/turf/castle_int/roof/top,/area)
+"aY" = (/obj/map/cave_light,/turf/castle_int/roof/bottom,/area)
+"aZ" = (/turf/shop_int/stairs/middle,/area)
+"ba" = (/Building/Warper/Dynamic{dynamic_id = "aphros_watchtower_1"},/turf/shop_int/stairs/middle,/area)
+"bb" = (/Building/Warper/Dynamic{dynamic_id = "aphros_watchtower_2"},/turf/shop_int/stairs/middle,/area)
+"bc" = (/Building/Warper/Dynamic{dynamic_id = "aphros_watchtower_3"},/obj/map/noDenseMarker,/turf/castle_int/floor,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bd" = (/Building/Warper/Interior,/turf/castle_int/floor,/area)
+"be" = (/BuildingDetails{building_category = "Aphros"; building_cost = 25000; building_desc = "Increases scouting range!"; building_guild = "Aphros"; building_interior = 1; building_name = "A-Watch Tower"; building_settlement_only = 0; building_watchtower = 1},/turf/castle_int/floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah
+aaaaaaabababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabacadaeaeaeaeaeaeaeaeaeaeaeafacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabadagamaiajaiaiaiaiaiajaiaiakafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalapanaoaOaoaoaoaoaoaOaoaoaqarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalasatauauauauauauauauauauavarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalawaxayayayayayayayayayayazarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabalaAaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaCaDaDaDaDaDaEaFaGaDaDaDaDaDaHabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaaaaaaaaaaaaaIaJaKacaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abadaeaeaeaeaeafadaeaeaeaeaeafadaeaeaeaeaeafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalamaiajaiaiakagamaiaiaiaiakagamaiajaiaiarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalanaoaOaoaoaqaLanaoaoaoaoaqaLanaoaOaoaoarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalatauauauauavaMataNbcauauavaMatauauauauarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaPayayayayazaQaxayayayayazaQaxayayayayarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaCaDaRaSaTaSaUaDaDaEaVaGaDaDaRaSaWaSaUaDaHabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaCaXaJaXaHacacaIaXaKacacaCaXaJaXaHacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaacacacacacacacacacacacacacacacaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaadaeaYaeafadaeaeaeaeaeafadaeaYaeafaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaadagaZbaaZakagamaiaiaiaiakagaZbbaZakafaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalapaZaZaZaqaLanaoaoaoaoaqaLaZaZaZaqaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalasaZaZaZavaMatauauauauavaMaZaZaZavaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalawaZaZaZazaQaxayayayayazaQaZaZaZazaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBbeaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaalaAaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaraaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaCaDaDaDaDaDaDaDaEbdaGaDaDaDaDaDaDaDaHaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaIaJaKaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

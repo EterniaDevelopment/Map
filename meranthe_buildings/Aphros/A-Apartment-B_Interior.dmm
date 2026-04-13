@@ -1,0 +1,80 @@
+"a" = (/turf,/area)
+"b" = (/turf/void,/area)
+"c" = (/turf/castle_int/roof/corner/br,/area)
+"d" = (/turf/castle_int/roof/bottom,/area)
+"e" = (/turf/castle_int/roof/corner/bl,/area)
+"f" = (/turf/castle_int/roof/right,/area)
+"g" = (/turf/village/wall_aphros/top_middle,/area)
+"h" = (/turf/village/wall_aphros/top_middle,/turf/village/aphros_extra/windowbig_2,/area)
+"i" = (/turf/castle_int/roof/left,/area)
+"j" = (/turf/village/wall_aphros/middle,/area)
+"k" = (/MapLimit,/turf,/area)
+"l" = (/turf/village/wall_aphros/bottom,/area)
+"m" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"n" = (/turf/inn/floor,/area)
+"o" = (/turf/inn/floor,/turf/city/railing/bottom,/area)
+"p" = (/turf/inn/floor,/turf/gothic/castle_int/stairs/top/left,/area)
+"q" = (/turf/inn/floor,/turf/gothic/castle_int/stairs/top,/area)
+"r" = (/turf/inn/floor,/turf/gothic/castle_int/stairs/top/right,/area)
+"s" = (/turf/village/wall_aphros/top_right,/area)
+"t" = (/turf/gothic/castle_int/stairs/left,/area)
+"u" = (/turf/gothic/castle_int/stairs/middle,/area)
+"v" = (/turf/gothic/castle_int/stairs/right,/area)
+"w" = (/turf/village/wall_aphros/top_left,/area)
+"x" = (/turf/village/wall_aphros/middle_right,/area)
+"y" = (/turf/village/wall_aphros/middle_left,/area)
+"z" = (/turf/village/wall_aphros/bottom_right,/area)
+"A" = (/turf/village/wall_aphros/bottom_left,/area)
+"B" = (/turf/village/wall_aphros/middle,/obj/map/cave_light,/turf/village/aphros_extra/windowbig_1,/area)
+"C" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/gothic/castle_int/stairs/bottom/left,/area)
+"D" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/gothic/castle_int/stairs/bottom,/area)
+"E" = (/turf/castle_int/roof/corner/tr,/area)
+"F" = (/turf/castle_int/roof/top,/area)
+"G" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_right,/area)
+"H" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_left,/area)
+"I" = (/turf/castle_int/roof/corner/tl,/area)
+"J" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tr,/area)
+"K" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/castle_int/roof/top,/area)
+"L" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tl,/area)
+"M" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"N" = (/Building/Warper/Dynamic{dynamic_id = "A-Apart-B D2"},/turf/inn/floor,/area)
+"O" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/gothic/castle_int/stairs/bottom/right,/area)
+"P" = (/BuildingDetails{building_category = "Aphros"; building_cost = 75000; building_desc = "An apartment complex."; building_guild = "Aphros"; building_interior = 1; building_name = "A-Apartment B"; building_settlement_only = 1},/turf/inn/floor,/area)
+"Q" = (/turf/castle_int/roof/bottom_right,/area)
+"R" = (/turf/castle_int/roof/bottom_left,/area)
+"S" = (/turf/castle_int/roof/top_right,/area)
+"T" = (/turf/castle_int/roof/top_left,/area)
+
+(1,1,1) = {"
+aaaaabcdddddddddddddddddebaaaak
+aaaaabfggggggghghgggggggibaaaaa
+aaaaabfjjjjjjjBjBjjjjjjjibaaaaa
+aaaaabflllllllllllllllllibaaaaa
+aaaaabfmmmmmmmmmmmmmmmmmibaaaaa
+aaaaabfnnnnnnnnnnnnnnnnnibaaaaa
+aaaaabfnnnnnnnnnnnnnnnnnibaaaaa
+aaaaabfooooooopqroooooooibaaaaa
+aaaaabfggggggstuvwggggggibaaaaa
+aaaaabfjjjjjjxtuvyjjjjjjibaaaaa
+aaaaabfllllllztuvAllllllibaaaaa
+aaaaabfmmmmmmmCDOmmmmmmmibaaaaa
+aaaaabfnnnnnnnnnnnnnnnnnibaaaaa
+aaaaabfnnnnnnnnnnnnnnnnnibaaaaa
+aaabbbfooooooopqroooooooibbbaaa
+aaabcdQggggggstuvwggggggRdebaaa
+aaabfgsjjjjjjxtuvyjjjjjjwgibaaa
+aaabfjxllllllztuvAllllllyjibaaa
+aaabflzmmmmmmmCDOmmmmmmmAlibaaa
+aaabfmmnnnnnnnnnnnnnnnnnnnibaaa
+aaabfnnnnnnnnnnnnnnnnnnnnnibaaa
+aaabfnnnnnnnnnnnnnnnnnnnnnibaaa
+aaabfnnnnnnnnnnnnnnnnnnnnnibaaa
+aaabfnnnnnnnnnnPnnnnnnnnnnibaaa
+aaabfnnnnnnnnnnnnnnnnnnnnnibaaa
+aaabfnnnnnnnnnnnnnnnnnnnnnibaaa
+aaabfnnnnnnnnnnnnnnnnnnnnnibaaa
+aaabEFSnnnnnnnnnnnnnnnnnTFIbaaa
+aaabbbEFFFFFGMHFGNHFFFFFIbbbaaa
+aaabbbbbbbbbJKLbJKLbbbbbbbbbaaa
+aaabbbbbbbbbbbbbbbbbbbbbbbbbaaa
+"}

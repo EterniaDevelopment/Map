@@ -1,0 +1,56 @@
+"a" = (/turf/village/wall_delphinia/middle,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "left"},/turf/extra_roof/wood/left,/area)
+"b" = (/turf/void,/area)
+"c" = (/MapLimit,/turf/void,/area)
+"d" = (/turf/house/roof/top_left,/area)
+"e" = (/turf/house/roof/top,/area)
+"f" = (/turf/house/roof/top_right,/area)
+"g" = (/turf/house/roof/left,/area)
+"h" = (/turf/house/roof/corner/br,/area)
+"i" = (/turf/house/roof/bottom,/area)
+"j" = (/turf/house/roof/corner/bl,/area)
+"k" = (/turf/house/roof/right,/area)
+"l" = (/turf/house/roof/bottom_right,/area)
+"m" = (/turf/village/wall_delphinia/middle,/turf/extra_roof/wood/left,/area)
+"n" = (/turf/village/wall_delphinia/middle,/area)
+"o" = (/turf/village/wall_delphinia/middle,/turf/house/wooden_window{density = 1; icon_state = "pointy_top"},/area)
+"p" = (/turf/village/wall_delphinia/middle,/turf/extra_roof/wood/right,/area)
+"q" = (/turf/house/roof/bottom_left,/area)
+"r" = (/turf/house/wooden_window{icon_state = "pointy_middle"},/obj/map/window_light,/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"; layer = 5},/area)
+"s" = (/turf/city/wall/top,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "left"},/turf/extra_roof/wood/bottom/left,/area)
+"t" = (/turf/city/wall/top,/turf/extra_roof/wood/bottom/left,/area)
+"u" = (/turf/city/wall/top,/area)
+"v" = (/turf/city/wall/top,/turf/house/wooden_window{icon_state = "foilage3_bottom"; layer = 4},/area)
+"w" = (/turf/city/wall/top,/turf/extra_roof/wood/bottom/right,/area)
+"y" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "left"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/house/floor,/area)
+"z" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/house/floor,/area)
+"A" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "left"},/turf/house/floor,/area)
+"B" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "left"},/turf/house/floor,/area)
+"C" = (/turf/house/floor,/area)
+"D" = (/BuildingDetails{building_category = "Public"; building_cost = 20000; building_desc = "A building with 1 room."; building_guild = ""; building_interior = 1; building_name = "G-Small House F"; building_settlement_only = 1},/turf/house/floor,/area)
+"E" = (/turf/house/roof/corner/tr,/area)
+"F" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "left"},/Lot/Warper/Interior,/turf/house/floor,/area)
+"G" = (/turf/house/roof/corner/tl,/area)
+
+(1,1,1) = {"
+bbbbbbbbbbbbbbbbbbbbc
+bbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbb
+deeeeeeeeeeeeeeefbbbb
+gbhiiiiiiiiiiijbkbbbb
+ghlmnonnnnnonpqjkbbbb
+gkamnrnnnnnrnppgkbbbb
+gkatuvuuuuuvuwpgkbbbb
+gksyzzzzzzzzzzwgkbbbb
+gkABCCCCCCCCCCCgkbbbb
+gkABCCCCCCCCCCCgkbbbb
+gkABCCCCCCCCCCCgkbbbb
+gkABCCCCCCCCCCCgkbbbb
+gkABCCCCDCCCCCCgkbbbb
+gkABCCCCCCCCCCCgkbbbb
+gkABCCCCCCCCCCCgkbbbb
+gkABCCCCCCCCCCCgkbbbb
+gEeeeeefFdeeeeeGkbbbb
+gbbbbbbEeGbbbbbbkbbbb
+qiiiiiiiiiiiiiiilbbbb
+"}

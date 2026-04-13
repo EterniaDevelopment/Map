@@ -1,0 +1,87 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf,/area)
+"ac" = (/turf/village/horizontal_roof_delphinia/fill,/area)
+"ad" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/right,/area)
+"ae" = (/MapLimit,/turf/void,/area)
+"af" = (/turf/village/horizontal_roof_delphinia/fill,/turf/village/roof_delphinia/right_3{layer = 7},/area)
+"ag" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/center_3,/area)
+"ah" = (/turf/village/roof_delphinia/right_2,/area)
+"ai" = (/SmallPreview/End,/turf,/area)
+"aj" = (/turf/village/roof_delphinia/center_2,/turf/village/roof_delphinia/center_3{layer = 7},/area)
+"ak" = (/turf/village/roof_delphinia/left_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"al" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/bottom_right,/area)
+"am" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/left_3,/area)
+"an" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/center_2,/area)
+"ao" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/right_3,/area)
+"ap" = (/turf/village/roof_delphinia/right_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"aq" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_left,/area)
+"ar" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"as" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/right_4,/turf/village/roof_delphinia/left_4,/turf/house/wooden_window{density = 1; icon_state = "pointy_top"},/area)
+"at" = (/turf/village/roof_delphinia/left_2,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"au" = (/turf/village/wall_vdalion/top_middle,/turf/house/wooden_window{icon_state = "pointy_bottom"; layer = 13},/area)
+"av" = (/turf/village/roof_delphinia/right_2,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"aw" = (/BuildingDetails{building_category = "Delphina"; building_cost = 75000; building_desc = "An apartment complex."; building_guild = "Delphina"; building_interior = 0; building_name = "D-Apartment B"; building_settlement_only = 1},/turf/village/wall_vdalion/bottom,/area)
+"ax" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_right,/area)
+"ay" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/left,/area)
+"az" = (/turf/village/horizontal_roof_delphinia/fill,/turf/village/roof_delphinia/left_3{layer = 7},/area)
+"aA" = (/turf/village/roof_delphinia/center_2,/area)
+"aB" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/right_6,/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"aC" = (/turf/village/roof_delphinia/left_2,/area)
+"aD" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/center_1,/area)
+"aE" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/left_1,/area)
+"aG" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/right_1,/area)
+"aH" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/bottom_left,/area)
+"aI" = (/turf/village/wall_vdalion/top_left,/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"aJ" = (/turf/village/wall_vdalion/top_middle,/turf/village/vdalion_extra/windowbig_4,/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"aK" = (/turf/village/wall_vdalion/top_middle,/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"aL" = (/turf/village/wall_vdalion/top_middle,/turf/village/horizontal_roof_delphinia/bottom_fill,/turf/village/roof_delphinia/left_5,/area)
+"aM" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/left_4,/area)
+"aN" = (/turf/village/wall_vdalion/top_middle,/area)
+"aO" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/right_4,/area)
+"aQ" = (/turf/village/wall_vdalion/top_left,/area)
+"aR" = (/turf/village/wall_vdalion/top_middle,/turf/village/vdalion_extra/windowbig_3,/area)
+"aS" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/left_6,/area)
+"aT" = (/turf/village/wall_vdalion/top_left,/turf/village/roof_delphinia/left_1,/area)
+"aU" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/left_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"aV" = (/turf/village/wall_vdalion/top_right,/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"aW" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/right_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"aX" = (/turf/village/wall_vdalion/top_right,/turf/village/roof_delphinia/right_1,/area)
+"aY" = (/turf/village/wall_vdalion/middle_left,/area)
+"aZ" = (/turf/village/wall_vdalion/middle,/turf/village/vdalion_extra/windowbig_5,/area)
+"ba" = (/turf/village/wall_vdalion/middle,/area)
+"bb" = (/turf/village/wall_vdalion/middle,/turf/village/roof_delphinia/left_7,/area)
+"bc" = (/turf/village/wall_vdalion/top_left,/turf/village/roof_delphinia/left_4,/area)
+"bd" = (/turf/village/wall_vdalion/top_right,/turf/village/roof_delphinia/right_4,/area)
+"be" = (/turf/village/wall_vdalion/middle,/turf/village/roof_delphinia/right_7,/area)
+"bf" = (/turf/village/wall_vdalion/bottom_left,/area)
+"bg" = (/turf/village/wall_vdalion/bottom,/area)
+"bh" = (/turf/village/wall_vdalion/middle_right,/area)
+"bi" = (/turf/village/wall_vdalion/bottom_right,/area)
+"bj" = (/turf/village/wall_vdalion/foundation_left,/area)
+"bk" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"bl" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/area)
+"bm" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/area)
+"bn" = (/turf/village/wall_vdalion/foundation_right,/area)
+"bo" = (/SmallPreview/Start,/turf,/area)
+"bp" = (/turf/village/wall_vdalion/top_middle,/turf/village/roof_delphinia/right_6,/area)
+"bq" = (/turf/village/wall_vdalion/top_right,/area)
+"br" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_4,/area)
+"bs" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+
+(1,1,1) = {"
+aaabababababababababagababababababababaiae
+aaababababababababamanaoababababababababaa
+aaaqararararararakatajavapararararararaxaa
+aaayacacacacacacacazaAafacacacacacacacadaa
+aaayacacacacacacazaCaDahafacacacacacacadaa
+aaayacacacacacazaCaEasaGahafacacacacacadaa
+aaaHaIaJaKaJaLaCaEaMauaOaGahaBaJaKaJaValaa
+aaabaQaRaNaRaSaTaUaNaNaNaWaXbpaRaNaRbqabaa
+aaabaYaZbaaZbbbcaRaNaNaNaRbdbeaZbaaZbhabaa
+aaabbfbrbgbrbgaYaZbababaaZbhbgbrbgbrbiabaa
+aaabbfbsbgbsbgbfbrbgawbgbrbibgbsbgbsbiabaa
+aaabbjbkbkbkbkbfbsbgblbgbsbibkbkbkbkbnabaa
+aaababababababbjbkbkbmbkbkbnababababababaa
+aaboababababababababababababababababababaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,10 @@
+"a" = (/turf,/area)
+"b" = (/MapLimit,/turf,/area)
+"c" = (/BuildingDetails{building_category = "Public"; building_cost = 5000; building_desc = "A basement room."; building_guild = ""; building_name = "Apartment 2"; building_settlement_only = 1},/turf,/area)
+"d" = (/Building/Warper/Exterior,/turf/house/wooden_door{icon_state = "2"},/area)
+
+(1,1,1) = {"
+aab
+aca
+ada
+"}

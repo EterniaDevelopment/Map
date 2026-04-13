@@ -1,0 +1,55 @@
+"a" = (/turf/void,/area)
+"b" = (/obj/map/viewBlock,/turf/void,/area)
+"c" = (/turf/house/roof/corner/br,/area)
+"d" = (/turf/house/roof/bottom,/area)
+"e" = (/turf/house/roof/corner/bl,/area)
+"f" = (/turf/house/roof/right,/area)
+"g" = (/MapLimit,/turf/void,/area)
+"h" = (/turf/village/wall_delphinia/middle,/turf/jianghu_house/shadow{density = 1},/area)
+"i" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_2,/turf/jianghu_house/shadow{density = 1},/area)
+"j" = (/turf/house/roof/left,/area)
+"k" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/middle,/area)
+"l" = (/turf/village/wall_delphinia/middle,/area)
+"m" = (/turf/village/wall_delphinia/middle,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"n" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"o" = (/turf/village/wall_delphinia/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"p" = (/turf/village/wall_delphinia/bottom,/turf/house/wooden_window{density = 1; icon_state = "foilage1_bottom"},/area)
+"q" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"r" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"s" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"t" = (/turf/inn/floor,/area)
+"u" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_1,/obj/map/cave_light,/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"},/area)
+"v" = (/turf/house/roof/corner/tr,/area)
+"w" = (/turf/house/roof/top,/area)
+"x" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"y" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"z" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"A" = (/turf/house/roof/corner/tl,/area)
+"B" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"C" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"D" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"E" = (/BuildingDetails{building_category = "Delphina"; building_cost = 50000; building_desc = "An apartment complex."; building_guild = "Delphina"; building_interior = 1; building_name = "D-Apartment"; building_settlement_only = 1},/turf/inn/floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaag
+bbbbbbbbbbbbbbbbbbbbb
+bcdddddddddddddddddeb
+bfmhihhhhhhhhhhhihhjb
+bfklulllllllllllulljb
+bfnopooooooooooopoojb
+bfqrrrrrrrrrrrrrrrrjb
+bfsttttttttttttttttjb
+bfsttttttttttttttttjb
+bfsttttttttttttttttjb
+bfsttttttttttttttttjb
+bfsttttttttttttttttjb
+bfsttttttttttttttttjb
+bfsttttttttttttttttjb
+bfsttttttttttttttttjb
+bfsttttttttttttttttjb
+bfstttttttEttttttttjb
+bfsttttttttttttttttjb
+bvwwwwwwwxyzwwwwwwwAb
+baaaaaaaaBCDaaaaaaaab
+bbbbbbbbbbbbbbbbbbbbb
+"}

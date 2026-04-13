@@ -1,0 +1,28 @@
+"a" = (/turf/void,/area)
+"b" = (/turf/inn/roof/top_left,/area)
+"c" = (/turf/inn/roof/top,/area)
+"d" = (/SmallPreview/End,/turf/inn/roof/top_right,/area)
+"e" = (/turf/inn/roof/bottom_left,/area)
+"f" = (/turf/inn/roof/middle,/area)
+"g" = (/turf/inn/roof/right,/area)
+"h" = (/turf/inn/wall/top/middle,/area)
+"i" = (/turf/inn/wall/middle/middle,/area)
+"j" = (/turf/inn/wall/middle/door,/area)
+"k" = (/turf/inn/wall/bottom/middle,/area)
+"l" = (/Building/Warper/Exterior,/turf/village/door/door_1/close,/area)
+"m" = (/SmallPreview/Start,/turf/inn/wall/bottom/middle,/area)
+"n" = (/BuildingDetails{building_category = "Small Buildings"; building_cost = 5000; building_desc = "A cozy little cottage."; building_name = "Cozy Cottage"},/turf/inn/roof/middle,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaa
+aaaaaaaaaaa
+aabcccccdaa
+aaefffffgaa
+aaeffnffgaa
+aaefffffgaa
+aahhhhhhhaa
+aaiiiiiiiaa
+aaiiijiiiaa
+aamkklkkkaa
+aaaaaaaaaaa
+"}

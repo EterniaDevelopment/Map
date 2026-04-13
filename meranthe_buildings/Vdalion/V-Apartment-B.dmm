@@ -1,0 +1,59 @@
+"a" = (/turf/void,/area)
+"b" = (/turf,/area)
+"c" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_left,/area)
+"d" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"e" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_right,/area)
+"f" = (/SmallPreview/End,/turf,/area)
+"g" = (/MapLimit,/turf/void,/area)
+"h" = (/turf/village/horizontal_roof_vdalion2/top_fill,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/left,/area)
+"i" = (/turf/village/horizontal_roof_vdalion2/fill,/area)
+"j" = (/turf/village/horizontal_roof_vdalion2/top_fill,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/right,/area)
+"k" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/left,/area)
+"l" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/right,/area)
+"m" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/bottom_left,/area)
+"n" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion2/bottom_fill,/turf/village/horizontal_roof_vdalion2/left,/area)
+"o" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion2/bottom_fill,/turf/village/horizontal_roof_vdalion2/right,/area)
+"p" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/bottom_right,/area)
+"q" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion2/bottom_left,/area)
+"r" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"s" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"t" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"u" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion2/bottom_right,/area)
+"v" = (/turf/village/wall_vdalion/bottom_left,/area)
+"w" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_4,/area)
+"x" = (/turf/village/wall_vdalion/bottom_right,/area)
+"y" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+"z" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_5,/area)
+"A" = (/turf/village/wall_vdalion/bottom,/area)
+"B" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_4,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"C" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"D" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_5,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"E" = (/obj/ColiseumSilver/Coliseum/front/three{color = "#bd9770"},/turf/village/horizontal_roof_vdalion2/fill,/area)
+"F" = (/turf/village/wall_vdalion/bottom,/BuildingDetails{building_category = "Vdalion"; building_cost = 75000; building_desc = "An apartment complex."; building_guild = "Vdalion"; building_name = "V-Apartment B"; building_settlement_only = 1},/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"G" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/area)
+"H" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"I" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"J" = (/turf/village/wall_vdalion/foundation_left,/area)
+"K" = (/turf/village/wall_vdalion/foundation_right,/area)
+"L" = (/SmallPreview/Start,/turf,/area)
+
+(1,1,1) = {"
+abcdddebbbbbbbcdddefg
+achiiijebbbbbchiiijea
+akiiiiilbbbbbkiiiiila
+akiiiiilbbbbbkiiiiila
+amniiiopbbbbbmniiiopa
+abqrstubbbbbbbqrstuba
+abvvwxxbbbbbbbvvwxxba
+abvvyxxdddddddvvyxxba
+abvvzxxiiiiiiivvzxxba
+abvvAxxsBsssBsvvAxxba
+abvvwxxCDCCCDCvvwxxba
+abvvyxxiiiiiEEvvyxxba
+abvvzxxsBsFsBsvvzxxba
+abvvAxxAyAGAyAvvAxxba
+abvvwxxHHHIHHHvvwxxba
+abJvyxKbbbbbbbJvyxKba
+aLbJHKbbbbbbbbbJHKbba
+aaaaaaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,95 @@
+"a" = (/turf/void,/area)
+"b" = (/MapLimit,/turf/void,/area)
+"c" = (/obj/map/viewBlock,/turf/void,/area)
+"d" = (/turf/house/roof/corner/br,/area)
+"e" = (/turf/house/roof/bottom,/area)
+"f" = (/turf/house/roof/corner/bl,/area)
+"g" = (/turf/house/roof/bottom_right,/area)
+"h" = (/turf/village/building/wall/wall_1/top/top,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow,/area)
+"i" = (/turf/village/building/wall/wall_1/top/top,/turf/jianghu_house/shadow,/area)
+"j" = (/turf/village/building/wall/wall_1/top/top,/turf/jianghu_house/shadow,/turf/house/wooden_window{icon_state = "window_top"},/area)
+"k" = (/turf/house/roof/bottom_left,/area)
+"l" = (/turf/house/roof/right,/area)
+"m" = (/turf/village/building/wall/wall_1/top/right,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow,/area)
+"n" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/building/wall/wall_1/middle/middle,/area)
+"o" = (/turf/village/building/wall/wall_1/middle/middle,/area)
+"p" = (/turf/house/wooden_window{icon_state = "window_middle"},/obj/map/cave_light,/turf/house/wooden_window{icon_state = "foilage1_top"},/area)
+"q" = (/turf/village/building/wall/wall_1/top/left,/turf/jianghu_house/shadow,/area)
+"r" = (/turf/house/roof/left,/area)
+"s" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/building/wall/wall_1/middle/right,/area)
+"t" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/extra_roof/wall/middle/two,/area)
+"u" = (/turf/extra_roof/wall/middle/two,/area)
+"v" = (/turf/extra_roof/wall/middle/two,/turf/house/wooden_window{icon_state = "foilage1_bottom"},/area)
+"w" = (/turf/village/building/wall/wall_1/middle/left,/area)
+"x" = (/turf/extra_roof/wall/middle/two,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/extra_roof/wood/bottom/right,/area)
+"y" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf/inn/floor,/area)
+"z" = (/turf/inn/floor,/area)
+"A" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/bottom/left,/area)
+"B" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"C" = (/turf/house/roof/corner/tr,/area)
+"D" = (/turf/house/roof/top,/area)
+"E" = (/turf/house/roof/top_right,/area)
+"F" = (/Building/Warper/Dynamic{dynamic_id = "Public_D_room1"},/turf/inn/floor,/area)
+"G" = (/turf/house/roof/top_left,/area)
+"H" = (/turf/house/roof/corner/tl,/area)
+"I" = (/turf/shop_int/stairs/middle,/area)
+"J" = (/Building/Warper/Dynamic{dynamic_id = "Public_D_room1"},/turf/shop_int/stairs/middle,/area)
+"K" = (/turf/village/building/wall/wall_1/top/right,/turf/jianghu_house/shadow,/area)
+"L" = (/turf/village/building/wall/wall_1/middle/right,/area)
+"M" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/bottom/right,/area)
+"N" = (/BuildingDetails{building_category = "Public"; building_cost = 50000; building_desc = "A building with 2 rooms."; building_guild = ""; building_interior = 1; building_name = "Public House_D"; building_rent = 100; building_rent_upfront = 3000},/turf/inn/floor,/area)
+"O" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aacccccccccccccccccaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aacadeeeeeeeeeeefacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aacdghijiiiiijiikfcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclmnopooooopooqrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclstuvuuuuuvuuwrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclxyzzzzzzzzzzArcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclBzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclBzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclBzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclBzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclBzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclBzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclBzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaclBzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aacCDDDDDEFGDDDDDHcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aacaaaaaaCDHaaaaaacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cccccccccccccccccccccaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cdeeeeefdeeefdeeeeefcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clhijiikgIJIkghijiircaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clnopooqKIIIqKnopoorcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cltuvuuwLIIIwLtuvuurcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzAMIIIAMzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzNzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clBzzzzzzzzzzzzzzzzrcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cCDDDDDDDEOGDDDDDDDHcaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+caaaaaaaaCDHaaaaaaaacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cccccccccccccccccccccaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

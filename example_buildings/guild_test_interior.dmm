@@ -1,0 +1,33 @@
+"a" = (/turf/jianghu_house_int/roof/top_left{density = 1},/area)
+"b" = (/turf/jianghu_house_int/roof/top{density = 1},/area)
+"c" = (/turf/jianghu_house_int/roof/top_right{density = 1},/area)
+"d" = (/turf/jianghu_house_int/roof/left,/area)
+"e" = (/turf/jianghu_house_int/woodfloor,/area)
+"f" = (/turf/jianghu_house_int/roof/right,/area)
+"g" = (/BuildingDetails{building_category = "Small Buildings"; building_cost = 5000; building_desc = "A building to test guild locking."; building_guild = "Test Guild"; building_interior = 1; building_name = "Guild Garage"},/turf/jianghu_house_int/woodfloor,/area)
+"h" = (/turf/jianghu_house_int/roof/bottom_left,/area)
+"i" = (/turf/jianghu_house_int/roof/bottom,/area)
+"j" = (/Building/Warper/Interior,/turf/jianghu_house_int/roof/bottom{density = 0},/area)
+"k" = (/turf/jianghu_house_int/roof/bottom_right,/area)
+"l" = (/turf/inn/wall/middle/left,/area)
+"m" = (/turf/inn/wall/middle/middle,/area)
+"n" = (/turf/inn/wall/middle/right,/area)
+"o" = (/turf/inn/wall/middle/door,/area)
+"p" = (/turf/inn/wall/bottom/left,/area)
+"q" = (/turf/inn/wall/bottom/middle,/area)
+"r" = (/turf/house/wooden_door,/area)
+"s" = (/turf/inn/wall/bottom/right,/area)
+
+(1,1,1) = {"
+abbbbbbbbbc
+deeeeeeeeef
+deeeeeeeeef
+deeeegeeeef
+deeeeeeeeef
+deeeeeeeeef
+deeeeeeeeef
+hiiiijiiiik
+lmmmmmmmmmn
+lmmmmommmmn
+pqqqqrqqqqs
+"}

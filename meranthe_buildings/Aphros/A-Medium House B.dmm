@@ -1,0 +1,86 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf,/area)
+"ac" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/center_3,/area)
+"ad" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_3,/area)
+"ae" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/center_2,/area)
+"af" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/right_3,/area)
+"ag" = (/turf/village/roof_aphros/left_2,/area)
+"ah" = (/turf/village/roof_aphros/center_2,/turf/village/horizontal_roof_aphros/top_left,/turf/village/roof_aphros/center_3{layer = 7},/area)
+"ai" = (/turf/village/roof_aphros/right_2,/turf/village/horizontal_roof_aphros/top_fill,/area)
+"aj" = (/SmallPreview/End,/turf,/area)
+"ak" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/top_fill,/area)
+"al" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/top_right,/area)
+"am" = (/turf/village/roof_aphros/center_2,/area)
+"an" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/roof_aphros/right_3{layer = 7},/area)
+"ao" = (/turf/village/horizontal_roof_aphros/fill,/area)
+"ap" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/right,/area)
+"aq" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_5,/area)
+"ar" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/center_1,/area)
+"as" = (/turf/village/roof_aphros/right_2,/area)
+"at" = (/turf/inn/rail/middle,/turf/inn/rail/right,/turf/village/horizontal_roof_aphros/right,/area)
+"au" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_6,/area)
+"av" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_1,/area)
+"aw" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_4,/turf/village/roof_aphros/left_4,/area)
+"ax" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_1,/area)
+"ay" = (/MapLimit,/turf/void,/area)
+"az" = (/turf/village/wall_aphros/middle,/turf/village/horizontal_roof_aphros/bottom_fill,/turf/village/aphros_extra/door_top,/area)
+"aA" = (/turf/village/wall_aphros/middle,/turf/village/horizontal_roof_aphros/bottom_fill,/area)
+"aB" = (/turf/village/wall_aphros/middle_right,/turf/village/horizontal_roof_aphros/bottom_fill,/area)
+"aC" = (/turf/village/roof_aphros/right_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/top_fill,/area)
+"aD" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_4,/area)
+"aE" = (/turf/village/wall_aphros/middle,/turf/village/aphros_extra/windowbig_2,/area)
+"aF" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_4,/area)
+"aG" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_1,/area)
+"aH" = (/turf/village/wall_aphros/middle,/turf/village/horizontal_roof_aphros/bottom_fill,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/village/roof_aphros/right_5{density = 0; layer = 7},/area)
+"aI" = (/Building/Warper/Dynamic{dynamic_id = "AMedium House B_4"},/turf/village/aphros_extra/door_bottom,/area)
+"aJ" = (/turf/village/wall_aphros/middle,/area)
+"aK" = (/turf/village/wall_aphros/middle_right,/area)
+"aL" = (/turf/shop_int/floor,/turf/village/horizontal_roof_aphros/bottom_right,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/obj/map/noDenseMarker,/turf/inn/rail/right{layer = 3.2},/area)
+"aM" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_1,/area)
+"aN" = (/turf/village/wall_aphros/middle,/turf/village/aphros_extra/windowbig_1,/turf/house/wooden_window{icon_state = "foilage1_top"},/area)
+"aO" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_4,/area)
+"aP" = (/turf/village/wall_aphros/middle,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/village/roof_aphros/right_6{layer = 3},/area)
+"aQ" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aR" = (/turf/shop_int/floor,/turf/inn/rail/right,/area)
+"aS" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_7,/area)
+"aT" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_4,/area)
+"aU" = (/turf/village/wall_aphros/middle,/turf/house/wooden_window{icon_state = "foilage2_bottom"},/area)
+"aV" = (/turf/shop_int/floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf/inn/rail/right{layer = 3.2},/area)
+"aW" = (/turf/inn/floor,/turf/inn/rail/middle,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aX" = (/turf/village/wall_aphros/bottom_left,/area)
+"aY" = (/turf/village/wall_aphros/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aZ" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/obj/map/noDenseMarker,/turf/village/roof_aphros/right_7{layer = 7},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ba" = (/turf/village/wall_aphros/bottom_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bb" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/inn/rail/middle,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bc" = (/turf/village/wall_aphros/foundation_middle,/turf/jianghu_house/shadow{density = 1},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bd" = (/turf/village/wall_aphros/foundation_middle,/turf/jianghu_house/shadow{density = 1},/turf/village/horizontal_roof_vdalion2/bottom_middle,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"be" = (/turf/village/wall_aphros/foundation_right,/turf/jianghu_house/shadow{density = 1},/turf/village/horizontal_roof_vdalion2/bottom_middle,/area)
+"bf" = (/turf/village/wall_aphros/foundation_left,/area)
+"bg" = (/turf/village/wall_aphros/foundation_middle,/turf/village/aphros_extra/window_2,/turf/house/wooden_window{icon_state = "foilage2_top"},/area)
+"bh" = (/turf/village/wall_aphros/foundation_middle,/area)
+"bi" = (/turf/village/wall_aphros/foundation_middle,/turf/village/aphros_extra/door_top,/area)
+"bj" = (/turf/village/wall_aphros/foundation_right,/area)
+"bk" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/village/wall_aphros/foundation_middle,/area)
+"bl" = (/turf/village/wall_aphros/foundation_middle,/turf/house/wooden_window{icon_state = "foilage2_bottom"},/area)
+"bm" = (/Building/Warper/Exterior,/turf/village/aphros_extra/door_bottom,/area)
+"bn" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf,/area)
+"bo" = (/BuildingDetails{building_category = "Aphros"; building_cost = 50000; building_desc = "A modest building with 3 rooms."; building_guild = "Aphros"; building_name = "A-Medium House B"; building_settlement_only = 1},/turf/village/wall_aphros/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bp" = (/SmallPreview/Start,/turf,/area)
+"bq" = (/turf/village/wall_aphros/foundation_middle,/turf/jianghu_house/shadow{density = 1},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/village/horizontal_roof_vdalion2/bottom_middle,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay
+aaaaaaababababacababababababajaaaaaa
+aaaaaaabababadaeafababababababaaaaaa
+aaaaaaababadagahaiaCakakakakalaaaaaa
+aaaaaaabadagagamanaoaoaoaoaoapaaaaaa
+aaaaaaaqagagagarasanaoaoaoaoataaaaaa
+aaaaaaauagagavawaxasaHazaAaBaLaaaaaa
+aaaaaaauagavaDaEaFaGaPaIaJaKaVaaaaaa
+aaaaaaauaMaDaJaNaJaOaZaQaQaQaRaaaaaa
+aaaaaaaSaTaJaJaUaJaKbbaWaWaWaWaaaaaa
+aaaaaaabaXaYaYboaYbabqbcbdbcbeaaaaaa
+aaaaaaabbfbgbhbibhbjbkbhbhbhbjaaaaaa
+aaaaaabpbfblbhbmbhbjbnababababaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,101 @@
+"a" = (/turf/void,/area)
+"b" = (/obj/map/viewBlock,/turf/void,/area)
+"c" = (/turf/castle_int/roof/corner/br,/area)
+"d" = (/turf/castle_int/roof/bottom,/area)
+"e" = (/turf/castle_int/roof/corner/bl,/area)
+"f" = (/turf/castle_int/roof/right,/area)
+"g" = (/MapLimit,/turf/void,/area)
+"h" = (/turf/village/wall_aphros/middle,/turf/jianghu_house/shadow{density = 1},/area)
+"i" = (/turf/village/wall_aphros/middle,/turf/jianghu_house/shadow{density = 1},/turf/village/aphros_extra/windowbig_2,/area)
+"j" = (/turf/castle_int/roof/left,/area)
+"k" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/middle,/area)
+"l" = (/turf/village/wall_aphros/middle,/area)
+"m" = (/turf/village/wall_aphros/middle,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"n" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_aphros/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"o" = (/turf/village/wall_aphros/bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"p" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"q" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"r" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"s" = (/turf/inn/floor,/area)
+"t" = (/turf/castle_int/roof/corner/tr,/area)
+"u" = (/turf/castle_int/roof/top,/area)
+"v" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_right,/area)
+"w" = (/Building/Warper/Dynamic{dynamic_id = "aphrosC_room1"},/turf/inn/floor,/area)
+"x" = (/obj/map/DenseMarker,/turf/castle_int/roof/top_left,/area)
+"y" = (/turf/castle_int/roof/corner/tl,/area)
+"z" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tr,/area)
+"A" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/castle_int/roof/top,/area)
+"B" = (/obj/map/DenseMarker,/turf/castle_int/roof/corner/tl,/area)
+"C" = (/obj/map/DenseMarker,/turf/castle_int/roof/bottom,/area)
+"D" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/castle_int/roof/bottom,/area)
+"E" = (/turf/castle_int/roof/bottom_left,/area)
+"F" = (/turf/castle_int/roof/bottom_right,/area)
+"G" = (/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"H" = (/Building/Warper/Dynamic{dynamic_id = "aphrosC_room1"},/turf/shop_int/stairs/middle,/area)
+"I" = (/turf/village/wall_aphros/middle_left,/turf/jianghu_house/shadow{density = 1},/area)
+"J" = (/turf/village/wall_aphros/middle_right,/turf/jianghu_house/shadow{density = 1},/area)
+"K" = (/turf/shop_int/stairs/middle,/area)
+"L" = (/turf/village/wall_aphros/middle_left,/area)
+"M" = (/turf/village/wall_aphros/middle_right,/area)
+"N" = (/turf/village/wall_aphros/bottom_left,/area)
+"O" = (/turf/village/wall_aphros/bottom_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"P" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"Q" = (/turf/castle_int/roof/top_left,/area)
+"R" = (/turf/castle_int/roof/top_right,/area)
+"S" = (/turf/village/wall_aphros/middle,/obj/map/cave_light,/turf/village/aphros_extra/windowbig_1,/area)
+"T" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"U" = (/BuildingDetails{building_category = "Aphros"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = "Aphros"; building_interior = 1; building_name = "A-Small House C"; building_settlement_only = 1},/turf/inn/floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabacdddddddddddddeabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafmhihhhhhhhihhjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafklSlllllllSlljabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafnoooooooooooojabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafpqqqqqqqqqqqqjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafrssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafrssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafrssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafrssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafrssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafrssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafrssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabafrssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabatuuuuuvwxuuuuuyabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabaaaaaaazABaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bacddddddecCDCecdddddeabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafmhihhhEFGHGEFmhihhjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafklSlllIJKKKIJklSlljabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafnoooooLMKKKLMnoooojabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafpqqqqqNOKKKNOPqqqqjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafrsssssssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafrsssssssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafrsssssssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafrsssssssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafrsssssssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafrsssssssssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bafrsssssQRssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+batuuuuuuyfssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaafssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaafssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaafssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaafssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaafsssssUssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaafssssssssssjabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaatuuuuvTxuuuyabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaaaaaaazABaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

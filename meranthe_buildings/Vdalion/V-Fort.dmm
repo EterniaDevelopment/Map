@@ -1,0 +1,136 @@
+"aa" = (/turf,/area)
+"ab" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/center_3,/area)
+"ac" = (/SmallPreview/End,/MapLimit,/turf,/area)
+"ad" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/left_3,/area)
+"ae" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/center_2,/area)
+"af" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/right_3,/area)
+"ag" = (/turf/village/roof_vdalion2/left_2,/area)
+"ah" = (/turf/village/roof_vdalion2/center_2,/area)
+"ai" = (/turf/village/roof_vdalion2/right_2,/area)
+"aj" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_left,/area)
+"ak" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"al" = (/turf/village/roof_vdalion2/left_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"am" = (/turf/village/roof_vdalion2/left_2,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"an" = (/turf/village/roof_vdalion2/center_2,/turf/village/horizontal_roof_vdalion2/top_middle,/turf/village/roof_vdalion2/center_3{layer = 7},/area)
+"ao" = (/turf/village/roof_vdalion2/right_2,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"ap" = (/turf/village/roof_vdalion2/right_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"aq" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_right,/area)
+"ar" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/left,/area)
+"as" = (/turf/village/horizontal_roof_vdalion2/fill,/area)
+"at" = (/turf/village/horizontal_roof_vdalion2/fill,/turf/village/roof_vdalion2/left_3{layer = 7},/area)
+"au" = (/turf/village/horizontal_roof_vdalion2/fill,/turf/village/roof_vdalion2/right_3{layer = 7},/area)
+"av" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/right,/area)
+"aw" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/left_5,/area)
+"ax" = (/turf/village/roof_vdalion2/center_2,/turf/village/horizontal_roof_vdalion2/top_left,/turf/village/roof_vdalion2/center_3{layer = 7},/area)
+"ay" = (/turf/village/roof_vdalion2/right_5,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"az" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/center_1,/area)
+"aA" = (/turf/village/roof_vdalion2/left_5,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion2/top_fill,/area)
+"aB" = (/turf/village/roof_vdalion2/center_2,/turf/village/horizontal_roof_vdalion2/top_right,/turf/village/roof_vdalion2/center_3{layer = 7},/area)
+"aC" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/right_5,/area)
+"aD" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/left_6,/area)
+"aE" = (/turf/academy/rail/top,/turf/village/horizontal_roof_vdalion2/right,/area)
+"aF" = (/turf/academy/rail/top,/turf/village/horizontal_roof_vdalion2/left,/area)
+"aG" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/left_1,/area)
+"aH" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/left_4,/turf/village/roof_vdalion2/right_4,/area)
+"aI" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/right_1,/area)
+"aJ" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/right_6,/area)
+"aK" = (/turf/academy/floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/right,/area)
+"aL" = (/turf/academy/floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/left,/area)
+"aM" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/left_4,/area)
+"aN" = (/turf/village/wall_vdalion/bottom,/area)
+"aO" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion2/right_4,/area)
+"aP" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion2/bottom_fill,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/roof_vdalion2/right_5{layer = 7},/area)
+"aQ" = (/turf/academy/floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_vdalion2/bottom_right,/area)
+"aR" = (/turf/academy/floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/turf/village/horizontal_roof_vdalion2/bottom_left,/area)
+"aS" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion2/bottom_fill,/turf/village/roof_vdalion2/left_5{layer = 7},/area)
+"aT" = (/turf/village/wall_vdalion/bottom_right,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/roof_vdalion2/right_6{layer = 7},/area)
+"aU" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/turf/academy/floor,/area)
+"aV" = (/turf/academy/floor,/area)
+"aW" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion2/left_6,/area)
+"aX" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion2/left_1,/area)
+"aY" = (/obj/map/shop_int/window/dark,/turf/village/wall_vdalion/bottom,/area)
+"aZ" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion2/right_1,/area)
+"ba" = (/turf/academy/floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/village/roof_vdalion2/right_6{layer = 7},/area)
+"bb" = (/turf/academy/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/village/roof_vdalion2/left_7{layer = 3},/area)
+"bc" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion2/left_4,/area)
+"bd" = (/BuildingDetails{building_category = "Vdalion"; building_cost = "150,000"; building_desc = "A large fort."; building_guild = "Vdalion"; building_interior = 0; building_name = "V-Fort"; building_settlement_only = 1},/turf/village/wall_vdalion/bottom,/area)
+"be" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion2/right_4,/area)
+"bf" = (/turf/academy/floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/village/roof_vdalion2/right_7{layer = 7},/area)
+"bg" = (/turf/academy/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/village/roof_vdalion2/left_6{layer = 3},/area)
+"bh" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/left_7,/area)
+"bi" = (/turf/academy/rail/bottom,/turf/village/roof_vdalion2/right_7{layer = 7},/area)
+"bj" = (/turf/academy/rail/bottom,/area)
+"bk" = (/turf/academy/rail/bottom_right,/area)
+"bl" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "bl_corner"},/turf/village/wall_vdalion/bottom,/area)
+"bm" = (/turf/academy/rail/bottom_left,/area)
+"bn" = (/turf/academy/rail/bottom,/turf/village/roof_vdalion2/left_7{layer = 3},/area)
+"bo" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion2/right_7,/area)
+"bp" = (/turf/village/wall_vdalion/bottom_left,/area)
+"bq" = (/turf/village/wall_vdalion/bottom_right,/area)
+"br" = (/turf/village/wall_vdalion/bottom,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/jianghu_house/shadow{density = 1},/area)
+"bs" = (/turf/village/wall_vdalion/bottom,/turf/jianghu_house/shadow{density = 1},/area)
+"bt" = (/turf/village/wall_vdalion/bottom_right,/turf/jianghu_house/shadow{density = 1},/area)
+"bu" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/wall_vdalion/foundation_middle,/area)
+"bv" = (/obj/map/castle/gate/close,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/wall_vdalion/foundation_middle,/area)
+"bw" = (/Building/Warper/Exterior,/turf/village/wall_vdalion/foundation_middle,/area)
+"bx" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"by" = (/turf/village/wall_vdalion/bottom_left,/turf/jianghu_house/shadow{density = 1},/area)
+"bz" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/wall_vdalion/bottom,/area)
+"bA" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/academy/floor,/area)
+"bB" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/academy/floor,/area)
+"bC" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/academy/rail/left,/area)
+"bF" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/academy/rail/right,/area)
+"bG" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "bl_corner"},/turf/village/wall_vdalion/foundation_middle,/area)
+"bH" = (/SmallPreview/Start,/turf,/area)
+"bI" = (/turf/village/wall_vdalion/foundation_left,/area)
+"bJ" = (/turf/village/wall_vdalion/foundation_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bK" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf,/area)
+"bL" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf,/area)
+"bM" = (/turf/academy/rail/left,/area)
+"bN" = (/turf/academy/rail/right,/area)
+"bO" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf,/area)
+"bP" = (/turf/void,/area)
+"bQ" = (/turf/academy/fence/side/left,/area)
+"bR" = (/turf/academy/floor,/turf/castle_int/stairs/top_left,/turf/castle_int/ledge/left_1,/area)
+"bS" = (/turf/academy/floor,/turf/castle_int/stairs/top,/area)
+"bT" = (/turf/academy/floor,/turf/castle_int/stairs/top_right,/turf/castle_int/ledge/right_1,/area)
+"bU" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf,/area)
+"bV" = (/turf/academy/fence/side/right,/area)
+"bW" = (/turf/castle_int/stairs/left,/area)
+"bX" = (/turf/castle_int/stairs/middle,/area)
+"bY" = (/turf/castle_int/stairs/right,/area)
+"bZ" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/turf,/area)
+"ca" = (/turf/village/road_brown/left,/turf/castle_int/stairs/bottom_left,/area)
+"cb" = (/turf/castle_int/stairs/bottom,/area)
+"cc" = (/turf/castle_int/stairs/bottom_right,/area)
+"cd" = (/turf/academy/fence/horizontal/bottom/left,/area)
+"ce" = (/turf/academy/fence/horizontal/bottom/middle,/area)
+"cf" = (/turf/academy/fence/post/left,/area)
+"cg" = (/turf/academy/fence/post/right,/area)
+"ch" = (/turf/academy/fence/horizontal/bottom/right,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaadaeafaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaaaaaaaaaaaaaaaaadagahaiafaaaaaaaaaaaaaaaaabaaaaaa
+aaaaadaeafaaaaaaajakakalamamanaoaoapakakaqaaaaaaadaeafaaaa
+aaadagahaiafaaaaarasasasasatahauasasasasavaaaaadagahaiafaa
+awagagaxaoaoayaqarasasasatagazaiauasasasavajaAamamaBaiaiaC
+aDagagahauasasaEaFasasatagaGaHaIaiauasasaEaFasasatahaiaiaJ
+aDagagahaiauasaKaLasatagaGaMaNaOaIaiauasaKaLasatagahaiaiaJ
+aDagagazaiaiaPaQaRaSagaGaMaNaNaNaOaIaiaPaQaRaSagagazaiaiaJ
+aDagaGaHaIaiaTaUaVaWaXaMaYaNaNaNaYaOaZaTaUaVaWagaGaHaIaiaJ
+aDaXaMaYaOaZbaaVaVbbbcaNaNaNbdaNaNaNbebfaVaVbgaXaMaYaOaZaJ
+bhbcaNaNaNbebibjbjbjbjbkblaNaNaNaNbmbjbjbjbjbnbcaNaNaNbebo
+aabpaNaNaNbqbrbsbsbsbsbtbubvbwbxbxbybsbsbsbsbsbpaNaNaNbqaa
+aabpaNaYaNbqbzaYaNaNaNbqbAbBbBbBbBbpaNaNaNaYaNbpaNaYaNbqaa
+aabpaNaNaNbqbubxbxbCbBbBaVaVaVaVaVbBbBbFbGbxbxbpaNaNaNbqaa
+bHbIbxbxbxbJbKbLbLbMaVaVaVaVaVaVaVaVaVbNbObLbLbIbxbxbxbJaa
+bPbPbQaaaaaaaaaaaabmbjbRbSbSbSbSbSbTbjbkbUaaaaaaaaaabVbPbP
+bPbPbQaaaaaaaaaaaabybsbWbXbXbXbXbXbYbrbtbZaaaaaaaaaabVbPbP
+bPbPbQaaaaaaaaaaaaaaaacacbcbcbcbcbccbZaaaaaaaaaaaaaabVbPbP
+bPbPbQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabVbPbP
+bPbPbQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabVbPbP
+bPbPcdcececececececfaaaaaaaaaaaaaaaaaacgcecececececechbPbP
+bPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbPbP
+"}

@@ -1,0 +1,104 @@
+"a" = (/turf/void,/area)
+"b" = (/MapLimit,/turf,/area)
+"c" = (/turf,/area)
+"d" = (/obj/map/viewBlock,/turf/void,/area)
+"e" = (/turf/house/roof/corner/br,/area)
+"f" = (/turf/house/roof/bottom,/area)
+"g" = (/turf/house/roof/corner/bl,/area)
+"h" = (/turf/house/roof/bottom_right,/area)
+"i" = (/turf/village/building/wall/wall_1/top/top,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow,/area)
+"j" = (/turf/village/building/wall/wall_1/top/top,/turf/jianghu_house/shadow,/area)
+"k" = (/turf/village/building/wall/wall_1/top/top,/turf/jianghu_house/shadow,/turf/house/wooden_window{icon_state = "window_top"},/area)
+"l" = (/turf/house/roof/bottom_left,/area)
+"m" = (/turf/house/roof/right,/area)
+"n" = (/turf/village/building/wall/wall_1/top/right,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow,/area)
+"o" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/building/wall/wall_1/middle/middle,/area)
+"p" = (/turf/village/building/wall/wall_1/middle/middle,/area)
+"q" = (/turf/house/wooden_window{icon_state = "window_middle"},/obj/map/cave_light,/turf/house/wooden_window{icon_state = "foilage2_top"},/area)
+"r" = (/turf/village/building/wall/wall_1/top/left,/turf/jianghu_house/shadow,/area)
+"s" = (/turf/house/roof/left,/area)
+"t" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/building/wall/wall_1/middle/right,/area)
+"u" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/building/wall/wall_1/bottom/middle,/area)
+"v" = (/turf/village/building/wall/wall_1/bottom/middle,/area)
+"w" = (/turf/village/building/wall/wall_1/bottom/middle,/turf/house/wooden_window{icon_state = "window_bottom"},/turf/house/wooden_window{density = 1; icon_state = "foilage2_bottom"; layer = 9},/area)
+"x" = (/turf/village/building/wall/wall_1/middle/left,/area)
+"y" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/building/wall/wall_1/bottom/right,/area)
+"z" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf/inn/floor,/area)
+"A" = (/turf/inn/floor,/area)
+"B" = (/turf/village/building/wall/wall_1/bottom/left,/area)
+"C" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"D" = (/turf/house/roof/corner/tr,/area)
+"E" = (/turf/house/roof/top,/area)
+"F" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"G" = (/Building/Warper/Dynamic{dynamic_id = "Cottage_room1"},/turf/inn/floor,/area)
+"H" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"I" = (/turf/house/roof/corner/tl,/area)
+"J" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"K" = (/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"L" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"M" = (/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"N" = (/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"O" = (/Building/Warper/Dynamic{dynamic_id = "Cottage_room1"},/turf/shop_int/stairs/middle,/area)
+"P" = (/turf/village/building/wall/wall_1/top/right,/turf/jianghu_house/shadow,/area)
+"Q" = (/turf/shop_int/stairs/middle,/area)
+"R" = (/turf/village/building/wall/wall_1/middle/right,/area)
+"S" = (/turf/village/building/wall/wall_1/bottom/right,/area)
+"T" = (/BuildingDetails{building_category = "Public"; building_cost = 40000; building_desc = "A cottage."; building_guild = ""; building_interior = 1; building_name = "Cottage"},/turf/inn/floor,/area)
+"U" = (/turf/house/roof/top_right,/area)
+"V" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"W" = (/turf/house/roof/top_left,/area)
+"X" = (/obj/map/cave_light,/turf/house/roof/top,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaaaaaaaaaaaaaaaaaaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaaaefffffffffffgaaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaaehijkjjjjjkjjlgaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamnopqpppppqpprsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamtuvwvvvvvwvvxsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamyzAAAAAAAAAABsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamCAAAAAAAAAAAAsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamCAAAAAAAAAAAAsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamCAAAAAAAAAAAAsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamCAAAAAAAAAAAAsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamCAAAAAAAAAAAAsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamCAAAAAAAAAAAAsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamCAAAAAAAAAAAAsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaamCAAAAAAAAAAAAsaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaaDEEEEEFGHEEEEEIaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaaaaaaaaJKLaaaaaaaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaaaaaaaaaaaaaaaaaaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaefffffgeMMMgefffffgdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamijkjjlhNONlhijkjjsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamopqpprPQQQrPopqppsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamuvwvvxRQQQxRuvwvvsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAABSQQQBSAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAATAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadamCAAAAAAAAAAAAAAAAsdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaDEEEEEEEUVWEEEEEEEIdaaaaaaaaaaaaaaaaaaaaaaaaac
+aaadaaaaaaaaaDXIaaaaaaaadaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+"}

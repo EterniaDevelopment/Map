@@ -1,0 +1,75 @@
+"aa" = (/turf,/area)
+"ab" = (/MapLimit,/turf,/area)
+"ac" = (/turf/academy/wall/middle/right,/turf/village/horizontal_roof/bottom,/obj/generic_shadow/white{alpha = 25; color = "black"; icon_state = "full"},/turf/village/building/roof/roof_3/right/right_3,/area)
+"ad" = (/turf,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ae" = (/turf/village/building/roof/roof_3/center/center_3,/area)
+"af" = (/turf/village/building/roof/roof_3/left/left_3,/area)
+"ag" = (/turf/village/building/roof/roof_3/center/center_2,/area)
+"ah" = (/turf/village/building/roof/roof_3/right/right_3,/area)
+"ai" = (/turf/castle_int/column/roof,/area)
+"aj" = (/turf/village/building/roof/roof_3/left/left_2,/area)
+"ak" = (/turf/village/building/roof/roof_3/right/right_2{layer = 9},/turf/village/horizontal_roof/top{layer = 10},/area)
+"al" = (/turf/village/building/roof/roof_3/right/right_3{layer = 9},/turf/village/horizontal_roof/top{layer = 10},/area)
+"am" = (/turf/village/horizontal_roof/top/right{layer = 7},/area)
+"an" = (/turf/village/horizontal_roof/edge/left{layer = 4},/area)
+"ao" = (/turf/castle_int/column/top,/turf/village/building/roof/roof_3/left/left_3,/area)
+"ap" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/center/center_1,/turf/village/horizontal_roof/slope/peak{density = 1},/area)
+"aq" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/right/right_3,/area)
+"ar" = (/turf/village/horizontal_roof/fill,/area)
+"as" = (/turf/village/horizontal_roof/top/right/fill{layer = 6},/area)
+"at" = (/turf/village/building/roof/roof_3/left/left_3,/turf/village/horizontal_roof/edge/left/middle{layer = 4},/area)
+"au" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/left/left_1,/turf/village/horizontal_roof/slope/left{density = 1},/area)
+"av" = (/turf/village/horizontal_roof/fill,/turf/village/horizontal_roof/slope/right/corner{density = 1},/turf/village/horizontal_roof/slope/left/corner{density = 1},/area)
+"aw" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/right/right_1,/turf/village/horizontal_roof/slope/right,/area)
+"ax" = (/turf/village/building/wall/wall_1/middle/center,/obj/map/props/lantern,/turf/extra_roof/wood,/area)
+"ay" = (/turf/village/building/roof/roof_3/right/right_3,/turf/village/horizontal_roof/edge/right/middle{layer = 4},/turf/village/horizontal_roof/bottom/right{layer = 6},/area)
+"az" = (/turf/village/building/roof/roof_3/left/left_2,/turf/village/horizontal_roof/edge/left/middle{layer = 4},/area)
+"aA" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/building/roof/roof_3/left/left_1,/turf/village/horizontal_roof/slope/left,/area)
+"aB" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/top,/turf/village/horizontal_roof/slope/left/corner,/turf/village/horizontal_roof/bottom,/turf/house/wooden_window{icon_state = "pointy_top"},/area)
+"aC" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/top,/turf/village/horizontal_roof/bottom,/area)
+"aD" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/building/roof/roof_3/right/right_1,/turf/village/horizontal_roof/slope/right,/area)
+"aE" = (/turf/village/building/roof/roof_3/right/right_2,/turf/village/horizontal_roof/edge/right/middle{layer = 4},/area)
+"aF" = (/turf/village/horizontal_roof/edge/right,/area)
+"aG" = (/turf/village/horizontal_roof/edge/left/middle,/area)
+"aH" = (/turf/village/building/roof/roof_3/left/left_2,/turf/village/horizontal_roof/slope/right/corner{density = 1},/area)
+"aI" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/extra_roof/wood/left,/turf/village/horizontal_roof/slope/left/corner,/area)
+"aJ" = (/turf/house/wooden_window{icon_state = "window_middle"},/turf/house/wooden_window{icon_state = "foilage2_top"; layer = 9},/area)
+"aK" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood,/BuildingDetails{building_category = "Public"; building_cost = 15000; building_desc = "A building with one room."; building_guild = ""; building_name = "G-Small-House H"; building_settlement_only = 1},/turf/village/horizontal_roof/bottom,/area)
+"aL" = (/turf/house/wooden_window{icon_state = "window_middle"},/turf/house/wooden_window{icon_state = "foilage1_top"},/area)
+"aM" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/extra_roof/wood/right,/turf/village/horizontal_roof/slope/right/corner{density = 1},/area)
+"aN" = (/turf/village/building/roof/roof_3/right/right_2,/turf/village/horizontal_roof/slope/left/corner{layer = 7},/area)
+"aO" = (/turf/village/horizontal_roof/edge/right/middle,/area)
+"aP" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom/left,/turf/extra_roof/wood/top/left,/turf/village/horizontal_roof/slope/left/corner,/area)
+"aQ" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom,/turf/extra_roof/wood/top,/turf/house/wooden_window{icon_state = "foilage2_bottom"},/area)
+"aR" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/top,/area)
+"aS" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom,/turf/extra_roof/wood/top,/turf/house/wooden_window{icon_state = "foilage3_bottom"},/area)
+"aT" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom/right,/turf/extra_roof/wood/top/right,/turf/village/horizontal_roof/slope/right/corner,/area)
+"aU" = (/turf/village/building/roof/roof_3/right/right_2,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aV" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/left/left_1,/area)
+"aW" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/right/right_1,/area)
+"aX" = (/turf/village/horizontal_roof/slope/right/corner{density = 1},/area)
+"aY" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/left,/turf/village/horizontal_roof/bottom,/area)
+"aZ" = (/turf/extra_roof/wall/middle/two,/turf/village/horizontal_roof/bottom,/turf/house/wooden_window{icon_state = "pointy_top"},/area)
+"ba" = (/turf/extra_roof/wall/middle/two,/turf/village/horizontal_roof/bottom,/area)
+"bb" = (/Building/Warper/Exterior,/turf/house/wooden_door,/area)
+"bc" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/right,/turf/village/horizontal_roof/bottom,/area)
+"bd" = (/turf/village/horizontal_roof/slope/left/corner,/area)
+"be" = (/turf/extra_roof/wall/middle/three,/turf/extra_roof/wood/bottom/left,/area)
+"bf" = (/turf/extra_roof/wall/middle/three,/turf/extra_roof/wood,/turf/house/wooden_window{icon_state = "pointy_bottom"},/area)
+"bg" = (/turf/extra_roof/wall/middle/three,/area)
+"bi" = (/turf/extra_roof/wall/middle/three,/turf/extra_roof/wood/bottom/right,/area)
+"bk" = (/SmallPreview/Start,/turf,/area)
+
+(1,1,1) = {"
+adaaadaaaeaaaaaaab
+adaaaaafagahaaaaaa
+aaaaaiajagakalamaa
+aaanaoajapaqarasaa
+aaatajauavawacayaa
+anazaAaBaCaBaDaEaF
+aGaHaIaJaxaLaMaNaO
+aGajaPaQaRaSaTaUaO
+aGaVarararararaWaO
+aXaYaZbaaKbaaZbcbd
+bkbebfbgbbbgbfbiaa
+"}

@@ -1,0 +1,11 @@
+"a" = (/turf,/area)
+"b" = (/MapLimit,/turf,/area)
+"c" = (/BuildingDetails{building_category = "Public"; building_cost = 3000; building_desc = "A small 5x5 plot of land for decorating, a shopkeeper, whatever."; building_name = "Stall"; building_no_interior = 1; building_rent_upfront = 3000; building_settlement_only = 1},/turf,/area)
+
+(1,1,1) = {"
+aaaab
+aaaaa
+aacaa
+aaaaa
+aaaaa
+"}

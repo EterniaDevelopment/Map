@@ -1,0 +1,28 @@
+"a" = (/turf/void,/area)
+"b" = (/turf/inn/roof/top_left,/area)
+"c" = (/turf/inn/roof/top,/area)
+"d" = (/SmallPreview/End,/turf/inn/roof/top_right,/area)
+"e" = (/turf/inn/roof/bottom_left,/area)
+"f" = (/turf/inn/roof/middle,/area)
+"g" = (/turf/inn/roof/right,/area)
+"h" = (/BuildingDetails{building_category = "Small Buildings"; building_cost = 5000; building_desc = "A building to test guild locking."; building_guild = "Test Guild"; building_interior = 0; building_name = "Guild Garage"},/turf/inn/roof/middle,/area)
+"i" = (/turf/inn/wall/top/middle,/area)
+"j" = (/turf/inn/wall/middle/middle,/area)
+"k" = (/turf/inn/wall/middle/door,/area)
+"l" = (/SmallPreview/Start,/turf/inn/wall/bottom/middle,/area)
+"m" = (/turf/inn/wall/bottom/middle,/area)
+"n" = (/Building/Warper/Exterior,/turf/village/door/door_1/close,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaa
+aaaaaaaaaaa
+aabcccccdaa
+aaefffffgaa
+aaeffhffgaa
+aaefffffgaa
+aaiiiiiiiaa
+aajjjjjjjaa
+aajjjkjjjaa
+aalmmnmmmaa
+aaaaaaaaaaa
+"}

@@ -1,0 +1,46 @@
+"a" = (/turf/jianghu_house_int/roof/top_left{density = 1},/area)
+"b" = (/turf/jianghu_house_int/roof/top{density = 1},/area)
+"c" = (/turf/jianghu_house_int/roof/top_right{density = 1},/area)
+"d" = (/turf/jianghu_house_int/roof/left,/area)
+"e" = (/obj/map/cave/ladder/top,/Building/Warper/Dynamic{dynamic_id = "RoofHatch"},/turf/jianghu_house_int/woodfloor,/area)
+"f" = (/turf/jianghu_house_int/woodfloor,/area)
+"g" = (/turf/jianghu_house_int/roof/right,/area)
+"h" = (/obj/map/cave/ladder/middle,/turf/jianghu_house_int/woodfloor,/area)
+"i" = (/obj/map/cave/ladder/bottom,/turf/jianghu_house_int/woodfloor,/area)
+"j" = (/turf/jianghu_house_int/roof/bottom_left,/area)
+"k" = (/turf/jianghu_house_int/roof/bottom,/area)
+"l" = (/Building/Warper/Interior,/turf/jianghu_house_int/roof/bottom{density = 0},/area)
+"m" = (/turf/jianghu_house_int/roof/bottom_right,/area)
+"n" = (/turf/inn/wall/middle/left,/area)
+"o" = (/turf/inn/wall/middle/middle,/area)
+"p" = (/turf/inn/wall/middle/right,/area)
+"q" = (/turf/inn/wall/middle/door,/area)
+"r" = (/turf/inn/wall/bottom/left,/area)
+"s" = (/turf/inn/wall/bottom/middle,/area)
+"t" = (/turf/house/wooden_door,/area)
+"u" = (/turf/inn/wall/bottom/right,/area)
+"v" = (/BuildingDetails{building_category = "Watchtowers"; building_cost = 20000; building_desc = "Increases scouting range!"; building_interior = 1; building_name = "Watchful Tower"; building_watchtower = 1},/turf/jianghu_house_int/woodfloor,/area)
+
+(1,1,1) = {"
+abbbbbbbbbbbbbbbbbbbc
+deffffffffffffffffffg
+dhffffffffffffffffffg
+diffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffvfffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+dfffffffffffffffffffg
+jkkkkkkkkklkkkkkkkkkm
+nooooooooooooooooooop
+noooooooooqooooooooop
+rssssssssstsssssssssu
+"}

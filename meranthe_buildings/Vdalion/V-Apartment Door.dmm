@@ -1,0 +1,10 @@
+"a" = (/BuildingDetails{building_category = "Vdalion"; building_cost = 5000; building_desc = "An apartment room."; building_guild = "Vdalion"; building_interior = 0; building_name = "V-Apartment Door"; building_settlement_only = 1},/SmallPreview/End,/turf/village/vdalion_extra/door_top,/area)
+"b" = (/Building/Warper/Exterior,/SmallPreview/Start,/turf/village/vdalion_extra/door_bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"c" = (/turf,/area)
+"d" = (/MapLimit,/turf,/area)
+
+(1,1,1) = {"
+ccd
+cac
+cbc
+"}

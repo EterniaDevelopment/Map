@@ -1,0 +1,66 @@
+"a" = (/turf/void,/area)
+"b" = (/turf,/area)
+"c" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/center_3,/area)
+"d" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/left_3,/area)
+"e" = (/turf/village/roof_delphinia/center_2,/area)
+"f" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/center_2,/area)
+"g" = (/turf/village/roof_delphinia/left_2,/area)
+"h" = (/turf/village/roof_delphinia/center_2,/turf/village/horizontal_roof_delphinia/top_left,/turf/village/roof_delphinia/center_3{layer = 7},/area)
+"i" = (/turf/village/roof_delphinia/right_2,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"j" = (/obj/map/noDenseMarker,/turf/village/roof_delphinia/right_3,/area)
+"k" = (/MapLimit,/turf/void,/area)
+"l" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"m" = (/turf/village/horizontal_roof_delphinia/fill,/turf/village/roof_delphinia/right_3{layer = 7},/area)
+"n" = (/turf/village/horizontal_roof_delphinia/fill,/area)
+"o" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_right,/area)
+"p" = (/turf/village/roof_delphinia/left_5,/area)
+"q" = (/turf/village/roof_delphinia/right_3,/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/top_fill,/area)
+"r" = (/turf/village/roof_delphinia/right_2,/area)
+"s" = (/turf/village/roof_delphinia/left_6,/area)
+"t" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/center_1,/area)
+"u" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/left_1,/area)
+"v" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_4,/turf/village/roof_delphinia/left_4,/area)
+"w" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_1,/area)
+"x" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/left_4,/area)
+"y" = (/turf/village/wall_vdalion/bottom,/area)
+"z" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/right,/area)
+"A" = (/SmallPreview/End,/turf,/area)
+"B" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_4,/area)
+"C" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_5{layer = 7},/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"D" = (/turf/village/wall_vdalion/bottom,/BuildingDetails{building_category = "Delphina"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = "Delphina"; building_name = "D-Small House R"; building_settlement_only = 1},/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"E" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_delphinia/bottom_fill,/area)
+"F" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_delphinia/left_1,/area)
+"G" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/left_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"H" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_delphinia/bottom_right,/area)
+"I" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_delphinia/right_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"J" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_delphinia/right_1,/area)
+"K" = (/turf/village/roof_delphinia/left_7,/area)
+"L" = (/turf/village/wall_vdalion/bottom,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/roof_delphinia/right_6{layer = 7},/area)
+"M" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/area)
+"N" = (/turf/village/wall_vdalion/bottom_right,/area)
+"O" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_delphinia/left_4,/area)
+"P" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+"Q" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_delphinia/right_4,/area)
+"R" = (/turf/village/wall_vdalion/foundation_middle,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"},/turf/village/roof_delphinia/right_7{layer = 7},/area)
+"S" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/area)
+"T" = (/turf/village/wall_vdalion/foundation_right,/area)
+"U" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/turf,/area)
+"V" = (/turf/village/wall_vdalion/foundation_left,/area)
+"W" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"Y" = (/SmallPreview/Start,/turf,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaak
+aaaabbbbcbbbbbbAaaaa
+aaaabbbdfjbbbbbbaaaa
+aaaabbdghiqlllloaaaa
+aaaabdggemnnnnnzaaaa
+aaaapgggtrmnnnnzaaaa
+aaaasgguvwrmnnnzaaaa
+aaaasguxyBwrCDEHaaaa
+aaaasFGyyyIJLMNbaaaa
+aaaaKOPyyyPQRSTbaaaa
+aaaaYVWWWWWTUbbbaaaa
+aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+"}

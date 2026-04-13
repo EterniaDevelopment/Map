@@ -1,0 +1,61 @@
+"a" = (/turf,/area)
+"b" = (/turf/void,/area)
+"c" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_left,/area)
+"d" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"e" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_right,/area)
+"f" = (/SmallPreview/End,/turf,/area)
+"g" = (/MapLimit,/turf/void,/area)
+"h" = (/turf/village/horizontal_roof_vdalion/top_fill,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/left,/area)
+"i" = (/turf/village/horizontal_roof_vdalion/fill,/area)
+"j" = (/turf/village/horizontal_roof_vdalion/top_fill,/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/right,/area)
+"k" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/left,/area)
+"l" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/right,/area)
+"m" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/bottom_left,/area)
+"n" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion/bottom_fill,/turf/village/horizontal_roof_vdalion/left,/area)
+"o" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion/bottom_fill,/turf/village/horizontal_roof_vdalion/right,/area)
+"p" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/bottom_right,/area)
+"q" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion/bottom_left,/area)
+"r" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+"s" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+"t" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+"u" = (/turf/village/wall_vdalion/bottom_right,/turf/village/horizontal_roof_vdalion/bottom_right,/area)
+"v" = (/turf/village/wall_vdalion/bottom_left,/area)
+"w" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_4,/area)
+"x" = (/turf/village/wall_vdalion/bottom_right,/area)
+"y" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+"z" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_5,/turf/village/vdalion_extra/snow_2,/area)
+"A" = (/turf/village/wall_vdalion/bottom,/area)
+"B" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_4,/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+"C" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"D" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_5,/turf/village/horizontal_roof_vdalion/top_fill,/turf/village/vdalion_extra/snow_2,/area)
+"E" = (/obj/ColiseumSilver/Coliseum/front/three{color = "#bd9770"},/turf/village/horizontal_roof_vdalion/fill,/area)
+"F" = (/BuildingDetails,/turf,/area)
+"G" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/area)
+"H" = (/turf/village/wall_vdalion/foundation_middle,/turf/village/vdalion_extra/snow_1,/area)
+"I" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"J" = (/turf/village/wall_vdalion/foundation_middle,/turf/village/vdalion_extra/snow_2,/turf/village/vdalion_extra/snow_1,/area)
+"K" = (/turf/village/wall_vdalion/foundation_left,/turf/village/vdalion_extra/snow_1,/area)
+"L" = (/SmallPreview/Start,/turf,/area)
+"M" = (/turf/village/wall_vdalion/foundation_right,/turf/village/vdalion_extra/snow_1,/area)
+"N" = (/turf/village/wall_vdalion/bottom,/BuildingDetails{building_category = "Vdalion"; building_cost = 75000; building_desc = "An apartment complex."; building_guild = "Vdalion"; building_name = "VS-Apartment B"; building_settlement_only = 1},/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+
+(1,1,1) = {"
+bacdddeaaaaaaacdddefg
+bchiiijeaaaaachiiijeb
+bkiiiiilaaaaakiiiiilb
+bkiiiiilaaaaakiiiiilb
+bmniiiopaFaaamniiiopb
+baqrstuaaaaaaaqrstuab
+bavvwxxaaaaaaavvwxxab
+bavvyxxdddddddvvyxxab
+bavvzxxiiiiiiivvzxxab
+bavvAxxsBsssBsvvAxxab
+bavvwxxCDCCCDCvvwxxab
+bavvyxxiiiiiEEvvyxxab
+bavvzxxsBsNsBsvvzxxab
+bavvAxxAyAGAyAvvAxxab
+bavvwxxHJHIHJHvvwxxab
+baKvyxMaaaaaaaKvyxMab
+bLaKJMaaaaaaaaaKJMaab
+bbbbbbbbbbbbbbbbbbbbb
+"}

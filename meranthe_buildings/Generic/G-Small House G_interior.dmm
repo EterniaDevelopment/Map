@@ -1,0 +1,47 @@
+"a" = (/turf/void,/area)
+"b" = (/MapLimit,/turf/void,/area)
+"c" = (/turf/house/roof/bottom{icon_state = "br"},/area)
+"d" = (/turf/house/roof/bottom,/area)
+"e" = (/turf/house/roof/bottom{icon_state = "bl"},/area)
+"f" = (/turf/house/roof/bottom{icon_state = "right"},/area)
+"g" = (/turf/village/building/wall/wall_1/middle/center,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/extra_roof/wood/left,/area)
+"h" = (/turf/village/building/wall/wall_1/middle/center,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/house/wooden_window{icon_state = "pointy_top"},/area)
+"i" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/village/building/wall/wall_1/middle/center,/area)
+"j" = (/turf/village/building/wall/wall_1/middle/center,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/extra_roof/wood/right,/area)
+"k" = (/turf/house/roof/bottom{icon_state = "left"},/area)
+"l" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom/left,/area)
+"m" = (/turf/village/building/wall/wall_1/middle/center,/obj/map/window_light,/turf/house/wooden_window{icon_state = "pointy_bottom"},/area)
+"n" = (/turf/village/building/wall/wall_1/middle/center,/area)
+"o" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom/right,/area)
+"p" = (/turf/inn/floor,/area)
+"q" = (/BuildingDetails{building_category = "Public"; building_cost = 15000; building_desc = "A small building with one room."; building_guild = ""; building_interior = 1; building_name = "G-Small House G"; building_settlement_only = 1; building_watchtower = 0},/turf/inn/floor,/area)
+"r" = (/turf/house/roof/bottom{icon_state = "tr"},/area)
+"s" = (/turf/house/roof/bottom{icon_state = "top"},/area)
+"t" = (/turf/house/roof/bottom{icon_state = "top_right"},/area)
+"u" = (/Lot/Door{door_id = "Clan_Ilian4"; lot_id = "Clan_Ilian4"; name = "Clan_Ilian4"},/turf/castle_int/floor,/area)
+"v" = (/turf/house/roof/bottom{icon_state = "top_left"},/area)
+"w" = (/turf/house/roof/bottom{icon_state = "tl"},/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+cddddddddeaaaaaaaaaaa
+fghiiiihjkaaaaaaaaaaa
+flmnnnnmokaaaaaaaaaaa
+fppppppppkaaaaaaaaaaa
+fppppppppkaaaaaaaaaaa
+fppppppppkaaaaaaaaaaa
+fppppppppkaaaaaaaaaaa
+fppppqpppkaaaaaaaaaaa
+fppppppppkaaaaaaaaaaa
+rssstuvsswaaaaaaaaaaa
+aaaarswaaaaaaaaaaaaaa
+"}

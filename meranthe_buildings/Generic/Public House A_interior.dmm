@@ -1,0 +1,117 @@
+"aa" = (/turf/void,/area)
+"ab" = (/obj/map/viewBlock,/turf/void,/area)
+"ac" = (/MapLimit,/turf/void,/area)
+"ad" = (/turf/house/roof/corner/br,/area)
+"ae" = (/turf/house/roof/bottom,/area)
+"af" = (/turf/house/roof/corner/bl,/area)
+"ag" = (/turf/house/roof/bottom_right,/area)
+"ah" = (/turf/village/building/wall/wall_1/top/top,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow,/area)
+"ai" = (/turf/village/building/wall/wall_1/top/top,/turf/jianghu_house/shadow,/area)
+"aj" = (/turf/village/building/wall/wall_1/top/top,/turf/jianghu_house/shadow,/turf/house/wooden_window{icon_state = "window_top"},/area)
+"ak" = (/turf/house/roof/bottom_left,/area)
+"al" = (/turf/house/roof/right,/area)
+"am" = (/turf/village/building/wall/wall_1/top/right,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow,/area)
+"an" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/building/wall/wall_1/middle/middle,/area)
+"ao" = (/turf/village/building/wall/wall_1/middle/middle,/area)
+"ap" = (/turf/house/wooden_window{icon_state = "window_middle"},/obj/map/cave_light,/turf/house/wooden_window{icon_state = "foilage1_top"},/area)
+"aq" = (/turf/village/building/wall/wall_1/top/left,/turf/jianghu_house/shadow,/area)
+"ar" = (/turf/house/roof/left,/area)
+"as" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/building/wall/wall_1/middle/right,/area)
+"at" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/extra_roof/wall/middle/two,/area)
+"au" = (/turf/extra_roof/wall/middle/two,/area)
+"av" = (/turf/extra_roof/wall/middle/two,/turf/house/wooden_window{icon_state = "foilage1_bottom"},/area)
+"aw" = (/turf/village/building/wall/wall_1/middle/left,/area)
+"ax" = (/turf/extra_roof/wall/middle/two,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/extra_roof/wood/bottom/right,/area)
+"ay" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf/inn/floor,/area)
+"az" = (/turf/inn/floor,/area)
+"aA" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/bottom/left,/area)
+"aB" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"aC" = (/turf/house/roof/corner/tr,/area)
+"aD" = (/turf/house/roof/top,/area)
+"aE" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"aF" = (/Building/Warper/Dynamic{dynamic_id = "Public_A_room3"},/turf/inn/floor,/area)
+"aG" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"aH" = (/turf/house/roof/corner/tl,/area)
+"aI" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"aJ" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aK" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"aL" = (/turf/village/building/wall/wall_1/top/right,/turf/jianghu_house/shadow,/area)
+"aM" = (/Building/Warper/Dynamic{dynamic_id = "Public_A_room3"},/obj/map/noDenseMarker,/turf/house/wooden_door{icon_state = "2"},/area)
+"aN" = (/turf/village/building/wall/wall_1/middle/right,/area)
+"aO" = (/Building/Warper/Dynamic{dynamic_id = "Public_A_room2"},/obj/map/noDenseMarker,/turf/house/wooden_door{icon_state = "2"},/area)
+"aP" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aQ" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aR" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/bottom/right,/area)
+"aS" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aT" = (/turf/house/roof/top_right,/area)
+"aU" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"aV" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "Public_A_room4"},/turf/shop_int/stairs/middle,/area)
+"aW" = (/turf/house/roof/top_left,/area)
+"aX" = (/turf/castle_int/roof/middle,/area)
+"aY" = (/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aZ" = (/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"ba" = (/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"bb" = (/obj/map/cave_light,/Building/Warper/Dynamic{dynamic_id = "Public_A_room4"},/turf/shop_int/stairs/middle,/area)
+"bc" = (/turf/shop_int/stairs/middle,/area)
+"bd" = (/Building/Warper/Dynamic{dynamic_id = "Public_A_room1"},/obj/map/noDenseMarker,/turf/house/wooden_door{icon_state = "2"},/area)
+"be" = (/Building/Warper/Dynamic{dynamic_id = "Public_A_room2"},/turf/inn/floor,/area)
+"bf" = (/turf/jianghu/brick_floor,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/village/road_brown/bottom,/area)
+"bg" = (/turf/jianghu/brick_floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/village/road_brown/bottom,/area)
+"bh" = (/turf/jianghu/brick_floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf/village/road_brown/bottom,/area)
+"bi" = (/BuildingDetails{building_category = "Public"; building_cost = 30000; building_desc = "A building with 2 rooms."; building_guild = ""; building_interior = 1; building_name = "Public House_A"; building_rent = 100; building_rent_upfront = 3000},/turf/inn/floor,/area)
+"bj" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"bk" = (/Building/Warper/Dynamic{dynamic_id = "Public_A_room1"},/turf/inn/floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababaaaaaaaaac
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaadaeaeaeaeaeaeaeaeaeaeaeafaaabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaadagahaiajaiaiaiaiaiajaiaiakafabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalamanaoapaoaoaoaoaoapaoaoaqarabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalasatauavauauauauauavauauawarabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalaxayazazazazazazazazazazaAarabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaabababababababababababababababababababababababaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaabadaeaeaeaeaeafadaeaeaeaeaeafadaeaeaeaeaeafabaaaaabaaaCaDaDaDaDaDaEaFaGaDaDaDaDaDaHabaaaaaaaaaa
+aaaaaaabalahaiaiaiaiakagahaiajaiaiakagahaiaiaiaiarabaaaaabaaaaaaaaaaaaaaaIaJaKaaaaaaaaaaaaabaaaaaaaaaa
+aaaaaaabalanaoaoaoaoaqaLanaoapaoaoaqaLanaoaoaoaoarabaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaa
+aaaaaaabalatauaMauauawaNatauavauauawaNatauaOauauarabaaaaababababababababababababababababababaaaaaaaaaa
+aaaaaaabalaPaQaQaQaQaAaRaSaQaQaQaQaAaRaSaQaQaQaQarabaaaaabaaaaadaeaeaeaeaeaeaeaeaeaeaeafaaabaaaaaaaaaa
+aaaaaaabalaBazazazazazazazazazazazazazazazazazazarabaaaaabaaadagahaiajaiaiaiaiaiajaiaiakafabaaaaaaaaaa
+aaaaaaabalaBazazazazazazazazazazazazazazazazazazarabaaaaabaaalamanaoapaoaoaoaoaoapaoaoaqarabaaaaaaaaaa
+aaaaaaabalaBazazazazazazazazazazazazazazazazazazarabaaaaabaaalasatauavauauauauauavauauawarabaaaaaaaaaa
+aaaaaaabalaBazazazazazazazazazazazazazazazazazazarabaaaaabaaalaxayazazazazazazazazazazaAarabaaaaaaaaaa
+aaaaaaabaCaDaDaDaDaDaDaDaTaUaVaUaWaDaDaDaDaDaDaDaHabaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaabaaaaaXaXaXaXaXaXaCaYaJaYaHaXaXaXaXaXaXaXaXabaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+aaaaaaabaaaaaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaaaaaaaaabaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abababababababababababababababababababababababababababababaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abadaeaeaeaeaeaeaeaeaeafadaZaZaZafadaeaeaeaeaeaeaeaeaeafabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abalahaiaiaiajaiaiaiaiakagbabbbaakagahaiaiaiaiaiaiaiaiarabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abalanaoaoaoapaoaoaoaoaqaLbcbcbcaqaLanaoaoaoaoaoaoaoaoarabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abalatauauauavauauauauawaNbcbcbcawaNatauauaubdauauauauarabaaaCaDaDaDaDaDaEbeaGaDaDaDaDaDaHabaaaaaaaaaa
+abalbfbgbgbgbgbgbgbgbgaAaRbcbcbcaAaRbhbgbgbgbgbgbgbgbgarabaaaaaaaaaaaaaaaIaJaKaaaaaaaaaaaaabaaaaaaaaaa
+abalaBazazazazazazazazazazazazazazazazazazazazazazazazarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaa
+abalaBazazazazazazazazazazazazazazazazazazazazazazazazarababababababababababababababababababaaaaaaaaaa
+abalaBazazazazazazazazazazazazazazazazazazazazazazazazarabaaaaadaeaeaeaeaeaeaeaeaeaeaeafaaabaaaaaaaaaa
+abalaBazazazazazazazazazazazazazazazazazazazazazazazazarabaaadagahaiajaiaiaiaiaiajaiaiakafabaaaaaaaaaa
+abalaBazazazazazazazazazazazazazazazazazazazazazazazazarabaaalamanaoapaoaoaoaoaoapaoaoaqarabaaaaaaaaaa
+abalaBazazazazazazazazazazazazazazazazazazazazazazazazarabaaalasatauavauauauauauavauauawarabaaaaaaaaaa
+abalaBazazazazazazazazazazazazazazazazazazazazazazazazarabaaalaxayazazazazazazazazazazaAarabaaaaaaaaaa
+abaCaDaDaDaDaDaDaDaDaTazazazazazazazaWaDaDaDaDaDaDaDaDaHabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaadagazazazazazazazakafaaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaalamazazazazazazazaqaraaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaalasazazazazazazazawaraaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaalaxazazazazazazazaAaraaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaalaBazazazazazazazazaraaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaalaBazazazbiazazazazaraaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaalaBazazazazazazazazaraaaaaaaaaaaaaaaaabaaalaBazazazazazazazazazazazazarabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaCaDaDaDaEbjaGaDaDaDaHaaaaaaaaaaaaaaaaabaaaCaDaDaDaDaDaEbkaGaDaDaDaDaDaHabaaaaaaaaaa
+abaaaaaaaaaaaaaaaaaaaaaaaaaIaJaKaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaIaJaKaaaaaaaaaaaaabaaaaaaaaaa
+ababababababababababababababababababababababababababababababababababababababababababababababaaaaaaaaaa
+"}

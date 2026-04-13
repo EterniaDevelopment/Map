@@ -1,0 +1,71 @@
+obj
+	map
+		shop_int
+			counter
+				icon='icons/map/obj/shop/counter.dmi'
+				left
+					counter_1
+						icon_state="1"
+						density=1
+						pixel_x=-5
+					counter_2
+						icon_state="2"
+						density=1
+						pixel_x=-5
+					counter_3
+						icon_state="3"
+						layer=OVER_LAYER
+						pixel_x=-5
+				right
+					counter_1
+						icon_state="1"
+						density=1
+						pixel_x=5
+					counter_2
+						icon_state="2"
+						density=1
+						pixel_x=5
+					counter_3
+						icon_state="3"
+						layer=OVER_LAYER
+						pixel_x=5
+				horizontal
+					density=1
+					counter_1/icon_state="4"
+					counter_2/icon_state="5"
+					counter_3/icon_state="6"
+			window
+				icon='icons/map/obj/shop/window.dmi'
+				icon_state="window"
+				dark
+					icon_state = "windowdark"
+
+			window2
+				icon='icons/map/obj/shop/window.dmi'
+				icon_state="superdark"
+
+			window3
+				icon='icons/map/obj/shop/window.dmi'
+				icon_state="superdark_hole"
+
+		shop
+			window
+				icon='icons/map/obj/shop/window.dmi'
+				icon_state="dark"
+
+			sign
+				layer=OVER_LAYER
+				left
+					icon='icons/map/obj/shop/sign_left.dmi'
+					weapon/icon_state="weapon"
+					mage/icon_state="mage"
+					herb/icon_state="herb"
+					inn/icon_state="inn"
+					bank/icon_state="bank"
+				right
+					icon='icons/map/obj/shop/sign_right.dmi'
+					weapon/icon_state="weapon"
+					mage/icon_state="mage"
+					herb/icon_state="herb"
+					inn/icon_state="inn"
+					bank/icon_state="bank"

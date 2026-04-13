@@ -1,0 +1,57 @@
+"a" = (/MapLimit,/turf,/area)
+"b" = (/turf,/area)
+"c" = (/obj/map/noDenseMarker,/turf/village/building/roof/roof_3/center/center_3,/area)
+"d" = (/turf/extra_roof/wood/right,/obj/map/noDenseMarker,/turf/village/horizontal_roof/edge/left/middle,/area)
+"e" = (/turf/extra_roof/wood/right,/obj/map/noDenseMarker,/turf/village/horizontal_roof/corner/left,/area)
+"f" = (/obj/map/noDenseMarker,/turf/village/building/roof/roof_3/left/left_3,/area)
+"g" = (/obj/map/noDenseMarker,/turf/village/building/roof/roof_3/center/center_2,/area)
+"h" = (/obj/map/noDenseMarker,/turf/village/building/roof/roof_3/right/right_3,/area)
+"i" = (/turf/village/building/roof/roof_3/left/left_2,/area)
+"j" = (/turf/village/building/roof/roof_3/center/center_2,/area)
+"k" = (/turf/village/building/roof/roof_3/right/right_2,/area)
+"l" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/edge/left,/area)
+"m" = (/turf/castle_int/column/roof,/area)
+"n" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/edge/right{layer = 3},/area)
+"o" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/edge/left/middle,/area)
+"p" = (/turf/castle_int/column/top,/turf/village/building/roof/roof_3/left/left_3,/area)
+"q" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/peak{density = 1},/turf/village/building/roof/roof_3/center/center_1,/area)
+"r" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/edge/right/middle{layer = 3},/area)
+"s" = (/turf/boat_int/wall/middle/middle,/turf/village/building/roof/roof_3/left/left_1,/turf/village/horizontal_roof/slope/left{density = 1},/area)
+"t" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/right/corner,/turf/village/horizontal_roof/slope/left/corner,/area)
+"u" = (/turf/boat_int/wall/middle/middle,/turf/village/building/roof/roof_3/right/right_1,/turf/village/horizontal_roof/slope/right,/area)
+"v" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/left/corner,/turf/house/wooden_window{density = 1; icon_state = "pointy_top"; layer = 1.5},/area)
+"w" = (/turf/boat_int/wall/middle/middle,/area)
+"x" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/right/corner,/turf/house/wooden_window{density = 1; icon_state = "pointy_top"; layer = 1.5},/area)
+"y" = (/turf/extra_roof/wood/left,/obj/map/noDenseMarker,/turf/village/horizontal_roof/corner/right{layer = 3},/area)
+"z" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/left/corner,/area)
+"A" = (/turf/house/wooden_window{density = 1; icon_state = "window_middle"},/area)
+"B" = (/turf/boat_int/wall/middle/middle,/turf/village/horizontal_roof/slope/right/corner,/area)
+"D" = (/turf/boat_int/wall/bottom/middle,/turf/village/horizontal_roof/slope/left/corner,/area)
+"E" = (/turf/boat_int/wall/bottom/middle,/area)
+"F" = (/turf/boat_int/wall/bottom/middle,/turf/house/wooden_window{density = 1; icon_state = "window_bottom"},/area)
+"G" = (/BuildingDetails{building_category = "Public"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = ""; building_name = "Public House_E"; building_rent = 100; building_rent_upfront = 3000},/turf/boat_int/wall/bottom/middle,/area)
+"H" = (/turf/boat_int/wall/bottom/middle,/turf/village/horizontal_roof/slope/right/corner,/area)
+"J" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/left,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"K" = (/turf/extra_roof/wall/middle/two,/turf/village/horizontal_roof_vdalion2/bottom_fill,/turf/village/horizontal_roof_vdalion2/bottom_middle,/area)
+"L" = (/turf/extra_roof/wall/middle/two,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"M" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/right,/turf/village/horizontal_roof_vdalion2/bottom_fill,/area)
+"N" = (/SmallPreview/Start,/turf,/area)
+"O" = (/turf/extra_roof/wall/middle/three,/turf/extra_roof/wood/bottom/left,/area)
+"P" = (/turf/extra_roof/wall/middle/three,/area)
+"Q" = (/Building/Warper/Exterior,/turf/house/wooden_door{icon_state = "2"},/area)
+"R" = (/turf/extra_roof/wall/middle/three,/turf/extra_roof/wood/bottom/right,/area)
+
+(1,1,1) = {"
+bbbbcbbba
+bbbfghbbb
+bbfijkhbb
+bfiijkkhb
+limijkkkn
+oipiqkkkr
+oiistukkr
+oisvwxukr
+dszAwABur
+eDEFGFEHy
+bJKLKLKMb
+NOPPQPPRb
+"}

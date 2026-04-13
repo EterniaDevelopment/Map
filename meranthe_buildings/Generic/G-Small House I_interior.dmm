@@ -1,0 +1,109 @@
+"aa" = (/turf,/area)
+"ab" = (/turf/void,/area)
+"ac" = (/MapLimit,/turf,/area)
+"ad" = (/obj/map/viewBlock,/turf/void,/area)
+"ae" = (/turf/house/roof/corner/br,/area)
+"af" = (/turf/house/roof/bottom,/area)
+"ag" = (/turf/house/roof/corner/bl,/area)
+"ah" = (/turf/house/roof/right,/area)
+"ai" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/building/wall/wall_1/middle/left,/area)
+"aj" = (/turf/village/building/wall/wall_1/middle/center,/area)
+"ak" = (/turf/village/building/wall/wall_1/middle/center,/turf/house/wooden_window{icon_state = "pointy_top"},/area)
+"al" = (/turf/house/roof/left,/area)
+"am" = (/turf/village/building/wall/wall_1/middle/middle,/area)
+"an" = (/turf/village/building/wall/wall_1/middle/right,/area)
+"ao" = (/turf/house/wooden_window{density = 1; icon_state = "pointy_middle"},/obj/map/cave_light,/turf/house/wooden_window{density = 1; icon_state = "foilage2_top"; layer = 9},/area)
+"ap" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_vdalion/foundation_middle,/area)
+"aq" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"ar" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"as" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"at" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"au" = (/turf/inn/floor,/area)
+"av" = (/turf/house/roof/corner/tr,/area)
+"aw" = (/turf/house/roof/top,/area)
+"ax" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"ay" = (/Building/Warper/Dynamic{dynamic_id = "genericI_room1"},/turf/inn/floor,/area)
+"az" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"aA" = (/turf/house/roof/corner/tl,/area)
+"aB" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"aC" = (/obj/map/cave_light,/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"aD" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"aE" = (/obj/map/DenseMarker,/turf/house/roof/bottom,/area)
+"aF" = (/obj/map/DenseMarker,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/shop_int/stairs/middle,/area)
+"aG" = (/turf/house/wooden_window{density = 1; icon_state = "pointy_middle"},/obj/map/cave_light,/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"; layer = 5},/area)
+"aH" = (/obj/map/DenseMarker,/turf/shop_int/stairs/middle,/area)
+"aI" = (/turf/house/roof/bottom_left,/area)
+"aJ" = (/turf/house/roof/bottom_right,/area)
+"aK" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop_int/stairs/middle,/area)
+"aL" = (/turf/shop_int/stairs/middle,/area)
+"aM" = (/turf/village/wall_vdalion/foundation_middle,/turf/house/wooden_window{density = 1; icon_state = "foilage2_bottom"},/area)
+"aN" = (/turf/village/wall_vdalion/foundation_middle,/turf/house/wooden_window{density = 1; icon_state = "foilage3_bottom"},/area)
+"aO" = (/Building/Warper/Dynamic{dynamic_id = "genericI_room1"},/turf/shop_int/stairs/middle,/area)
+"aP" = (/turf/village/building/wall/wall_1/middle/middle,/turf/house/wooden_window{icon_state = "pointy_top"},/area)
+"aQ" = (/turf/village/wall_vdalion/foundation_left,/area)
+"aR" = (/turf/village/wall_vdalion/foundation_right,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aS" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aT" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/obj/generic_shadow/white{alpha = 100; color = "black"; icon_state = "tl_corner"},/turf/inn/floor,/area)
+"aU" = (/turf/house/roof/top_left,/area)
+"aV" = (/turf/house/roof/top_right,/area)
+"aW" = (/BuildingDetails{building_category = "Public"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = ""; building_interior = 1; building_name = "G-Small House I"; building_settlement_only = 1},/turf/inn/floor,/area)
+"aX" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"aY" = (/obj/map/cave_light,/turf/house/roof/top,/area)
+"aZ" = (/obj/map/viewBlock,/obj/map/viewBlock,/turf/void,/area)
+"ba" = (/turf/village/building/wall/wall_1/middle/left,/area)
+"bb" = (/obj/map/cave_light,/turf/village/building/wall/wall_1/middle/center,/area)
+"bc" = (/turf/house/wooden_window{density = 1; icon_state = "pointy_middle"},/turf/house/wooden_window{density = 1; icon_state = "foilage2_top"; layer = 9},/area)
+
+(1,1,1) = {"
+ababababababababababababababababababababababababababababababababababababababababababababababababababac
+ababababababababababababababababababababababababababababababababababababababababababababababababababaa
+ababababababababababababababababababababababababababababababababababababababababababababababababababaa
+ababababababababababababababababababababababababababababababababababababababababababababababababababaa
+ababababababababababababababababababababababababababababababababababababababababababababababababababaa
+ababababababababababababababababababababababababababababababababababababababababababababababababababaa
+ababababababababababababababababababababababababababababababababababababababababababababababababababaa
+ababababababababababababababababababababababababababababababababababababababababababababababababababaa
+ababababababababababababababababababababababababababababababababababababababababababababababababababaa
+abababadadadadadadadadadadadadadadadadadadadababababababababababababababababababababababababababababaa
+abababadabababababababababababababababababadababababababababababababababababababababababababababababaa
+abababadabaeafafafafafafafafafafafafafagabadababababababababababababababababababababababababababababaa
+abababadabahaiajakajamajajajamajakajanalabadababababababababababababababababababababababababababababaa
+abababadabahaiajaoajamajajajamajaGajanalabadababababababababababababababababababababababababababababaa
+abababadabahapaqaMaqaqaqaqaqaqaqaNaqaqalabadababababababababababababababababababababababababababababaa
+abababadabaharasasasasasasasasasasasasalabadababababababababababababababababababababababababababababaa
+abababadabahatauauauauauauauauauauauaualabadababababababababababababababababababababababababababababaa
+abababadabahatauauauauauauauauauauauaualabadababababababababababababababababababababababababababababaa
+abababadabahatauauauauauauauauauauauaualabadababababababababababababababababababababababababababababaa
+abababadabahatauauauauauauauauauauauaualabadababababababababababababababababababababababababababababaa
+abababadabahatauauauauauauauauauauauaualabadababababababababababababababababababababababababababababaa
+abababadabahatauauauauauauauauauauauaualabadababababababababababababababababababababababababababababaa
+abababadabahatauauauauauauauauauauauaualabadababababababababababababababababababababababababababababaa
+abababadabahatauauauauauauauauauauauaualabadababababababababababababababababababababababababababababaa
+abababadabavawawawawawaxayazawawawawawaAabadababababababababababababababababababababababababababababaa
+abababadabababababababaBaCaDabababababababadababababababababababababababababababababababababababababaa
+abababadabababababababababababababababababadababababababababababababababababababababababababababababaa
+adadadadadadadadadadadadadadadadadadadadadadadadababababababababababababababababababababababababababaa
+adaeaEaEaEagaeafafafafafagabaeafafafafafafafagadababababababababababababababababababababababababababaa
+adahaFaOaHaIaJaiajaPajanaIafaJaiajajaPajajanaladababababababababababababababababababababababababababaa
+adahaKaLaLbaanaiajaGajanbaajanaiajbbbcajajanaladababababababababababababababababababababababababababaa
+adahaKaLaLbaanapaqaNaqaqbaajanapaqaqaMaqaqaqaladababababababababababababababababababababababababababaa
+adahaKaLaLaQaRaSasasasasaQaqaRaTasasasasasaualadababababababababababababababababababababababababababaa
+adahatauauauauauauauauauauauauauauauauauauaualadababababababababababababababababababababababababababaa
+adahatauauauauauauauauauauauauauauauauauauaualadababababababababababababababababababababababababababaa
+adahatauauauauauauauauauauauauauauauauauauaualadababababababababababababababababababababababababababaa
+adahatauauauauauauauauauauauauauauauauauauaualadababababababababababababababababababababababababababaa
+adahatauauauauauauauauauauauauauauauauauauaualadababababababababababababababababababababababababababaa
+adahatauauauauauauauauauauauauauauauauauauaualadababababababababababababababababababababababababababaa
+adahatauauauauauauauauauaUawaVauauauauauauaualadababababababababababababababababababababababababababaa
+adahatauauauauauauauauaualabavawawawawawawawaAadababababababababababababababababababababababababababaa
+adahatauauauauauauauauaualababababababababababadababababababababababababababababababababababababababaa
+adahatauauauauauauauauaualababababababababababadababababababababababababababababababababababababababaa
+adahatauauauauauauauauaualababababababababababadababababababababababababababababababababababababababaa
+adahatauauauauauauauauaualababababababababababadababababababababababababababababababababababababababaa
+adahatauauauauaWauauauaualababababababababababadababababababababababababababababababababababababababaa
+adahatauauauauauauauauaualababababababababababadababababababababababababababababababababababababababaa
+adavawawawawaVaXaUawawawaAababababababababababadababababababababababababababababababababababababababaa
+adabababababavaYaAababababababababababababababadababababababababababababababababababababababababababaa
+adababababababababababababababababababababababaZababababababababababababababababababababababababababaa
+adadadadadadadadadadadadadadadadadadadadadadadadababababababababababababababababababababababababababaa
+"}

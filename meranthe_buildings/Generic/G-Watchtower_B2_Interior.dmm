@@ -1,0 +1,137 @@
+"aa" = (/turf,/area)
+"ab" = (/obj/map/viewBlock,/turf/void,/area)
+"ac" = (/obj/map/viewBlock,/MapLimit,/turf/void,/area)
+"ad" = (/turf/house/roof/corner/br,/area)
+"ae" = (/turf/house/roof/bottom,/area)
+"af" = (/turf/house/roof/corner/bl,/area)
+"ag" = (/turf/house/roof/right,/area)
+"ah" = (/turf/shop_int/wall/middle/middle,/area)
+"ai" = (/turf/house/roof/left,/area)
+"aj" = (/turf/shop_int/floor,/area)
+"ak" = (/turf/inn/floor,/area)
+"al" = (/MapLimit,/turf,/area)
+"am" = (/turf/inn/floor,/obj/map/noDenseMarker,/turf/inn/rail/right,/area)
+"an" = (/turf/inn/floor,/obj/map/noDenseMarker,/turf/inn/rail/middle{layer = 4},/area)
+"ao" = (/turf/shop_int/floor,/obj/map/noDenseMarker,/turf/inn/rail/middle{layer = 4},/area)
+"ap" = (/turf/shop_int/floor,/obj/map/noDenseMarker,/turf/inn/rail/middle{density = 0; layer = 4},/area)
+"aq" = (/turf/inn/floor,/obj/map/noDenseMarker,/turf/inn/rail/middle{density = 0; layer = 4},/area)
+"ar" = (/turf/shop_int/floor,/obj/map/noDenseMarker,/turf/inn/rail/left,/area)
+"as" = (/obj/DirDensity/west,/turf/boat_int/wall/bottom/middle{layer = 2},/area)
+"at" = (/turf/boat_int/wall/bottom/middle{layer = 4},/area)
+"au" = (/turf/shop_int/floor,/obj/map/noDenseMarker,/turf/inn/rail/right,/area)
+"av" = (/obj/DirDensity/east,/turf/boat_int/wall/bottom/middle{layer = 4},/area)
+"aw" = (/obj/map/cave/ladder/top,/obj/map/noDenseMarker,/turf/boat_int/wall/bottom/middle{density = 0; layer = 2},/area)
+"ax" = (/obj/DirDensity/west,/turf/shop_int/floor,/area)
+"ay" = (/turf/inn/floor,/obj/map/noDenseMarker,/turf/inn/rail/left,/area)
+"az" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/turf/extra_roof/wood/left,/turf/extra_roof/wood/bottom/right,/obj/generic_shadow{alpha = 70; icon_state = "halftop"; name = "s_70"},/turf/village/building/shadow/shadow_1,/area)
+"aA" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/obj/generic_shadow{alpha = 70; icon_state = "halftop"; name = "s_70"},/turf/village/building/shadow/shadow_1,/area)
+"aB" = (/obj/map/cave/ladder/middle,/turf/shop_int/floor,/area)
+"aC" = (/obj/map/cave/ladder/middle,/turf/inn/floor,/area)
+"aD" = (/obj/DirDensity/east,/turf/inn/floor,/area)
+"aE" = (/obj/DirDensity/west,/turf/inn/floor,/area)
+"aF" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/turf/extra_roof/wood/right,/turf/extra_roof/wood/bottom/left,/obj/generic_shadow{alpha = 70; icon_state = "halftop"; name = "s_70"},/turf/village/building/shadow/shadow_1,/area)
+"aG" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/turf/extra_roof/wood/left,/turf/extra_roof/wood/right,/turf/extra_roof/wood/top/left,/obj/generic_shadow{alpha = 70; icon_state = "halftop"; name = "s_70"},/turf/village/building/shadow/shadow_1{alpha = 125},/area)
+"aH" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/obj/generic_shadow{alpha = 70; icon_state = "halftop"; name = "s_70"},/turf/village/building/shadow/shadow_1{alpha = 125},/area)
+"aI" = (/obj/DirDensity/east,/turf/shop_int/floor,/area)
+"aJ" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/turf/extra_roof/wood/left,/turf/extra_roof/wood/bottom/right,/area)
+"aK" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/area)
+"aL" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/turf/extra_roof/wood/right,/turf/extra_roof/wood/bottom/left,/area)
+"aM" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/turf/extra_roof/wood/left,/turf/extra_roof/wood/right,/turf/extra_roof/wood/top/left,/area)
+"aN" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/turf/extra_roof/wood/right,/turf/extra_roof/wood/top/right,/turf/extra_roof/wood/left,/area)
+"aO" = (/turf/ColiseumSilver/ColiseumSilver/front/one,/turf/extra_roof/wood/right,/turf/extra_roof/wood/top/right,/turf/extra_roof/wood/left,/obj/generic_shadow{alpha = 70; icon_state = "halftop"; name = "s_70"},/turf/village/building/shadow/shadow_1{alpha = 125},/area)
+"aP" = (/turf/inn/floor,/turf/village/building/shadow/shadow_1,/area)
+"aQ" = (/turf/shop_int/floor,/obj/DirDensity/west,/turf/village/building/shadow/shadow_1,/area)
+"aR" = (/turf/shop_int/floor,/turf/village/building/shadow/shadow_1,/area)
+"aS" = (/turf/shop_int/floor,/obj/map/cave/ladder/bottom,/turf/village/building/shadow/shadow_1,/area)
+"aT" = (/turf/inn/floor,/obj/map/cave/ladder/bottom,/turf/village/building/shadow/shadow_1,/area)
+"aU" = (/turf/inn/floor,/obj/DirDensity/east,/turf/village/building/shadow/shadow_1,/area)
+"aV" = (/turf/inn/floor,/obj/DirDensity/west,/turf/village/building/shadow/shadow_1,/area)
+"aW" = (/turf/shop_int/floor,/obj/DirDensity/east,/turf/village/building/shadow/shadow_1,/area)
+"aX" = (/BuildingDetails{building_category = "Public"; building_cost = 40000; building_desc = "Increases scouting range!"; building_guild = ""; building_interior = 1; building_name = "Lighthouse"; building_settlement_only = 0; building_watchtower = 1},/turf/inn/floor,/area)
+"aY" = (/turf/inn/floor,/turf/shop_int/stairs/rail{layer = 5},/area)
+"aZ" = (/turf/shop_int/floor,/turf/shop_int/stairs/rail{layer = 5},/area)
+"ba" = (/turf/shop_int/floor,/turf/shop_int/stairs/top_left,/area)
+"bb" = (/turf/inn/floor,/turf/shop_int/stairs/top,/area)
+"bc" = (/turf/shop_int/floor,/turf/shop_int/stairs/top,/area)
+"bd" = (/turf/inn/floor,/turf/shop_int/stairs/top_right,/area)
+"be" = (/turf/shop_int/floor,/obj/DirDensity/west,/turf/shop_int/stairs/rail{layer = 5},/area)
+"bf" = (/turf/boat_int/wall/bottom/middle{layer = 2},/area)
+"bg" = (/turf/shop_int/stairs/left,/area)
+"bh" = (/turf/shop_int/stairs/middle,/area)
+"bi" = (/turf/shop_int/stairs/right,/area)
+"bj" = (/obj/DirDensity/east,/turf/boat_int/wall/bottom/middle{layer = 2},/area)
+"bk" = (/obj/DirDensity/west,/turf/ColiseumSilver/Floor,/area)
+"bl" = (/turf/ColiseumSilver/Floor,/area)
+"bm" = (/turf/ColiseumSilver/Floor,/turf/shop_int/stairs/bottom_left,/area)
+"bn" = (/turf/shop_int/stairs/bottom,/area)
+"bo" = (/turf/ColiseumSilver/Floor,/turf/shop_int/stairs/bottom_right,/area)
+"bp" = (/obj/DirDensity/east,/turf/ColiseumSilver/Floor,/area)
+"bq" = (/turf/inn/floor,/obj/DirDensity/east,/turf/shop_int/stairs/rail{layer = 5},/area)
+"br" = (/turf/ColiseumSilver/Floor,/turf/inn/rail/middle,/area)
+"bs" = (/turf/ColiseumSilver/Floor,/turf/inn/rail/middle{layer = 1},/turf/inn/rail/right{layer = 2},/area)
+"bt" = (/turf/ColiseumSilver/Floor,/turf/inn/rail/middle{layer = 1},/turf/inn/rail/left,/area)
+"bu" = (/turf/ColiseumSilver/Floor,/obj/DirDensity/west,/turf/inn/rail/middle,/area)
+"bv" = (/turf/inn/floor,/turf/inn/rail/right,/area)
+"bw" = (/turf/shop_int/floor,/turf/inn/rail/left,/area)
+"bx" = (/turf/shop_int/floor,/turf/inn/rail/right,/area)
+"by" = (/turf/castle_int/stairs/middle,/area)
+"bz" = (/Building/Warper/Interior,/turf/castle_int/stairs/middle,/area)
+"bA" = (/turf/inn/floor,/turf/inn/rail/left,/area)
+"bB" = (/turf/house/roof/corner/tr,/area)
+"bC" = (/turf/house/roof/top,/area)
+"bD" = (/turf/house/roof/corner/tl,/area)
+"bE" = (/turf/ColiseumSilver/Floor,/obj/DirDensity/east,/turf/inn/rail/middle,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababababababababababababababababababababababababababacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagahahahahahahahahahahahahahahahahahahahahahahahahahaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagahahahahahahahahahahahahahahahahahahahahahahahahahaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajakajakajakajakajakajakajajakajakajakajakajakajakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajamanaoananaoanapanaoanaoaoanaoaqaoanaoanaoaoarakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauasatatatatatawatatatatatatatawatatatatatavayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajamaxakazaAaFakaBakajakajajakajaCajazaAaFajaDarakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauaEajaGaHaOajaCajakajakakajakaBakaGaHaOakaIayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajamaxakaJaKaLakaBakajakajajakajaCajaJaKaLajaDarakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauaEajaMaKaNajaCajakajakakajakaBakaMaKaNakaIayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajamaQaPaJaKaLaPaSaPaRaPaRaRaPaRaTaRaJaKaLaRaUarakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauaVaRaPaRaPaRaPaRaPaRaPaPaRaPaRaPaRaPaRaPaWayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajamaQaPaRaPaRaPaRaPaRaPaRaRaPaRaPaRaPaRaPaRaUarakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauaEajakajakajakajakajakakajakajakajakajakaIayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauaEajakajakajakajakajakakajakajakajakajakaIayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauaEajakajakajakajakajakakajakajakajakajakaIayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauaEajakajakajakajakajakakajakajakajakajakaIayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauaEajakajakajakajakajakakajakajakajakajakaIayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauaEajakajakajakajakajaXakajakajakajakajakaIayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajambeaYaZaYaZaYaZaYbabbbcbcbdaZaYaZaYaZaYaZbqarakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakauasbfbfbfbfbfbfbfbgbhbhbhbibfbfbfbfbfbfbfbjayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajambkblblblblblblblbmbnbnbnboblblblblblblblbparakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakaubkblblblblblblblblblblblblblblblblblblblbpayajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajambubrbrbrbrbrbrbrbsblblblbtbrbrbrbrbrbrbrbEarakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagakajakajakajakajakajbvblblblbwakajakajakajakajakajaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabagajakajakajakajakajakbxbybzbybAajakajakajakajakajakaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabbBbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbCbDabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabababababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

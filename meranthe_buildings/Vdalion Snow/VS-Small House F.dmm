@@ -1,0 +1,75 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf,/area)
+"ac" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_left,/area)
+"ad" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/top_fill,/area)
+"ae" = (/MapLimit,/turf/void,/area)
+"af" = (/SmallPreview/End,/turf,/area)
+"ag" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_vdalion/left,/area)
+"ah" = (/turf/village/horizontal_roof_vdalion/fill,/area)
+"ai" = (/turf/village/horizontal_roof_vdalion/fill,/turf/village/roof_vdalion/left_3{layer = 7},/area)
+"aj" = (/turf/village/roof_vdalion/center_2,/area)
+"ak" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/right_3,/area)
+"al" = (/turf/village/roof_vdalion/left_2,/area)
+"am" = (/turf/village/roof_vdalion/right_2,/area)
+"an" = (/turf/inn/rail/middle,/turf/inn/rail/left,/area)
+"ao" = (/turf/inn/rail/middle,/area)
+"ap" = (/turf/inn/rail/middle,/turf/village/horizontal_roof_vdalion/left,/area)
+"aq" = (/turf/inn/floor,/turf/inn/rail/left,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ar" = (/turf/inn/floor,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"as" = (/turf/inn/floor,/turf/village/horizontal_roof_vdalion/bottom_left,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"at" = (/turf/village/wall_vdalion/bottom_left,/turf/village/horizontal_roof_vdalion/bottom_fill,/area)
+"au" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion/bottom_fill,/turf/village/vdalion_extra/windowbig_4,/area)
+"av" = (/turf/village/wall_vdalion/bottom,/turf/village/horizontal_roof_vdalion/bottom_fill,/turf/village/roof_vdalion/left_5{layer = 7},/area)
+"aw" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/center_1,/area)
+"ax" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/right_5,/area)
+"ay" = (/turf/village/wall_vdalion/bottom_left,/area)
+"az" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/windowbig_3,/area)
+"aA" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_6,/area)
+"aB" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_1,/area)
+"aC" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_4,/turf/village/roof_vdalion/right_4,/area)
+"aD" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/right_1,/area)
+"aE" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/right_6,/area)
+"aF" = (/turf/village/wall_vdalion/foundation_left,/area)
+"aG" = (/turf/village/wall_vdalion/foundation_middle,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aH" = (/turf/village/wall_vdalion/foundation_middle,/turf/village/roof_vdalion/left_6{layer = 3},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aI" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_4,/area)
+"aJ" = (/turf/village/wall_vdalion/bottom,/area)
+"aK" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/right_4,/area)
+"aL" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aM" = (/turf/village/horizontal_roof_vdalion/top_right,/obj/map/noDenseMarker,/turf/village/roof_vdalion/center_3{layer = 7},/area)
+"aN" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion/left_1,/area)
+"aO" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/left_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"aP" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/village/roof_vdalion/left_6{layer = 3},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aQ" = (/turf/village/wall_vdalion/bottom,/turf/village/roof_vdalion/right_4,/turf/village/vdalion_extra/windowbig_4,/area)
+"aR" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion/right_1,/area)
+"aS" = (/turf/inn/floor,/turf/village/roof_vdalion/left_7{layer = 3},/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aT" = (/turf/village/wall_vdalion/bottom_left,/turf/village/roof_vdalion/left_4,/area)
+"aU" = (/turf/village/wall_vdalion/bottom,/turf/village/vdalion_extra/door_top,/area)
+"aV" = (/turf/village/wall_vdalion/bottom_right,/turf/village/roof_vdalion/right_4,/area)
+"aW" = (/obj/map/noDenseMarker,/turf/village/roof_vdalion/right_7,/area)
+"aX" = (/BuildingDetails{building_category = "Vdalion"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = "Vdalion"; building_name = "VS-Small House Snow F"; building_settlement_only = 1},/turf/village/wall_vdalion/bottom,/area)
+"aY" = (/turf/inn/floor,/turf/inn/rail/middle,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"aZ" = (/turf/inn/floor,/turf/village/road_brown/t_r,/turf/inn/rail/middle,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"ba" = (/turf/inn/floor,/turf/inn/rail/middle,/SmallPreview/Start,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bb" = (/turf/inn/floor,/turf/village/road_brown/t_l,/turf/inn/rail/middle,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bc" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bd" = (/turf/village/wall_vdalion/foundation_left,/turf/village/vdalion_extra/snow_1,/area)
+"be" = (/turf/village/wall_vdalion/foundation_middle,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bf" = (/turf/village/wall_vdalion/foundation_right,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+"bg" = (/turf/inn/floor,/turf/village/road_brown/bottom,/turf/village/vdalion_extra/snow_1,/Region{desc = "Osrona's merchant district, Caelfall has a high number of shops and large homes for those more well off than the majority of the population. Within the middle is a large park with a small body of water within it's center. The jail, as well as the City Watch's headquarters is also known to be found here."; name = "Caelfall"})
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababacadadadadadadaMabababafaaaa
+aaababagahahahahahaiajakabababaaaa
+aaababagahahahahaialajamakababaaaa
+aaanaoapahahahaialalajamamakabaaaa
+aaaqarasatauavalalalawamamamaxaaaa
+aaaqararayazaAalalaBaCaDamamaEaaaa
+aaaqararaFaGaHalaBaIaJaKaDamaEaaaa
+aaaqararaLaLaPaNaOaJaXaJaQaRaEaaaa
+aaaqararararaSaTazaJaUaJazaVaWaaaa
+aabaaYaZbgbgbbbdbebebcbebebfabaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

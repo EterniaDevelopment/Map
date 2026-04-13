@@ -1,0 +1,51 @@
+"a" = (/turf/void,/area)
+"b" = (/turf/inn/rail/middle,/turf/inn/rail/left,/area)
+"c" = (/turf/inn/rail/middle,/area)
+"d" = (/turf/inn/rail/middle,/SmallPreview/End,/turf/inn/rail/right{layer = 3.2},/area)
+"e" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf,/area)
+"f" = (/turf/boat/floor/wood,/turf/inn/rail/left,/area)
+"g" = (/turf/boat/floor/wood,/area)
+"h" = (/turf/boat/floor/wood,/turf/inn/rail/right{layer = 3.2},/area)
+"i" = (/obj/map/inn/hatch,/Building/Warper/Dynamic{dynamic_id = "generic_fort_room4"},/turf/boat/floor/wood,/area)
+"j" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/building/wall/wall_1/middle/left,/area)
+"k" = (/turf/boat/floor/wood,/turf/boat/edges/back/boat_25,/turf/inn/rail/bottom_left,/area)
+"l" = (/turf/boat/floor/wood,/turf/boat/edges/back/boat_25,/turf/inn/rail/middle,/area)
+"m" = (/turf/boat/floor/wood,/turf/boat/edges/back/boat_25,/turf/inn/rail/bottom_right,/area)
+"n" = (/MapLimit,/turf/void,/area)
+"o" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/building/wall/wall_1/middle/center,/area)
+"p" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/building/wall/wall_1/middle/middle,/area)
+"q" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"},/turf/village/building/wall/wall_1/middle/right,/area)
+"r" = (/turf/village/building/wall/wall_1/middle/left,/area)
+"s" = (/turf/village/building/wall/wall_1/middle/center,/turf/house/wooden_window{icon_state = "pointy_top"},/area)
+"t" = (/turf/village/building/wall/wall_1/middle/middle,/area)
+"u" = (/turf/village/building/wall/wall_1/middle/right,/area)
+"v" = (/turf/house/wooden_window{density = 1; icon_state = "pointy_middle"},/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"; layer = 5},/area)
+"w" = (/turf/village/building/wall/wall_1/middle/center,/turf/house/wooden_window{icon_state = "foilage3_bottom"},/area)
+"x" = (/turf/village/building/wall/wall_1/middle/center,/area)
+"y" = (/BuildingDetails{building_category = "Public"; building_cost = 40000; building_desc = "Increases scouting range!"; building_guild = ""; building_name = "G-Watchtower A"; building_settlement_only = 0; building_watchtower = 1},/turf/village/building/wall/wall_1/middle/middle,/area)
+"z" = (/turf/city/wall/two,/turf/extra_roof/wood/left,/area)
+"A" = (/turf/city/wall/two,/turf/village/vdalion_extra/door_bottom{icon_state = "door_top"},/area)
+"B" = (/Building/Warper/Exterior,/turf/village/vdalion_extra/door_bottom,/area)
+"C" = (/turf/city/wall/two,/turf/extra_roof/wood/right,/area)
+"D" = (/turf/city/wall/two,/area)
+"E" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "tl_corner"},/turf,/area)
+"F" = (/turf/city/wall/bottom,/SmallPreview/Start,/turf/extra_roof/wood/bottom/left,/area)
+"G" = (/turf/city/wall/bottom,/area)
+"H" = (/turf/city/wall/bottom,/turf/extra_roof/wood/bottom/right,/area)
+
+(1,1,1) = {"
+aaabcccdeaan
+aaafgggheaaa
+aaafiggheaaa
+aaafgggheaaa
+aaaklllmeaaa
+aaajopoqeaaa
+aaarstsueaaa
+aaarvtvueaaa
+aaarwtwueaaa
+aaarxyxueaaa
+aaarxtxueaaa
+aaazDADCeaaa
+aaaFGBGHEaaa
+aaaaaaaaaaaa
+"}

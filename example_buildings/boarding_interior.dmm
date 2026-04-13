@@ -1,0 +1,86 @@
+"a" = (/turf/void,/area)
+"b" = (/turf/jianghu_house_int/roof/top_left{density = 1},/area)
+"c" = (/turf/jianghu_house_int/roof/top,/area)
+"d" = (/turf/jianghu_house_int/roof/top_right{density = 1},/area)
+"e" = (/turf/jianghu_house_int/roof/left,/area)
+"f" = (/turf/jianghu_house_int/roof/bottom,/area)
+"g" = (/turf/jianghu_house_int/roof/right,/area)
+"h" = (/turf/inn/wall/middle/middle,/area)
+"i" = (/Building/Warper/Dynamic{dynamic_id = "Room1"},/turf/house/wooden_door,/area)
+"j" = (/turf/house/wooden_door,/area)
+"k" = (/turf/jianghu_house_int/woodfloor,/area)
+"l" = (/turf/jianghu_house_int/roof/bottom_left,/area)
+"m" = (/Building/Warper/Interior,/turf/jianghu_house_int/roof/bottom{density = 0},/area)
+"n" = (/turf/jianghu_house_int/roof/bottom_right,/area)
+"o" = (/turf/inn/wall/middle/left,/area)
+"p" = (/turf/inn/wall/middle/right,/area)
+"q" = (/turf/inn/wall/middle/door,/area)
+"r" = (/turf/inn/wall/bottom/left,/area)
+"s" = (/turf/inn/wall/bottom/middle,/area)
+"t" = (/turf/inn/wall/bottom/right,/area)
+"u" = (/Building/Warper/Dynamic{dynamic_id = "Room2"},/turf/house/wooden_door,/area)
+"v" = (/Building/Warper/Dynamic{dynamic_id = "Room3"},/turf/house/wooden_door,/area)
+"w" = (/Building/Warper/Dynamic{dynamic_id = "Room4"},/turf/house/wooden_door,/area)
+"x" = (/Building/Warper/Dynamic{dynamic_id = "Room5"},/turf/house/wooden_door,/area)
+"y" = (/obj/map/viewBlock,/turf/void,/area)
+"z" = (/turf/jianghu_house_int/roof/top{density = 1},/area)
+"A" = (/Building/Warper/Dynamic{dynamic_id = "Room4"},/turf/jianghu_house_int/roof/bottom{density = 0},/area)
+"B" = (/Building/Warper/Dynamic{dynamic_id = "Room5"},/turf/jianghu_house_int/roof/bottom{density = 0},/area)
+"C" = (/Building/Warper/Dynamic{dynamic_id = "Room1"},/turf/jianghu_house_int/roof/bottom{density = 0},/area)
+"D" = (/Building/Warper/Dynamic{dynamic_id = "Room2"},/turf/jianghu_house_int/roof/bottom{density = 0},/area)
+"E" = (/Building/Warper/Dynamic{dynamic_id = "Room3"},/turf/jianghu_house_int/roof/bottom{density = 0},/area)
+"F" = (/BuildingDetails{building_category = "Medium Buildings"; building_cost = 15000; building_desc = "A modest building with 5 rooms."; building_interior = 1; building_name = "Basic Boarding"},/turf/jianghu_house_int/woodfloor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+yyyyyyyyyyyyyyyyyyyyyyyyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bzzzzzzzzzdybzzzzzzzzzdyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+lffffAffffnylffffBffffnyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ohhhhhhhhhpyohhhhhhhhhpyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ohhhhqhhhhpyohhhhqhhhhpyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+rssssjsssstyrssssjsssstyaaaaaaaaaaaaaaaaaaaaaaaaaaa
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyaaaaaaaaaaaaaaa
+bzzzzzzzzzdybzzzzzzzzzdybzzzzzzzzzdyaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaa
+ekkkkkkkkkgyekkkkkkkkkgyekkkkkkkkkgyaaaaaaaaaaaaaaa
+lffffCffffnylffffDffffnylffffEffffnyaaaaaaaaaaaaaaa
+ohhhhhhhhhpyohhhhhhhhhpyohhhhhhhhhpyaaaaaaaaaaaaaaa
+ohhhhqhhhhpyohhhhqhhhhpyohhhhqhhhhpyaaaaaaaaaaaaaaa
+rssssjsssstyrssssjsssstyrssssjsssstyaaaaaaaaaaaaaaa
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyaaaaaaaaaaaaaaa
+bcccccccccccccccccccdyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+efffffffffffffffffffgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ehhhhhhhhhhhhhhhhhhhgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ehihhhuhhhvhhhwhhhxhgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkFkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekkkkkkkkkkkkkkkkkkkgyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+lfffffffffmfffffffffnyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ohhhhhhhhhhhhhhhhhhhpyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ohhhhhhhhhqhhhhhhhhhpyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+rsssssssssjssssssssstyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

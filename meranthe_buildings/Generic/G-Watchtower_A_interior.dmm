@@ -1,0 +1,101 @@
+"a" = (/turf/void,/area)
+"b" = (/obj/map/viewBlock,/turf/void,/area)
+"c" = (/turf/castle_int/roof/corner/br,/area)
+"d" = (/turf/castle_int/roof/bottom,/area)
+"e" = (/obj/map/cave/ladder/top{layer = 9},/turf/castle_int/roof/bottom,/area)
+"f" = (/turf/castle_int/roof/corner/bl,/area)
+"g" = (/turf/castle_int/roof/right,/area)
+"h" = (/turf/shop_int/wall/top/middle,/area)
+"i" = (/obj/map/cave/ladder/middle,/obj/map/noDenseMarker,/turf/shop_int/wall/top/middle,/area)
+"j" = (/turf/castle_int/roof/left,/area)
+"k" = (/turf/shop_int/wall/middle/middle,/area)
+"l" = (/obj/map/cave/ladder/middle,/obj/map/noDenseMarker,/turf/shop_int/wall/middle/middle,/area)
+"m" = (/turf/shop_int/wall/bottom/middle,/area)
+"n" = (/obj/map/cave/ladder/bottom,/obj/map/noDenseMarker,/Building/Warper/Dynamic{dynamic_id = "generic_fort_room2"},/turf/shop_int/wall/bottom/middle,/area)
+"o" = (/turf/castle/floor,/area)
+"p" = (/BuildingDetails{building_category = "Public"; building_cost = 40000; building_desc = "Increases scouting range!"; building_guild = ""; building_interior = 1; building_name = "G-Watchtower_A"; building_settlement_only = 1; building_watchtower = 1},/turf/castle/floor,/area)
+"q" = (/turf/castle_int/roof/corner/tr,/area)
+"r" = (/turf/castle_int/roof/top,/area)
+"s" = (/turf/castle_int/roof/top_right,/area)
+"t" = (/turf/castle_int/roof/top_left,/area)
+"u" = (/turf/castle_int/roof/corner/tl,/area)
+"v" = (/Lot/Warper/Interior,/turf/castle/floor,/area)
+"w" = (/obj/map/window_light,/obj/map/noDenseMarker,/turf/castle_int/roof/top,/area)
+"x" = (/turf/village/building/wall/wall_1/top/left,/area)
+"y" = (/obj/map/cave/ladder/middle,/obj/map/noDenseMarker,/turf/village/building/wall/wall_1/top/top,/area)
+"z" = (/turf/village/building/wall/wall_1/top/top,/area)
+"A" = (/turf/village/building/wall/wall_1/top/top,/turf/house/wooden_window{icon_state = "pointy_top"},/area)
+"B" = (/turf/village/building/wall/wall_1/top/right,/area)
+"C" = (/turf/village/building/wall/wall_1/middle/left,/area)
+"D" = (/obj/map/cave/ladder/middle,/obj/map/noDenseMarker,/turf/village/building/wall/wall_1/middle/middle,/area)
+"E" = (/turf/village/building/wall/wall_1/middle/middle,/area)
+"F" = (/MapLimit,/turf/void,/area)
+"G" = (/turf/village/building/wall/wall_1/middle/right,/area)
+"H" = (/turf/village/building/wall/wall_1/bottom/left,/area)
+"I" = (/obj/map/cave/ladder/bottom,/obj/map/noDenseMarker,/Building/Warper/Dynamic{dynamic_id = "generic_fort_room3"},/turf/village/building/wall/wall_1/bottom/middle,/area)
+"J" = (/turf/village/building/wall/wall_1/bottom/middle,/area)
+"K" = (/turf/village/building/wall/wall_1/bottom/middle,/turf/house/wooden_window{icon_state = "foilage3_bottom"; layer = 4},/area)
+"L" = (/obj/map/cave/ladder/top,/obj/map/noDenseMarker,/turf/village/building/wall/wall_1/bottom/middle,/area)
+"M" = (/turf/village/building/wall/wall_1/bottom/right,/area)
+"N" = (/turf/shop_int/floor,/area)
+"O" = (/turf/house/wooden_window{density = 1; icon_state = "pointy_middle"},/obj/map/window_light,/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"; layer = 5},/area)
+"P" = (/obj/map/window_light,/turf/castle_int/roof/top,/area)
+"Q" = (/obj/map/cave/ladder/top{layer = 10},/turf/castle_int/roof/bottom,/area)
+"R" = (/turf/village/building/wall/wall_1/top/top,/turf/house/wooden_window{icon_state = "pointy_top"; layer = 1.5},/area)
+"S" = (/obj/map/cave/ladder/bottom,/obj/map/noDenseMarker,/Building/Warper/Dynamic{dynamic_id = "generic_fort_room4"},/turf/village/building/wall/wall_1/bottom/middle,/area)
+"T" = (/turf/shop_int/wall/top/middle,/obj/map/cave/ladder/middle,/obj/map/noDenseMarker,/Building/Warper/Dynamic{dynamic_id = "generic_fort_room2"},/turf/void{density = 0; icon_state = "sink"; layer = 3.5; name = "void_Sink"; tag = "icon-sink"},/area)
+"U" = (/turf/shop_int/wall/top/middle,/obj/map/cave/ladder/middle,/obj/map/noDenseMarker,/Building/Warper/Dynamic{dynamic_id = "generic_fort_room3"},/turf/void{density = 0; icon_state = "sink"; layer = 3.5; name = "void_Sink"; tag = "icon-sink"},/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaF
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bcdddddddddedfbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bghhhhhhhhhihjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgkkkkkkkkklkjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgmmmmmmmmmnmjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgooooooooooojbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgooooooooooojbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgooooooooooojbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgooooooooooojbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgooooooooooojbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgooooooooooojbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgooooooooooojbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgooooopooooojbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgooooooooooojbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bqrrrsoootrrrubaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaqsvtuaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaqwuaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bcdedddddddddfbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgxyzzzAzzzzBjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgCDEEEOEEEEGjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgHIJJJKJJJLMjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNTNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bqrrrrrPrrrrrubaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bcdddddddddQdfbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgxzzzzRzzzyBjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgCEEEEOEEEDGjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgHLJJJKJJJSMjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNUNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgNNNNNNNNNNNjbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bqrrrrrPrrrrrubaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+baaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

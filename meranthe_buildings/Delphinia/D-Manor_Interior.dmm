@@ -1,0 +1,254 @@
+"aa" = (/turf,/area)
+"ab" = (/MapLimit,/turf,/area)
+"ac" = (/turf/village/wall_delphinia/middle,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"ad" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/bottom,/area)
+"ae" = (/turf/castle_int/roof/bottom_right,/area)
+"af" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"ag" = (/Building/Warper/Dynamic{dynamic_id = "UpWest2-D-Manor"},/turf/inn/floor,/area)
+"ah" = (/turf/castle_int/roof/bottom_left,/area)
+"ai" = (/turf/village/wall_vdalion/top_right,/area)
+"aj" = (/turf/village/wall_delphinia/middle_right,/area)
+"ak" = (/turf/inn/floor,/turf/inn/rail/right,/area)
+"al" = (/turf/village/wall_delphinia/middle,/area)
+"am" = (/turf/inn/floor,/turf/inn/rail/left,/area)
+"an" = (/turf/house/roof/right,/area)
+"ao" = (/turf/inn/floor,/area)
+"ap" = (/turf/house/roof/left,/area)
+"aq" = (/turf/inn/floor,/turf/inn/rail/right_joiner,/area)
+"ar" = (/turf/inn/floor,/turf/inn/rail/bottom_right,/area)
+"as" = (/turf/village/wall_delphinia/bottom,/area)
+"at" = (/turf/inn/floor,/turf/inn/rail/bottom_left,/area)
+"au" = (/turf/inn/floor,/turf/inn/rail/left_joiner,/area)
+"av" = (/turf/inn/floor,/turf/inn/rail/middle,/area)
+"aw" = (/turf/village/wall_delphinia/middle_left,/area)
+"ax" = (/turf/inn/floor,/turf/shop_int/stairs/top,/turf/inn/rail/left_joiner,/area)
+"ay" = (/turf/inn/floor,/turf/shop_int/stairs/top,/area)
+"az" = (/turf/inn/floor,/turf/shop_int/stairs/top,/turf/inn/rail/right_joiner,/area)
+"aA" = (/turf/shop_int/stairs/middle,/turf/inn/rail/left,/area)
+"aB" = (/turf/shop_int/stairs/middle,/area)
+"aC" = (/turf/shop_int/stairs/middle,/turf/inn/rail/right,/area)
+"aD" = (/turf/village/wall_delphinia/bottom_right,/area)
+"aE" = (/turf/village/wall_delphinia/bottom_left,/area)
+"aF" = (/turf/shop_int/stairs/bottom,/turf/inn/rail/left,/area)
+"aG" = (/turf/shop_int/stairs/bottom,/area)
+"aH" = (/turf/shop_int/stairs/bottom,/turf/inn/rail/right,/area)
+"aI" = (/turf/castle_int/roof/middle,/area)
+"aJ" = (/turf/house/roof/corner/br,/area)
+"aK" = (/turf/house/roof/bottom_right,/area)
+"aL" = (/turf/house/roof/bottom_left,/area)
+"aM" = (/turf/house/roof/corner/bl,/area)
+"aN" = (/turf/village/wall_vdalion/top_left,/area)
+"aO" = (/turf/village/wall_delphinia/middle_left,/turf/jianghu_house/shadow{density = 1},/area)
+"aP" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/middle_right,/area)
+"aQ" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/bottom_right,/area)
+"aR" = (/obj/map/cave_light,/turf/house/roof/right,/area)
+"aS" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/inn/floor,/area)
+"aT" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aU" = (/turf/village/wall_vdalion/top_middle,/turf/village/vdalion_extra/windowbig_4,/area)
+"aV" = (/turf/house/roof/corner/tr,/area)
+"aW" = (/turf/house/roof/top_right,/area)
+"aX" = (/turf/house/roof/top_left,/area)
+"aY" = (/turf/house/roof/corner/tl,/area)
+"aZ" = (/turf/void,/area)
+"ba" = (/turf/house/roof/top,/area)
+"bb" = (/obj/map/cave_light,/turf/inn/floor,/area)
+"bc" = (/Building/Warper/Interior,/turf/inn/floor,/area)
+"bd" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"be" = (/obj/map/DenseMarker,/obj/map/cave_light,/turf/house/roof/top,/area)
+"bf" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"bg" = (/obj/map/viewBlock,/turf/void,/area)
+"bh" = (/turf/house/roof/bottom,/area)
+"bi" = (/turf/academy/wall/middle/left,/area)
+"bj" = (/turf/academy/wall/middle/right,/area)
+"bk" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_2,/area)
+"bl" = (/turf/village/wall_delphinia/middle,/turf/jianghu_house/shadow{density = 1},/area)
+"bm" = (/Building/Warper/Dynamic{dynamic_id = "UpEast2-D-Manor"},/turf/inn/floor,/area)
+"bn" = (/turf/village/wall_delphinia/bottom,/turf/house/wooden_window{density = 1; icon_state = "foilage1_bottom"},/area)
+"bo" = (/Building/Warper/Dynamic{dynamic_id = "UpWest2-D-Manor"},/obj/map/noDenseMarker,/turf/village/delphinia_extra/door_bottom,/area)
+"bp" = (/turf/academy/wall/bottom/left,/area)
+"bq" = (/turf/academy/wall/bottom/right,/area)
+"br" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_2,/turf/jianghu_house/shadow{density = 1},/area)
+"bs" = (/turf/village/wall_delphinia/middle_right,/turf/jianghu_house/shadow{density = 1},/area)
+"bt" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/village/wall_delphinia/middle,/area)
+"bu" = (/Building/Warper/Dynamic{dynamic_id = "UpEast2-D-Manor"},/obj/map/noDenseMarker,/turf/village/delphinia_extra/door_bottom,/area)
+"bv" = (/turf/academy/floor,/area)
+"bw" = (/turf/village/wall_vdalion/middle,/turf/village/vdalion_extra/windowbig_5,/area)
+"bx" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"},/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"by" = (/turf/village/wall_vdalion/middle_right,/area)
+"bz" = (/turf/village/wall_vdalion/middle_left,/area)
+"bA" = (/turf/castle_int/roof/corner/br,/area)
+"bB" = (/turf/village/wall_vdalion/foundation_right,/area)
+"bC" = (/turf/village/wall_vdalion/foundation_left,/area)
+"bD" = (/Building/Warper/Dynamic{dynamic_id = "East3-D-Manor"},/turf/inn/floor,/area)
+"bE" = (/Building/Warper/Dynamic{dynamic_id = "UpWest1-D-Manor"},/turf/inn/floor,/area)
+"bF" = (/Building/Warper/Dynamic{dynamic_id = "Balcony-D-Manor"},/turf/inn/floor,/area)
+"bG" = (/turf/village/walkway/middle,/area)
+"bH" = (/turf/castle_int/roof/top,/area)
+"bI" = (/turf/castle_int/roof/bottom,/area)
+"bJ" = (/turf/village/wall_vdalion/top_middle,/area)
+"bK" = (/turf/castle_int/roof/corner/bl,/area)
+"bL" = (/turf/village/wall_delphinia/middle,/turf/village/delphinia_extra/door_top,/area)
+"bM" = (/turf/village/walkway/middle,/turf/village/walkway_edge/top,/area)
+"bN" = (/obj/map/cave_light,/turf/house/roof/left,/area)
+"bO" = (/turf/academy/wall/bottom/middle,/area)
+"bP" = (/Building/Warper/Dynamic{dynamic_id = "UpEast1-D-Manor"},/turf/inn/floor,/area)
+"bQ" = (/obj/map/noDenseMarker,/turf/city/wall{layer = 6},/area)
+"bR" = (/obj/map/cave_light,/turf/castle_int/roof/right,/area)
+"bS" = (/Building/Warper/Dynamic{dynamic_id = "East3-D-Manor"},/obj/map/noDenseMarker,/turf/village/delphinia_extra/door_bottom,/area)
+"bT" = (/Building/Warper/Dynamic{dynamic_id = "West3-D-Manor"},/obj/map/noDenseMarker,/turf/village/delphinia_extra/door_bottom,/area)
+"bU" = (/turf/village/wall_delphinia/middle,/turf/village/vdalion_extra/windowbig_1,/obj/map/cave_light,/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"},/area)
+"bV" = (/obj/map/cave_light,/turf/castle_int/roof/left,/area)
+"bW" = (/turf/village/wall_vdalion/middle,/area)
+"bX" = (/turf/inn/floor,/obj/map/noDenseMarker,/turf/city/wall/gap,/area)
+"bY" = (/turf/village/wall_vdalion/foundation_middle,/area)
+"bZ" = (/turf/castle_int/roof/right,/area)
+"ca" = (/turf/village/walkway/middle,/turf/village/walkway_edge/bottom_left,/area)
+"cb" = (/turf/village/walkway/middle,/turf/village/walkway_edge/bottom,/area)
+"cc" = (/turf/village/walkway/middle,/turf/village/walkway_edge/bottom_right,/area)
+"cd" = (/turf/castle_int/roof/left,/area)
+"ce" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/corner/br,/area)
+"cf" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/bottom,/area)
+"cg" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/corner/bl,/area)
+"ch" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/bottom_right,/area)
+"ci" = (/turf/forest/grass/grass_1,/area)
+"cj" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/bottom_left,/area)
+"ck" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/right,/area)
+"cl" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/left,/area)
+"cm" = (/turf/inn/floor,/obj/map/noDenseMarker,/turf/city/wall/gap/right,/area)
+"cn" = (/turf/village/wall_delphinia/middle_right,/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/jianghu_house/shadow{density = 1},/area)
+"co" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "East2-D-Manor"},/turf/inn/floor,/area)
+"cp" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/corner/tr,/area)
+"cq" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/top_right,/area)
+"cr" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/top_left,/area)
+"cs" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/corner/tl,/area)
+"ct" = (/turf/forest/grass/grass_1,/turf/village/walkway_edge/top,/area)
+"cu" = (/turf/castle_int/roof/corner/tr,/area)
+"cv" = (/turf/castle_int/roof/top_right,/area)
+"cw" = (/turf/castle_int/roof/top_left,/area)
+"cx" = (/turf/castle_int/roof/corner/tl,/area)
+"cy" = (/obj/map/noDenseMarker,/turf/castle_int/roof/top,/area)
+"cz" = (/obj/map/noDenseMarker,/turf/castle_int/roof/bottom,/area)
+"cA" = (/Building/Warper/Dynamic{dynamic_id = "West2-D-Manor"},/turf/inn/floor,/area)
+"cB" = (/Building/Warper/Dynamic{dynamic_id = "West2-D-Manor"},/turf/academy/floor,/area)
+"cC" = (/Building/Warper/Dynamic{dynamic_id = "East2-D-Manor"},/turf/academy/floor,/area)
+"cD" = (/turf/village/walkway/middle,/turf/village/walkway_edge/corner/br,/area)
+"cE" = (/turf/village/walkway/middle,/turf/village/walkway_edge/corner/bl,/area)
+"cF" = (/turf/village/walkway/middle,/turf/village/walkway_edge/right,/area)
+"cG" = (/turf/village/walkway/middle,/turf/village/walkway_edge/left,/area)
+"cH" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "East1-D-Manor"},/turf/inn/floor,/area)
+"cI" = (/Building/Warper/Dynamic{dynamic_id = "West1-D-Manor"},/turf/inn/floor,/area)
+"cJ" = (/turf/village/wall_vdalion/top_middle,/obj/map/cave_light,/turf/village/vdalion_extra/windowbig_3,/area)
+"cK" = (/Building/Warper/Dynamic{dynamic_id = "VSMedium House B_2"},/turf,/area)
+"cL" = (/turf/village/walkway/middle,/turf/village/walkway_edge/top_left,/area)
+"cM" = (/Building/Warper/Dynamic{dynamic_id = "UpWest1-D-Manor"},/obj/map/noDenseMarker,/turf/village/delphinia_extra/door_bottom,/area)
+"cN" = (/Building/Warper/Dynamic{dynamic_id = "UpEast1-D-Manor"},/obj/map/noDenseMarker,/turf/village/delphinia_extra/door_bottom,/area)
+"cO" = (/Building/Warper/Dynamic{dynamic_id = "West3-D-Manor"},/turf/inn/floor,/area)
+"cP" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/Building/Warper/Dynamic{dynamic_id = "West1-D-Manor"},/turf/inn/floor,/area)
+"cQ" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/Building/Warper/Dynamic{dynamic_id = "East1-D-Manor"},/turf/inn/floor,/area)
+"cR" = (/turf/village/walkway/middle,/obj/map/noDenseMarker,/turf/city/wall/gap,/area)
+"cS" = (/BuildingDetails{building_category = "Delphina"; building_cost = 200000; building_desc = "A large estate."; building_guild = "Delphina"; building_interior = 1; building_name = "D-Manor"; building_settlement_only = 1},/turf/inn/floor,/area)
+"cT" = (/turf/village/walkway/middle,/obj/map/noDenseMarker,/turf/city/wall/gap/right,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaabgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZbgaabgaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZaJbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaMaZbgaabgaZaJbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaMaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanacblbrblblblblblblblblblbrblblapaZbgaabgaZanacblbrblblblblblblblblblbrblblapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanbtalbUalalalalalalalalalbUalalapaZbgaabgaZanbtalbUalalalalalalalalalbUalalapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanadasbnasasasasasasasasasbnasasapaZbgaabgaZanadasbnasasasasasasasasasbnasasapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanafaTaTaTaTaTaTaTaTaTaTaTaTaTaTapaZbgaabgaZanafaTaTaTaTaTaTaTaTaTaTaTaTaTaTapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbg
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZbg
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaabgaZaJbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaMaZbg
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaabgaIaJbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaMaIbgaaaaaaaaaaaaaabgaZanacblbrblblblblblblblblblbrblblapaZbg
+bgaZaVbabababababaaWagaXbabababababaaYaZbgaabgaZaVbabababababaaWbmaXbabababababaaYaZbgaabgaJaKacblbrblblblblblblblblblblblblblblblblblbrblblaLaMbgaaaaaaaaaaaaaabgaZanbtalbUalalalalalalalalalbUalalapaZbg
+bgaZaZaZaZaZaZaZaZbdbebfaZaZaZaZaZaZaZaZbgaabgaZaZaZaZaZaZaZaZbdbebfaZaZaZaZaZaZaZaZbgaabganbsbtalbUalalalalalalalalalalalalalalalalalbUalalaOapbgaaaaaaaaaaaaaabgaZanadasbnasasasasasasasasasbnasasapaZbg
+bgaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZbgaabgaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZbgaabganajadasbnasasasasasasasasasasasasasasasasasbnasasawapbgaaaaaaaaaaaaaabgaZanafaTaTaTaTaTaTaTaTaTaTaTaTaTaTapaZbg
+bgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaabgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaabganaDbxaTaTaTaTaTaTaTaTaTaTaTaTaTaTaTaTaTaTaTaTaTaTaEapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+bgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+bgaJbhbhbhbhbhaMaJbhbhbhbhbhaMaJbhbhbhbhbhaMaJbhbhbhbhbhaMaJbhbhbhbhbhaMbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+bganblblbrblblaLaKblblblblblaLaKblblblblblaLaKblblblblblaLaKblblbrblblapbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+bganalalbUalalaObsalalbLalalaObsalalalalalaObsalalbLalalaObsalalbUalalapbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+bganasasbnasasawajasasboasasawajasasasasasawajasasbuasasawajasasbnasasapbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+bganaTaTaTaTaTaEaDaTaTaTaTaTaEaDaTaTaTaTaTaEaDaTaTaTaTaTaEaDaTaTaTaTaTapbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZaVbabababababaaWbDaXbabababababaaYaZbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZaZaZaZaZaZaZaZbdbebfaZaZaZaZaZaZaZaZbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZbg
+bgaVbaaWbEaXbababababababababababaaWbFaXbababababababababababaaWbPaXbaaYbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaabgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbg
+bgaZaZaVbeaYaZaIaIaIaIaIaIaZaIaIaIaVbeaYaIaIaIaIaIaIaIaIaIaIaIaVbeaYaIaIbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaabgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbg
+bgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabganaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbgaaaaaaaabgaZaJbhbhbhbhbhaMaJbhbhbhbhbhaMaJbhbhbhbhbhaMbg
+bgaJbhbhbhbhbhaMaJbhbhbhbhbhaMaJbhbhbhbhbhaMaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaVbabababHbHcycybHbHcycybHbHbHcycybHbHcycybHbHbababaaYbgaaaaaaaabgaZanblblblblblaLaKblblblblblaLaKblblbrblblapbg
+bganblblbrblblaLaKblblblblblaLaKblblblblblapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaZaZaZbAbIbIczczbIbIczczbIbIbIczczbIbIczczbIbIbKaZaZaZbgaaaaaaaabgaZanalalbLalalaObsalalalalalaObsalalbUalalapbg
+bganalalbUalalaObsalalalalalaObsalalbLalalapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaZaZaZbZbibjbQbQbibjbQbQbibJbjbQbQbibjbQbQbibjcdaZaZaZbgaaaaaaaabgaJaKasasbSasasawajasasasasasawajasasbnasasapbg
+bganasasbnasasawajasasasasasawajasasbTasasaLaMbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbAbIbIaebibjbXcmbibjbXcmbibJbjbXcmbibjbXcmbibjahbIbIbKbgaaaaaaaabgancnaTaTaTaTaTaEaDaTaTaTaTaTaEaDaTaTaTaTaTapbg
+bganaTaTaTaTaTaEaDaTaTaTaTaTaEaDaTaTaTaTaTaOapbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZbJaUaibibjaoaobibjaoaobibJbjaoaobibjaoaobibjaNaUbJcdbgaaaaaaaabganaPaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoawapbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZbJcJaibpbqbvbvbpbqbvbvbpbObqbvbvbpbqbvbvbpbqaNcJbJcdbgaaaaaaaabganaQaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaEapbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZbWbwbycDcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcEbzbwbWcdbgaaaaaaaabgaRcoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaocAbNbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZbYbYbBcFbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGcGbCbYbYcdbgaaaaaaaabgaVaWaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaXaYbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcDcbcbccbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGcacbcbcEcdbgaaaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGcGcdbgaaaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGcGcdbgaaaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGbGcecfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcgbGbGbGcGcdbgaaaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGcechcicicicicicicicicicicicicicicicjcgbGbGcGcdbgaaaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcdbgaaaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbgbZcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcdbgbgaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbAaecFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGahbKbgaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZaicFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGaNcdbgaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZaicFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGaNcdbgaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZbycFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGbzcdbgaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZbBcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGbCcdbgaaaaaabgaJaKaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaLaMbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbRcBcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcCbVbgaaaaaabgancnaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaOapbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgcucvcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcwcxbgaaaaaabganaPaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoawapbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbgbZcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcdbgbgaaaaaabganaQaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaEapbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcdbgaaaaaaaabgaRcHaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaocIbNbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcdbgaaaaaaaabgaVaWaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaXaYbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcdbgaaaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcdbgaaaaaaaabgaZanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapbg
+bganaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGckciciciciciciciciciciciciciciciciciclbGbGcGcdbgaaaaaaaabgaZaVbababababababababababababababababababaaYbg
+bgaVbababababababababababababababababababaaYaZbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGcpcqcicicicicicicicicicicicicicicicrcsbGbGcGcdbgaaaaaaaabgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbg
+bgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGbGcpctctctctctctctctctctctctctctctcsbGbGbGcGcdbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacKaaaaaaaaaaaabgbZcFbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGcGcdbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbZcFbGbGcLbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGbGcLcGcdbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZbgaaaaaaaaaaaaaaaaaaaabgbgbgbgbgbgbgbgbgbgbgbgbgbgcubHbHbHbHbHcycybHbHcycybHbHbHcycybHbHcycybHbHbHbHbHcxbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZaJbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaMaZbgaaaaaaaaaaaaaaaaaaaabgaIaIaJbhbhbhbhbhbhbhbhbhbhbhbhbhbhbIbIczczbIbIczczbIbIbIczczbIbIczczbIbIbhbhbhbhbhbhbhbhbhbhbhbhbhbhaMaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanacblbrblblblblblblblblblbrblblapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanalalalalalalalalalalalalbkajbibjbQbQbibjbQbQbibJbjbQbQbibjbQbQbibjawbkalalalalalalalalalalalalapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanbtalbUalalalalalalalalalbUalalapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanalalalalalbLalalalalalalbUajbibjcRcTbibjcRcTbibJbjcRcTbibjcRcTbibjawbUalalalalalalbLalalalalalapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanadasbnasasasasasasasasasbnasasapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanasasasasascMasasasasasasbnaDbibjbMbMbibjbMbMbibJbjbMbMbibjbMbMbibjaEbnasasasasasascNasasasasasapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanafaTaTaTaTaTaTaTaTaTaTaTaTaTaTapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaoaoaoakbpbqbvbvbpbqbvbvbpbObqbvbvbpbqbvbvbpbqamaoaoaoaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaoaoaoakaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoamaoaoaoaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaoaoaqaraoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoatauaoaoaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaqavarajaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoawatavauaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanavavavavaxayazavavavaralajajaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoawawalatavavavaxayazavavavavapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanalalalajaAaBaCawalalajalajaDaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaEawalawalalajaAaBaCawalalalapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanalalalajaAaBaCawalalajasaDaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaEasawalalajaAaBaCawalalalapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanasasasaDaFaGaHaEasasaDaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaEasasaDaFaGaHaEasasasapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIaJaKaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaLaMaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZanaSaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaZbgaaaaaaaaaaaaaaaaaaaabgaIancnaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaOapaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZaVbabababababaaWcOaXbabababababaaYaZbgaaaaaaaaaaaaaaaaaaaabgaIanaPaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoawapaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZaZaZaZaZaZaZaZbdbebfaZaZaZaZaZaZaZaZbgaaaaaaaaaaaaaaaaaaaabgaIanaQaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaEapaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZbgaaaaaaaaaaaaaaaaaaaabgaIaRcPaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaocQbNaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaaaaaaaabgaIaVaWaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaXaYaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaocSaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaIaIanaoaoaoaoaoaoaoaoaoaoaoaXbababababaaWaoaoaoaoaoaoaoaoaoaoaoaXbababababaaWaoaoaoaoaoaoaoaoaoaoaoapaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaIaIaVbaaWaoaoaobbaoaoaoaXbaaYaIaIaIaIaIaVbaaWaoaoaoaoaoaoaoaXbaaYaIaIaIaIaIaVbaaWaoaoaobbaoaoaoaXbaaYaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaIaIaIaIaVbababababababaaYaIaIaIaIaIaIaIaIaIaVbabaaWbcaXbabaaYaIaIaIaIaIaIaIaIaIaVbababababababaaYaIaIaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIbdbebfaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

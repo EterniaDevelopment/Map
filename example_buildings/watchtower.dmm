@@ -1,0 +1,34 @@
+"a" = (/turf/void,/area)
+"b" = (/turf/inn/roof/top_left,/area)
+"c" = (/turf/inn/roof/top,/area)
+"d" = (/SmallPreview/End,/turf/inn/roof/top_right,/area)
+"e" = (/turf/inn/roof/bottom_left,/area)
+"f" = (/obj/map/inn/hatch,/Building/Warper/Dynamic{dynamic_id = "RoofHatch"},/turf/inn/roof/middle,/area)
+"g" = (/turf/inn/roof/middle,/area)
+"h" = (/turf/inn/roof/right,/area)
+"i" = (/turf/inn/wall/top/middle,/area)
+"j" = (/turf/inn/wall/middle/middle,/area)
+"k" = (/obj/map/village/window/window_2,/turf/inn/wall/middle/middle,/area)
+"l" = (/turf/inn/wall/middle/door,/area)
+"m" = (/SmallPreview/Start,/turf/inn/wall/bottom/middle,/area)
+"n" = (/turf/inn/wall/bottom/middle,/area)
+"o" = (/Building/Warper/Exterior,/turf/village/door/door_1/close,/area)
+"p" = (/BuildingDetails{building_category = "Watchtowers"; building_cost = 20000; building_desc = "Increases scouting range!"; building_name = "Watchful Tower"; building_watchtower = 1},/turf/inn/roof/middle,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaabcccccdaaaa
+aaaaefgggghaaaa
+aaaaeggggghaaaa
+aaaaeggpgghaaaa
+aaaaiiiiiiiaaaa
+aaaajjjjjjjaaaa
+aaaajjjjjjjaaaa
+aaaajjjjjjjaaaa
+aaaajkjjjkjaaaa
+aaaajjjljjjaaaa
+aaaamnnonnnaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+"}

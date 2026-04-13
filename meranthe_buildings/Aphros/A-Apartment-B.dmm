@@ -1,0 +1,81 @@
+"aa" = (/turf,/area)
+"ab" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/center_3,/area)
+"ac" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_3,/area)
+"ad" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/center_2,/area)
+"ae" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/right_3,/area)
+"af" = (/turf/village/roof_aphros/left_2,/area)
+"ag" = (/turf/village/roof_aphros/center_2,/area)
+"ah" = (/turf/village/roof_aphros/right_2,/area)
+"ai" = (/obj/map/noDenseMarker,/turf,/area)
+"aj" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/center_1,/area)
+"ak" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_5,/area)
+"al" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_1,/area)
+"am" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_4,/turf/village/roof_aphros/left_4,/area)
+"an" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_1,/area)
+"ao" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/right_5,/area)
+"ap" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_6,/area)
+"aq" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_4,/area)
+"ar" = (/turf/village/wall_aphros/middle,/turf/village/aphros_extra/windowbig_1,/turf/village/aphros_extra/windowbig_3,/area)
+"as" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_4,/area)
+"at" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/right_6,/area)
+"au" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_1,/turf/village/roof_aphros/left_6{layer = 7},/area)
+"av" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_1,/area)
+"aw" = (/turf/village/wall_aphros/middle,/area)
+"ax" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_1,/area)
+"ay" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_1,/turf/village/roof_aphros/right_6{layer = 3},/area)
+"az" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_7,/area)
+"aA" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_4,/turf/village/roof_aphros/left_7,/area)
+"aB" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_4,/area)
+"aC" = (/turf/village/wall_aphros/middle,/turf/village/aphros_extra/windowbig_4,/area)
+"aD" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_4,/area)
+"aE" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_4,/turf/village/roof_aphros/right_7,/area)
+"aF" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/right_7,/area)
+"aG" = (/turf/village/wall_aphros/middle_left,/area)
+"aH" = (/turf/village/wall_aphros/middle,/turf/village/aphros_extra/windowbig_3,/area)
+"aI" = (/turf/village/wall_aphros/middle_right,/area)
+"aJ" = (/turf/village/wall_aphros/bottom_left,/area)
+"aK" = (/turf/village/wall_aphros/middle,/turf/village/aphros_extra/door_top,/area)
+"aL" = (/turf/village/wall_aphros/bottom_right,/area)
+"aM" = (/turf/village/wall_aphros/foundation_left,/area)
+"aN" = (/turf/village/wall_aphros/bottom,/area)
+"aO" = (/Building/Warper/Exterior,/turf/village/aphros_extra/door_bottom,/area)
+"aP" = (/Building/Warper/Dynamic{dynamic_id = "A-Apart-B D2"},/turf/village/aphros_extra/door_bottom,/area)
+"aQ" = (/turf/village/wall_aphros/foundation_right,/area)
+"aR" = (/turf/gothic/castle/floor,/turf/gothic/castle_int/stairs/top/left,/area)
+"aS" = (/turf/gothic/castle/floor,/turf/gothic/castle_int/stairs/top,/area)
+"aT" = (/turf/gothic/castle/floor,/turf/gothic/castle_int/stairs/top/right,/area)
+"aU" = (/turf/gothic/castle_int/stairs/left,/area)
+"aV" = (/turf/gothic/castle_int/stairs/middle,/area)
+"aW" = (/turf/gothic/castle_int/stairs/right,/area)
+"aX" = (/turf/gothic/castle_int/stairs/bottom/left,/area)
+"aY" = (/turf/gothic/castle_int/stairs/bottom,/area)
+"aZ" = (/turf/gothic/castle_int/stairs/bottom/right,/area)
+"ba" = (/BuildingDetails{building_category = "Aphros"; building_cost = 75000; building_desc = "An apartment complex."; building_guild = "Aphros"; building_name = "A-Apartment B"; building_settlement_only = 1},/turf/village/wall_aphros/middle,/area)
+"bb" = (/turf/void,/area)
+"bc" = (/SmallPreview/End,/turf,/area)
+"bd" = (/MapLimit,/turf/void,/area)
+"be" = (/SmallPreview/Start,/turf,/area)
+
+(1,1,1) = {"
+bbaaaaaaaaaaabaaaaaaaabcbd
+bbaaaaaaaaacadaeaaaaaaaabb
+bbaaaaaaacafagahaeaaaaaabb
+bbaaaaacafafagahahaeaaaabb
+bbaaaaafafafagahahahaiaabb
+bbaaacafafafajahahahaeaabb
+bbakafafafalamanahahahaobb
+bbapafafalaqarasanahahatbb
+bbapauavaqawawawasaxayatbb
+bbazaAaBaCawaCawaCaDaEaFbb
+bbaaaGaGaHawaHawaHaIaIaabb
+bbaaaGaGawawawawawaIaIaabb
+bbaaaGaGaCawaCawaCaIaIaabb
+bbaaaGaGaHawaHawaHaIaIaabb
+bbaaaGaGawawbaawawaIaIaabb
+bbaaaJaGawaKawaKawaIaLaabb
+bbaaaMaJaNaOaNaPaNaLaQaabb
+bbaaaaaMaRaSaSaSaTaQaaaabb
+bbaaaaaaaUaVaVaVaWaaaaaabb
+bbbeaaaaaXaYaYaYaZaaaaaabb
+bbbbbbbbbbbbbbbbbbbbbbbbbb
+"}

@@ -1,0 +1,83 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf,/area)
+"ac" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/top/left,/area)
+"ad" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/top{layer = 7},/area)
+"ae" = (/turf/village/horizontal_roof/top/right{layer = 7},/obj/map/noDenseMarker,/turf/village/building/roof/roof_3/center/center_3{layer = 9},/area)
+"af" = (/SmallPreview/End,/turf,/area)
+"ag" = (/MapLimit,/turf/void,/area)
+"ah" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/top/left/fill{density = 1; layer = 6},/area)
+"ai" = (/turf/village/horizontal_roof/fill,/area)
+"aj" = (/turf/village/horizontal_roof/fill,/turf/village/building/roof/roof_3/left/left_3,/area)
+"ak" = (/turf/village/building/roof/roof_3/center/center_2,/area)
+"al" = (/obj/map/noDenseMarker,/turf/village/building/roof/roof_3/right/right_3,/area)
+"am" = (/turf/village/building/roof/roof_3/left/left_2,/area)
+"an" = (/turf/village/building/roof/roof_3/center/center_2,/turf/village/horizontal_roof/top/right{layer = 7},/turf/village/building/roof/roof_3/center/center_3{layer = 8},/area)
+"ao" = (/turf/village/building/roof/roof_3/right/right_2,/area)
+"ap" = (/turf/inn/rail/middle,/turf/inn/rail/left,/area)
+"aq" = (/turf/inn/rail/middle,/area)
+"ar" = (/turf/inn/rail/middle,/turf/village/horizontal_roof/top/left/fill{density = 1; layer = 6},/area)
+"as" = (/turf/inn/floor,/turf/inn/rail/left,/area)
+"at" = (/turf/inn/floor,/area)
+"au" = (/turf/inn/floor,/turf/village/horizontal_roof/bottom/left{layer = 9},/area)
+"av" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/left,/turf/village/horizontal_roof/bottom,/area)
+"aw" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/horizontal_roof/bottom,/area)
+"ax" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/horizontal_roof/bottom,/turf/village/horizontal_roof/edge/left,/area)
+"ay" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/building/roof/roof_3/center/center_1,/turf/village/horizontal_roof/slope/peak,/area)
+"az" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/edge/right,/area)
+"aA" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/left,/area)
+"aB" = (/turf/extra_roof/wall/middle/two,/area)
+"aC" = (/turf/extra_roof/wall/middle/two,/turf/village/horizontal_roof/edge/left/middle,/area)
+"aD" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/building/roof/roof_3/left/left_1,/turf/village/horizontal_roof/slope/left,/area)
+"aE" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/horizontal_roof/slope/right/corner,/turf/village/horizontal_roof/slope/left/corner,/area)
+"aF" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/building/roof/roof_3/right/right_1,/turf/village/horizontal_roof/slope/right,/area)
+"aG" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/edge/right/middle,/area)
+"aH" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/inn/floor,/area)
+"aI" = (/turf/inn/floor,/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "top"},/turf/village/horizontal_roof/edge/left/middle,/area)
+"aJ" = (/turf/village/building/wall/wall_1/middle/center,/turf/village/building/roof/roof_3/left/left_1,/turf/village/horizontal_roof/slope/left,/area)
+"aK" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/horizontal_roof/slope/left/corner,/area)
+"aL" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/area)
+"aM" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/horizontal_roof/slope/right/corner,/area)
+"aN" = (/turf/inn/floor,/turf/village/horizontal_roof/edge/left/middle,/area)
+"aO" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/left,/turf/village/horizontal_roof/slope/left/corner,/turf/house/wooden_window{density = 1; icon_state = "pointy_top"},/area)
+"aP" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood,/turf/village/horizontal_roof/slope/right/corner,/turf/house/wooden_window{density = 1; icon_state = "pointy_top"},/area)
+"aQ" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/right,/turf/village/building/roof/roof_3/right/right_1,/turf/village/horizontal_roof/slope/right,/area)
+"aR" = (/turf/inn/floor,/turf/inn/rail/middle,/area)
+"aS" = (/turf/inn/floor,/turf/shop_int/stairs/top_left,/area)
+"aT" = (/turf/inn/floor,/turf/shop_int/stairs/top,/area)
+"aU" = (/turf/inn/floor,/turf/shop_int/stairs/top_right,/area)
+"aV" = (/turf/inn/floor,/turf/inn/rail/middle,/turf/village/horizontal_roof/corner/left{layer = 3.1},/area)
+"aW" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/left,/turf/village/horizontal_roof/slope/left/corner,/area)
+"aX" = (/turf/house/wooden_window{density = 1; icon_state = "window_middle"},/turf/house/wooden_window{density = 1; icon_state = "foilage1_top"},/area)
+"aY" = (/turf/village/building/wall/wall_1/middle/center,/BuildingDetails{building_category = "Public"; building_cost = 25000; building_desc = "A building with 2 rooms."; building_guild = ""; building_name = "Public House_C"; building_rent = 100; building_rent_upfront = 3000},/turf/extra_roof/wood,/area)
+"aZ" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/right,/turf/village/horizontal_roof/slope/right/corner,/area)
+"ba" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof/corner/right,/area)
+"bb" = (/turf/shop_int/stairs/left,/area)
+"bc" = (/turf/shop_int/stairs/middle,/area)
+"bd" = (/turf/shop_int/stairs/right,/area)
+"be" = (/obj/generic_shadow/white{alpha = 75; color = "black"; icon_state = "full"; name = "house shadow"},/turf/extra_roof/wall/middle/two,/area)
+"bf" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom/left,/turf/extra_roof/wood/top/left,/area)
+"bg" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/top,/turf/house/wooden_window{density = 1; icon_state = "foilage1_bottom"},/area)
+"bh" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/top,/area)
+"bi" = (/turf/village/building/wall/wall_1/middle/center,/turf/extra_roof/wood/bottom/right,/turf/extra_roof/wood/top/right,/area)
+"bj" = (/SmallPreview/Start,/turf,/area)
+"bk" = (/turf/city/wall/blue{icon_state = "Left"},/turf/shop_int/stairs/bottom_left,/area)
+"bl" = (/turf/shop_int/stairs/bottom,/area)
+"bm" = (/turf/city/wall/blue{density = 0; icon_state = "Right"},/turf/shop_int/stairs/bottom_right,/area)
+"bn" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf,/area)
+"bo" = (/Building/Warper/Exterior,/turf/house/wooden_door{icon_state = "2"},/area)
+"bp" = (/turf/extra_roof/wall/middle/two,/turf/extra_roof/wood/right,/area)
+
+(1,1,1) = {"
+aaababacadadadadadadaeabababafaaag
+aaababahaiaiaiaiaiajakalabababaaaa
+aaababahaiaiaiaiajamanaoalababaaaa
+aaapaqaraiaiaiajamamakaoaoalabaaaa
+aaasatauavawaxamamamayaoaoaoazaaaa
+aaasatataAaBaCamamaDaEaFaoaoaGaaaa
+aaasatataHaHaIamaJaKaLaMaFaoaGaaaa
+aaasatatatataNaJaOaLaLaLaPaQaGaaaa
+aaaRaRaSaTaUaVaWaXaLaYaLaXaZbaaaaa
+aaaAaBbbbcbdbebfbgbhbhbhbgbiabaaaa
+aabjabbkblbmbnaAaBaBboaBaBbpabaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

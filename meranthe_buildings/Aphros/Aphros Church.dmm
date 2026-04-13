@@ -1,0 +1,77 @@
+"aa" = (/turf/void,/area)
+"ab" = (/turf,/area)
+"ac" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/center_3,/area)
+"ad" = (/SmallPreview/End,/turf,/area)
+"ae" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_3,/area)
+"af" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/center_2,/area)
+"ag" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/right_3,/area)
+"ah" = (/turf/village/roof_aphros/left_2,/area)
+"ai" = (/turf/village/roof_aphros/center_2,/area)
+"aj" = (/turf/village/roof_aphros/right_2,/area)
+"ak" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/center_1,/area)
+"al" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/left_5{layer = 7},/area)
+"am" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_1,/area)
+"an" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_4,/turf/village/roof_aphros/left_4,/area)
+"ao" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_1,/area)
+"ap" = (/obj/map/noDenseMarker,/turf/village/roof_aphros/right_5{density = 0; layer = 7},/area)
+"aq" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/top_left,/area)
+"ar" = (/MapLimit,/turf/void,/area)
+"as" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_4,/area)
+"at" = (/turf/village/wall_aphros/middle,/area)
+"au" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_4,/area)
+"av" = (/turf/village/horizontal_roof_aphros/top_fill,/obj/map/noDenseMarker,/turf/village/roof_aphros/left_6{layer = 7; name = "left 6_1"},/area)
+"aw" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/top_right,/area)
+"ax" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/top_fill,/area)
+"ay" = (/turf/village/horizontal_roof_aphros/top_fill,/obj/map/noDenseMarker,/turf/village/roof_aphros/right_6{layer = 7},/area)
+"az" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/roof_aphros/left_6{layer = 7},/area)
+"aA" = (/turf/village/horizontal_roof_aphros/top_fill,/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/left,/area)
+"aB" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/roof_aphros/right_6{layer = 7},/area)
+"aC" = (/turf/village/wall_aphros/middle,/obj/map/shop_int/window,/obj/map/generic_light{alpha = 200; layer = 5; light_size = 2; name = "light_cyan_big"},/turf/village/roof_aphros/center_3{layer = 4},/area)
+"aD" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/left,/area)
+"aE" = (/turf/village/horizontal_roof_aphros/fill,/area)
+"aF" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/horizontal_roof_aphros/left,/area)
+"aG" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_1,/area)
+"aH" = (/obj/map/shop_int/window,/turf/village/wall_aphros/middle,/area)
+"aI" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/left_3,/area)
+"aJ" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_3,/area)
+"aK" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_1,/area)
+"aL" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/horizontal_roof_aphros/right,/area)
+"aM" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/right,/area)
+"aN" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/roof_aphros/left_7{layer = 7},/area)
+"aO" = (/turf/village/wall_aphros/middle_left,/turf/village/roof_aphros/left_4,/area)
+"aP" = (/turf/village/wall_aphros/middle_right,/turf/village/roof_aphros/right_4,/area)
+"aQ" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/roof_aphros/right_7{layer = 7},/area)
+"aR" = (/turf/village/horizontal_roof_aphros/top_fill,/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/right,/area)
+"aS" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/horizontal_roof_aphros/bottom_left,/area)
+"aT" = (/turf/village/wall_aphros/middle_left,/turf/village/horizontal_roof_aphros/bottom_fill,/area)
+"aU" = (/turf/village/wall_aphros/middle,/turf/village/horizontal_roof_aphros/bottom_fill,/area)
+"aV" = (/obj/map/shop_int/window,/obj/map/generic_light{alpha = 200; layer = 5; light_size = 2; name = "light_cyan_big"},/turf/village/wall_aphros/middle,/area)
+"aW" = (/turf/village/wall_aphros/middle_right,/turf/village/horizontal_roof_aphros/bottom_fill,/area)
+"aX" = (/turf/village/horizontal_roof_aphros/fill,/turf/village/horizontal_roof_aphros/bottom_right,/area)
+"aY" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/bottom_left,/area)
+"aZ" = (/turf/village/wall_aphros/middle_left,/area)
+"ba" = (/turf/village/wall_aphros/middle_right,/area)
+"bb" = (/obj/map/noDenseMarker,/turf/village/horizontal_roof_aphros/bottom_right,/area)
+"bc" = (/SmallPreview/Start,/turf,/area)
+"bd" = (/obj/map/castle/gate/open,/turf/village/wall_aphros/middle,/area)
+"be" = (/turf/village/wall_aphros/middle,/turf/village/roof_aphros/right_4,/BuildingDetails{building_category = "Aphros"; building_cost = 50000; building_desc = "A Church building."; building_guild = "Aphros"; building_name = "Aphros Church"; building_rent = 100; building_rent_upfront = 3000},/turf/village/roof_aphros/left_4,/area)
+"bf" = (/Building/Warper/Exterior,/obj/map/noDenseMarker,/turf/village/wall_aphros/middle,/area)
+
+(1,1,1) = {"
+aaababababababababacabababababababadar
+aaabababababababaeafagabababababababaa
+aaababababababaeahaiajagababababababaa
+aaabababababaeahahaiajajagabababababaa
+aaababababaeahahahakajajajagababababaa
+aaabababalahahahamanaoajajajapabababaa
+aaababaqavahahamasatauaoajajayawababaa
+aaaqaxaAazahamasataCatauaoajaBaRaxawaa
+aaaDaEaFazaGasaHaIaiaJaHauaKaBaLaEaMaa
+aaaDaEaFaNaOataIahakajaJataPaQaLaEaMaa
+aaaDaEaFaEaEaEahambeaoajaEaEaEaLaEaMaa
+aaaDaEaFaEaEaEaGasatauaKaEaEaEaLaEaMaa
+aaaDaEaSaTaUaUaOataVataPaUaUaWaXaEaMaa
+aaaYaTaUaZaVataZatatatbaataVbaaUaWbbaa
+aabcaZataZatataZbdbfatbaatatbaatbaabaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

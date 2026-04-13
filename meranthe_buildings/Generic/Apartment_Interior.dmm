@@ -1,0 +1,50 @@
+"a" = (/turf/void,/area)
+"b" = (/turf/house/roof/corner/br,/area)
+"c" = (/turf/house/roof/bottom,/area)
+"d" = (/turf/house/roof/corner/bl,/area)
+"e" = (/turf/house/roof/bottom_right,/area)
+"f" = (/MapLimit,/SmallPreview/End,/turf/void,/area)
+"g" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop/wall/bottom/middle,/area)
+"h" = (/turf/shop/wall/bottom/middle,/area)
+"i" = (/turf/house/roof/bottom_left,/area)
+"j" = (/turf/house/roof/right,/area)
+"k" = (/turf/shop/wall/bottom/middle,/obj/map/cave_light,/turf/village/delphinia_extra/windowbig_1,/area)
+"l" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop/wall/middle/right,/area)
+"m" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop_int/wall/middle/middle,/area)
+"n" = (/turf/shop_int/wall/middle/middle,/area)
+"o" = (/turf/shop/wall/middle/left,/area)
+"p" = (/turf/house/roof/left,/area)
+"q" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop_int/wall/bottom/middle,/area)
+"r" = (/turf/shop_int/wall/bottom/middle,/area)
+"s" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "tl_corner"; name = "house shadow corner"},/turf/shop_int/floor,/area)
+"t" = (/turf/shop_int/floor,/area)
+"u" = (/obj/generic_shadow/white{alpha = 50; color = "black"; icon_state = "full"; layer = 4},/turf/shop_int/floor,/area)
+"v" = (/BuildingDetails{building_category = "Expansion"; building_cost = 25000; building_desc = "An apartment room."; building_dynamic = 1; building_expansion = 1; building_guild = ""; building_interior = 1; building_name = "Small Apartment"; building_settlement_only = 0},/turf/shop_int/floor,/area)
+"w" = (/Building/Warper/Interior,/turf/shop_int/floor,/area)
+"A" = (/turf/house/roof/corner/tr,/area)
+"B" = (/turf/house/roof/top,/area)
+"C" = (/obj/map/DenseMarker,/turf/house/roof/top_right,/area)
+"E" = (/obj/map/DenseMarker,/turf/house/roof/top_left,/area)
+"F" = (/turf/house/roof/corner/tl,/area)
+"G" = (/obj/map/DenseMarker,/turf/house/roof/corner/tr,/area)
+"H" = (/obj/map/DenseMarker,/turf/house/roof/top,/area)
+"I" = (/obj/map/DenseMarker,/turf/house/roof/corner/tl,/area)
+"L" = (/SmallPreview/Start,/turf/void,/area)
+
+(1,1,1) = {"
+abcccccccccccdf
+beghkhhhhhkhhid
+jlmnnnnnnnnnnop
+jlqrrrrrrrrrrop
+jlsttttttttttop
+juttttttttttttp
+juttttttttttttp
+juttttttttttttp
+jutttttvttttttp
+juttttttttttttp
+juttttttttttttp
+juttttttttttttp
+juttttttttttttp
+ABBBBBCwEBBBBBF
+LaaaaaGHIaaaaaa
+"}

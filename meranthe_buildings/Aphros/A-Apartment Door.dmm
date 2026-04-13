@@ -1,0 +1,10 @@
+"a" = (/MapLimit,/turf,/area)
+"c" = (/turf,/area)
+"d" = (/Building/Warper/Exterior,/turf/village/aphros_extra/door_bottom,/area)
+"e" = (/BuildingDetails{building_category = "Expansion"; building_cost = 25000; building_desc = "An apartment room."; building_dynamic = 1; building_expansion = 1; building_guild = "Aphros"; building_interior = 0; building_name = "A-Apartment Door"; building_settlement_only = 0},/turf/village/aphros_extra/door_top,/area)
+
+(1,1,1) = {"
+cca
+cec
+cdc
+"}
