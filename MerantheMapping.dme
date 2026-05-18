@@ -108,10 +108,18 @@
 #include "code\npc\daemons\lightning.dm"
 #include "code\npc\daemons\water.dm"
 #include "code\npc\daemons\wind.dm"
-#include "meranthe_buildings\Delphinia\D-Apartment-B.dmm"
-#include "meranthe_buildings\Delphinia\D-Apartment-B_Interior.dmm"
-#include "meranthe_buildings\Delphinia\D-Manor.dmm"
-#include "meranthe_buildings\Delphinia\D-Manor_Interior.dmm"
+#include "maps\01_Meranthe.dmm"
+#include "maps\02_Interiors_City.dmm"
+#include "maps\03_Sewers.dmm"
+#include "maps\04_Caves.dmm"
+#include "maps\05_Gardens.dmm"
+#include "maps\06_Dungeons.dmm"
+#include "maps\interior_cells\07_tiny_small.dmm"
+#include "maps\interior_cells\08_average_large.dmm"
+#include "maps\interior_cells\09_huge.dmm"
+#include "maps\interior_cells\10_modest_moderate.dmm"
+#include "maps\interior_cells\11_fourty.dmm"
+#include "maps\xtra_maps\12_Arenas.dmm"
 // END_INCLUDE
 
 #ifdef USE_DEVMAP
