@@ -1,9 +1,9 @@
 // BEGIN_INTERNALS
 /*
 MAP_PLANE_MASTERS: 
-MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1787209400
-DIR: icons icons\map icons\map\turf icons\map\turf\industrial maps 
+MAP_ZOOM: 0.500
+LAST_COMPILE_TIME: 1787342528
+DIR: code code\map code\map\obj example_buildings icons icons\map icons\map\turf icons\map\turf\industrial maps maps\xtra_maps 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 516.1669
