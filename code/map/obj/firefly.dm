@@ -1,7 +1,7 @@
-obj/map/firefly
+/obj/map/critter/firefly
 	icon = 'icons/creatures/firefly.dmi'
 
-obj/map/firefly_evil
+/obj/map/critter/firefly
 	icon = 'icons/creatures/firefly.dmi'
 
 
