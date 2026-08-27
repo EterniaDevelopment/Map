@@ -7,8 +7,8 @@ DIR: code code\map code\map\obj example_buildings icons icons\map icons\map\turf
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 516.1669
-WINDOW: code\map\obj\firefly.dm
-FILE: code\map\obj\firefly.dm
+WINDOW: maps\01_Meranthe.dmm
+FILE: maps\01_Meranthe.dmm
 MAP_INSTANCE_MODE: copy
 */
 // END_INTERNALS
