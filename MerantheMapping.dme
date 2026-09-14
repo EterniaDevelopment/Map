@@ -33,6 +33,7 @@
 #include "code\map\alchemy.dm"
 #include "code\map\black_tower.dm"
 #include "code\map\dir_density.dm"
+#include "code\map\editor.dm"
 #include "code\map\forage.dm"
 #include "code\map\misc_alchemy.dm"
 #include "code\map\new_region.dm"
