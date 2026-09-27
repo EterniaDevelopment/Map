@@ -4438,7 +4438,7 @@
 "wKx" = (/obj/map/village/brown_rocks/six,/turf/mountain/rock,/turf/village/dirt/top_right,/area)
 "xfK" = (/turf/mountain/rock,/turf/village/dirt/top_right,/area)
 "xlU" = (/turf/cave_volcano/floor,/turf/cave_volcano/wall/bottom_lava/left,/area)
-"xmR" = (/obj/Warp{name = "DwarfMine_8"; Dest_ID = "DwarfMine_7"},/turf/cave_volcano/roof/top,/area)
+"xmR" = (/obj/Warp{name = "DwarfMine_8"; Dest_ID = "DwarfMine_7"},/obj/map/noDenseMarker,/turf/cave_volcano/roof/top,/area)
 "xrf" = (/obj/map/village/brown_rocks/six,/turf/mountain/rock,/turf/village/dirt/bottom_right,/area)
 "xsU" = (/turf/cave_volcano/roof/left,/area)
 "xuf" = (/obj/map/winter/rock/crack{density = 0},/turf/village/dirt/middle,/area)
