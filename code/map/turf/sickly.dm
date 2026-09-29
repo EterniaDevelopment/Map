@@ -31,7 +31,7 @@ turf
 			edge
 				icon='icons/map/turf/forest/grass_edge.dmi'
 
-		grass_edge
+		grass_edge_sickly
 			jointag = "grass"
 			icon='icons/map/turf/sickly/grass_edge.dmi'
 			top_left/icon_state="top_left"
