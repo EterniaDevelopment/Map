@@ -7,8 +7,8 @@ DIR: code code\map code\map\obj example_buildings icons icons\map icons\map\turf
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 516.1679
-WINDOW: maps\01_Meranthe.dmm;maps\04_Caves.dmm
-FILE: maps\04_Caves.dmm
+WINDOW: maps\01_Meranthe.dmm
+FILE: maps\01_Meranthe.dmm
 MAP_INSTANCE_MODE: copy
 */
 // END_INTERNALS
