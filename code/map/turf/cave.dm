@@ -460,6 +460,64 @@ turf
 			rock4/icon_state = "lava_rock_4"
 			rock5/icon_state = "lava_rock_5"
 
+		cave_extra
+			density=1
+			layer=OBJ_LAYER
+			icon='icons/map/turf/cave/cave_extra.dmi'
+			// Neither var does anything here; they exist so maps carry the values over to EterniaRP, which implements them
+			/// If TRUE, this tile was mapped over lava and gets the lava glow in-game
+			var/has_lava_light = FALSE
+			/// Direction(s) players can't exit this tile in, see /turf/var/dir_density in EterniaRP
+			var/dir_density = 0
+			cave_bottom
+				icon_state="cave_bottom"
+			cave_bottom_right
+				icon_state="cave_bottom_right"
+			cave_bottom_left
+				icon_state="cave_bottom_left"
+			cave_top_left
+				icon_state="cave_top_left"
+			cave_top_right
+				icon_state="cave_top_right"
+			silcave_bottom_left
+				icon_state="silcave_bottom_left"
+			silcave_bottom
+				icon_state="silcave_bottom"
+			silcave_bottom_right
+				icon_state="silcave_bottom_right"
+			silcave_top_left
+				icon_state="silcave_top_left"
+			silcave_top_right
+				icon_state="silcave_top_right"
+			silcave_top_left_2
+				icon_state="silcave_top_left_2"
+			silcave_top_right_2
+				icon_state="silcave_top_right_2"
+			sandcave_bottom_left
+				icon_state="sandcave_bottom_left"
+			sandcave_bottom
+				icon_state="sandcave_bottom"
+			sandcave_bottom_right
+				icon_state="sandcave_bottom_right"
+			sandcave_top_left
+				icon_state="sandcave_top_left"
+			sandcave_top_right
+				icon_state="sandcave_top_right"
+			sandcave_top_left_2
+				icon_state="sandcave_top_left_2"
+			sandcave_top_right_2
+				icon_state="sandcave_top_right_2"
+			dark
+				icon_state ="dark_bottom"
+				dark_bottom_left
+					icon_state ="dark_bottom_left"
+				dark_bottom_right
+					icon_state ="dark_bottom_right"
+				dark_top_left
+					icon_state ="dark_top_left"
+				dark_top_right
+					icon_state ="dark_top_right"
+
 	cave_dark
 		floor/icon='icons/map/turf/cave_dark/floor.dmi'
 		wall

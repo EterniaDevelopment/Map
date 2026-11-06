@@ -241,59 +241,6 @@ obj
 						OrientLayer(MOB_LAYER)
 						..()
 
-			cave_extra
-				density=1
-				icon='icons/map/turf/cave/cave_extra.dmi'
-				cave_bottom
-					icon_state="cave_bottom"
-				cave_bottom_right
-					icon_state="cave_bottom_right"
-				cave_bottom_left
-					icon_state="cave_bottom_left"
-				cave_top_left
-					icon_state="cave_top_left"
-				cave_top_right
-					icon_state="cave_top_right"
-				silcave_bottom_left
-					icon_state="silcave_bottom_left"
-				silcave_bottom
-					icon_state="silcave_bottom"
-				silcave_bottom_right
-					icon_state="silcave_bottom_right"
-				silcave_top_left
-					icon_state="silcave_top_left"
-				silcave_top_right
-					icon_state="silcave_top_right"
-				silcave_top_left_2
-					icon_state="silcave_top_left_2"
-				silcave_top_right_2
-					icon_state="silcave_top_right_2"
-				sandcave_bottom_left
-					icon_state="sandcave_bottom_left"
-				sandcave_bottom
-					icon_state="sandcave_bottom"
-				sandcave_bottom_right
-					icon_state="sandcave_bottom_right"
-				sandcave_top_left
-					icon_state="sandcave_top_left"
-				sandcave_top_right
-					icon_state="sandcave_top_right"
-				sandcave_top_left_2
-					icon_state="sandcave_top_left_2"
-				sandcave_top_right_2
-					icon_state="sandcave_top_right_2"
-				dark
-					icon_state ="dark_bottom"
-					dark_bottom_left
-						icon_state ="dark_bottom_left"
-					dark_bottom_right
-						icon_state ="dark_bottom_right"
-					dark_top_left
-						icon_state ="dark_top_left"
-					dark_top_right
-						icon_state ="dark_top_right"
-
-
 			lavafall
 				icon = 'icons/map/obj/cave_volcano/lavafall.dmi'
 				density = 0
